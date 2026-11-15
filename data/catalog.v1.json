@@ -1,0 +1,1221 @@
+{
+  "schema_version": 1,
+  "data_version": "gate1-draft30-20261115",
+  "kanjivg_version": "r20250816",
+  "provenance": "original_ai_draft_not_exam_copy",
+  "approval_status": "human_review_pending",
+  "kanji": [
+    {
+      "id": "k-4eba",
+      "character": "人",
+      "readings": [
+        "ひと",
+        "ジン",
+        "ニン"
+      ],
+      "meaning": "人間や人を表す",
+      "examples": [
+        {
+          "vocab_id": "v-e4babae789a9",
+          "word": "人物",
+          "reading": "じんぶつ"
+        }
+      ],
+      "kanjivg_key": "人",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-5165",
+      "character": "入",
+      "readings": [
+        "い-る",
+        "はい-る",
+        "ニュウ"
+      ],
+      "meaning": "中に入ること",
+      "examples": [
+        {
+          "vocab_id": "v-e585a5e5ada6",
+          "word": "入学",
+          "reading": "にゅうがく"
+        }
+      ],
+      "kanjivg_key": "入",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-65e5",
+      "character": "日",
+      "readings": [
+        "ひ",
+        "ニチ",
+        "ジツ"
+      ],
+      "meaning": "日・太陽・一日のこと",
+      "examples": [
+        {
+          "vocab_id": "v-e697a5e58589",
+          "word": "日光",
+          "reading": "にっこう"
+        }
+      ],
+      "kanjivg_key": "日",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-76ee",
+      "character": "目",
+      "readings": [
+        "め",
+        "モク"
+      ],
+      "meaning": "目や、めあて",
+      "examples": [
+        {
+          "vocab_id": "v-e79baee79a84",
+          "word": "目的",
+          "reading": "もくてき"
+        }
+      ],
+      "kanjivg_key": "目",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-571f",
+      "character": "土",
+      "readings": [
+        "つち",
+        "ド",
+        "ト"
+      ],
+      "meaning": "土・地面",
+      "examples": [
+        {
+          "vocab_id": "v-e59c9fe59cb0",
+          "word": "土地",
+          "reading": "とち"
+        }
+      ],
+      "kanjivg_key": "土",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-58eb",
+      "character": "士",
+      "readings": [
+        "シ"
+      ],
+      "meaning": "特定の資格や立場の人",
+      "examples": [
+        {
+          "vocab_id": "v-e6ada6e5a3ab",
+          "word": "武士",
+          "reading": "ぶし"
+        }
+      ],
+      "kanjivg_key": "士",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-672a",
+      "character": "未",
+      "readings": [
+        "ミ"
+      ],
+      "meaning": "まだ、その状態になっていないこと",
+      "examples": [
+        {
+          "vocab_id": "v-e69caae69da5",
+          "word": "未来",
+          "reading": "みらい"
+        }
+      ],
+      "kanjivg_key": "未",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-672b",
+      "character": "末",
+      "readings": [
+        "すえ",
+        "マツ"
+      ],
+      "meaning": "物事の終わり・端",
+      "examples": [
+        {
+          "vocab_id": "v-e980b1e69cab",
+          "word": "週末",
+          "reading": "しゅうまつ"
+        }
+      ],
+      "kanjivg_key": "末",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-6301",
+      "character": "持",
+      "readings": [
+        "も-つ",
+        "ジ"
+      ],
+      "meaning": "手に持つ・保つ",
+      "examples": [
+        {
+          "vocab_id": "v-e68c81e58f82",
+          "word": "持参",
+          "reading": "じさん"
+        }
+      ],
+      "kanjivg_key": "持",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-5f85",
+      "character": "待",
+      "readings": [
+        "ま-つ",
+        "タイ"
+      ],
+      "meaning": "人や物事を待つ",
+      "examples": [
+        {
+          "vocab_id": "v-e69c9fe5be85",
+          "word": "期待",
+          "reading": "きたい"
+        }
+      ],
+      "kanjivg_key": "待",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-6a5f",
+      "character": "機",
+      "readings": [
+        "キ"
+      ],
+      "meaning": "機械・機会・はたらく仕組み",
+      "examples": [
+        {
+          "vocab_id": "v-e6a99fe4bc9a",
+          "word": "機会",
+          "reading": "きかい"
+        }
+      ],
+      "kanjivg_key": "機",
+      "review_status": "human_required"
+    },
+    {
+      "id": "k-8b70",
+      "character": "議",
+      "readings": [
+        "ギ"
+      ],
+      "meaning": "意見を出し合い話し合う",
+      "examples": [
+        {
+          "vocab_id": "v-e4bc9ae8adb0",
+          "word": "会議",
+          "reading": "かいぎ"
+        }
+      ],
+      "kanjivg_key": "議",
+      "review_status": "human_required"
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v-e4babae58fa3",
+      "word": "人口",
+      "reading": "じんこう",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e585a5e5ada6",
+      "word": "入学",
+      "reading": "にゅうがく",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e697a5e58589",
+      "word": "日光",
+      "reading": "にっこう",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e79baee79a84",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e59c9fe59cb0",
+      "word": "土地",
+      "reading": "とち",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e6ada6e5a3ab",
+      "word": "武士",
+      "reading": "ぶし",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e69caae69da5",
+      "word": "未来",
+      "reading": "みらい",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e980b1e69cab",
+      "word": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e68c81e58f82",
+      "word": "持参",
+      "reading": "じさん",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e69c9fe5be85",
+      "word": "期待",
+      "reading": "きたい",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e6a99fe4bc9a",
+      "word": "機会",
+      "reading": "きかい",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e4bc9ae8adb0",
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e4babae69f84",
+      "word": "人柄",
+      "reading": "ひとがら",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e585a5e58fa3",
+      "word": "入口",
+      "reading": "いりぐち",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e697a5e8aa8c",
+      "word": "日誌",
+      "reading": "にっし",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e6b3a8e79bae",
+      "word": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e59c9fe58fb0",
+      "word": "土台",
+      "reading": "どだい",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e58d9ae5a3ab",
+      "word": "博士",
+      "reading": "はかせ",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e5be85e6a99f",
+      "word": "待機",
+      "reading": "たいき",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e8adb0e8ab96",
+      "word": "議論",
+      "reading": "ぎろん",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    },
+    {
+      "id": "v-e6a99fe6a2b0",
+      "word": "機械",
+      "reading": "きかい",
+      "meaning": "",
+      "tags": [
+        "common-vocabulary"
+      ],
+      "review_status": "human_required"
+    }
+  ],
+  "problems": [
+    {
+      "id": "p-r-001",
+      "kind": "reading",
+      "vocab_id": "v-e4babae58fa3",
+      "target_kanji": [
+        "人"
+      ],
+      "sentence_before": "この町の",
+      "sentence_target": "人口",
+      "sentence_after": "は少しずつ増えている。",
+      "answer": "じんこう",
+      "accepted_answers": [
+        "じんこう"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-002",
+      "kind": "reading",
+      "vocab_id": "v-e585a5e5ada6",
+      "target_kanji": [
+        "入"
+      ],
+      "sentence_before": "春から高校に",
+      "sentence_target": "入学",
+      "sentence_after": "する予定だ。",
+      "answer": "にゅうがく",
+      "accepted_answers": [
+        "にゅうがく"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-003",
+      "kind": "reading",
+      "vocab_id": "v-e697a5e58589",
+      "target_kanji": [
+        "日"
+      ],
+      "sentence_before": "植物は",
+      "sentence_target": "日光",
+      "sentence_after": "を受けて育つ。",
+      "answer": "にっこう",
+      "accepted_answers": [
+        "にっこう"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-004",
+      "kind": "reading",
+      "vocab_id": "v-e79baee79a84",
+      "target_kanji": [
+        "目"
+      ],
+      "sentence_before": "まず話し合いの",
+      "sentence_target": "目的",
+      "sentence_after": "を確かめた。",
+      "answer": "もくてき",
+      "accepted_answers": [
+        "もくてき"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-005",
+      "kind": "reading",
+      "vocab_id": "v-e59c9fe59cb0",
+      "target_kanji": [
+        "土"
+      ],
+      "sentence_before": "駅の近くに広い",
+      "sentence_target": "土地",
+      "sentence_after": "がある。",
+      "answer": "とち",
+      "accepted_answers": [
+        "とち"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-006",
+      "kind": "reading",
+      "vocab_id": "v-e6ada6e5a3ab",
+      "target_kanji": [
+        "士"
+      ],
+      "sentence_before": "歴史資料で昔の",
+      "sentence_target": "武士",
+      "sentence_after": "の暮らしを調べた。",
+      "answer": "ぶし",
+      "accepted_answers": [
+        "ぶし"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-007",
+      "kind": "reading",
+      "vocab_id": "v-e69caae69da5",
+      "target_kanji": [
+        "未"
+      ],
+      "sentence_before": "自分の",
+      "sentence_target": "未来",
+      "sentence_after": "について家族と話した。",
+      "answer": "みらい",
+      "accepted_answers": [
+        "みらい"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-008",
+      "kind": "reading",
+      "vocab_id": "v-e980b1e69cab",
+      "target_kanji": [
+        "末"
+      ],
+      "sentence_before": "今度の",
+      "sentence_target": "週末",
+      "sentence_after": "は図書館へ行く。",
+      "answer": "しゅうまつ",
+      "accepted_answers": [
+        "しゅうまつ"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-009",
+      "kind": "reading",
+      "vocab_id": "v-e68c81e58f82",
+      "target_kanji": [
+        "持"
+      ],
+      "sentence_before": "明日は水筒を",
+      "sentence_target": "持参",
+      "sentence_after": "してください。",
+      "answer": "じさん",
+      "accepted_answers": [
+        "じさん"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-010",
+      "kind": "reading",
+      "vocab_id": "v-e69c9fe5be85",
+      "target_kanji": [
+        "待"
+      ],
+      "sentence_before": "大会での活躍を",
+      "sentence_target": "期待",
+      "sentence_after": "している。",
+      "answer": "きたい",
+      "accepted_answers": [
+        "きたい"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-011",
+      "kind": "reading",
+      "vocab_id": "v-e6a99fe4bc9a",
+      "target_kanji": [
+        "機"
+      ],
+      "sentence_before": "意見を発表する",
+      "sentence_target": "機会",
+      "sentence_after": "があった。",
+      "answer": "きかい",
+      "accepted_answers": [
+        "きかい"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-012",
+      "kind": "reading",
+      "vocab_id": "v-e4bc9ae8adb0",
+      "target_kanji": [
+        "議"
+      ],
+      "sentence_before": "係の",
+      "sentence_target": "会議",
+      "sentence_after": "が午後に開かれる。",
+      "answer": "かいぎ",
+      "accepted_answers": [
+        "かいぎ"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-013",
+      "kind": "reading",
+      "vocab_id": "v-e4babae69f84",
+      "target_kanji": [
+        "人"
+      ],
+      "sentence_before": "先生の温かな",
+      "sentence_target": "人柄",
+      "sentence_after": "に親しみを感じた。",
+      "answer": "ひとがら",
+      "accepted_answers": [
+        "ひとがら"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-014",
+      "kind": "reading",
+      "vocab_id": "v-e585a5e58fa3",
+      "target_kanji": [
+        "入"
+      ],
+      "sentence_before": "建物の",
+      "sentence_target": "入口",
+      "sentence_after": "で友人を待った。",
+      "answer": "いりぐち",
+      "accepted_answers": [
+        "いりぐち"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-015",
+      "kind": "reading",
+      "vocab_id": "v-e697a5e8aa8c",
+      "target_kanji": [
+        "日"
+      ],
+      "sentence_before": "毎日の活動を",
+      "sentence_target": "日誌",
+      "sentence_after": "に記録する。",
+      "answer": "にっし",
+      "accepted_answers": [
+        "にっし"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-016",
+      "kind": "reading",
+      "vocab_id": "v-e6b3a8e79bae",
+      "target_kanji": [
+        "目"
+      ],
+      "sentence_before": "新しい研究成果に",
+      "sentence_target": "注目",
+      "sentence_after": "が集まった。",
+      "answer": "ちゅうもく",
+      "accepted_answers": [
+        "ちゅうもく"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-017",
+      "kind": "reading",
+      "vocab_id": "v-e59c9fe58fb0",
+      "target_kanji": [
+        "土"
+      ],
+      "sentence_before": "小屋を建てる前に",
+      "sentence_target": "土台",
+      "sentence_after": "を固めた。",
+      "answer": "どだい",
+      "accepted_answers": [
+        "どだい"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-018",
+      "kind": "reading",
+      "vocab_id": "v-e58d9ae5a3ab",
+      "target_kanji": [
+        "士"
+      ],
+      "sentence_before": "その",
+      "sentence_target": "博士",
+      "sentence_after": "は海の生物を研究している。",
+      "answer": "はかせ",
+      "accepted_answers": [
+        "はかせ"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-019",
+      "kind": "reading",
+      "vocab_id": "v-e5be85e6a99f",
+      "target_kanji": [
+        "待",
+        "機"
+      ],
+      "sentence_before": "出発の合図があるまで",
+      "sentence_target": "待機",
+      "sentence_after": "する。",
+      "answer": "たいき",
+      "accepted_answers": [
+        "たいき"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-r-020",
+      "kind": "reading",
+      "vocab_id": "v-e8adb0e8ab96",
+      "target_kanji": [
+        "議"
+      ],
+      "sentence_before": "班で一つの課題を",
+      "sentence_target": "議論",
+      "sentence_after": "した。",
+      "answer": "ぎろん",
+      "accepted_answers": [
+        "ぎろん"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-reading"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_reading",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-001",
+      "kind": "writing",
+      "vocab_id": "v-e69caae69da5",
+      "target_kanji": [
+        "未"
+      ],
+      "sentence_before": "自分の",
+      "sentence_target": "みらい",
+      "sentence_after": "の夢を描いた。",
+      "answer": "未来",
+      "accepted_answers": [
+        "未来"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-002",
+      "kind": "writing",
+      "vocab_id": "v-e980b1e69cab",
+      "target_kanji": [
+        "末"
+      ],
+      "sentence_before": "今度の",
+      "sentence_target": "しゅうまつ",
+      "sentence_after": "に遠足の準備をする。",
+      "answer": "週末",
+      "accepted_answers": [
+        "週末"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-003",
+      "kind": "writing",
+      "vocab_id": "v-e68c81e58f82",
+      "target_kanji": [
+        "持"
+      ],
+      "sentence_before": "筆記用具を",
+      "sentence_target": "じさん",
+      "sentence_after": "するように伝えた。",
+      "answer": "持参",
+      "accepted_answers": [
+        "持参"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-004",
+      "kind": "writing",
+      "vocab_id": "v-e5be85e6a99f",
+      "target_kanji": [
+        "待",
+        "機"
+      ],
+      "sentence_before": "合図が出るまで教室で",
+      "sentence_target": "たいき",
+      "sentence_after": "した。",
+      "answer": "待機",
+      "accepted_answers": [
+        "待機"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-005",
+      "kind": "writing",
+      "vocab_id": "v-e6a99fe6a2b0",
+      "target_kanji": [
+        "機"
+      ],
+      "sentence_before": "工場で新しい",
+      "sentence_target": "きかい",
+      "sentence_after": "が動き始めた。",
+      "answer": "機械",
+      "accepted_answers": [
+        "機械"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-006",
+      "kind": "writing",
+      "vocab_id": "v-e4bc9ae8adb0",
+      "target_kanji": [
+        "議"
+      ],
+      "sentence_before": "生徒会の",
+      "sentence_target": "かいぎ",
+      "sentence_after": "で議題を決めた。",
+      "answer": "会議",
+      "accepted_answers": [
+        "会議"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-007",
+      "kind": "writing",
+      "vocab_id": "v-e59c9fe59cb0",
+      "target_kanji": [
+        "土"
+      ],
+      "sentence_before": "学校の近くの",
+      "sentence_target": "とち",
+      "sentence_after": "を調べた。",
+      "answer": "土地",
+      "accepted_answers": [
+        "土地"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-008",
+      "kind": "writing",
+      "vocab_id": "v-e6ada6e5a3ab",
+      "target_kanji": [
+        "士"
+      ],
+      "sentence_before": "その城を守っていた",
+      "sentence_target": "ぶし",
+      "sentence_after": "について学んだ。",
+      "answer": "武士",
+      "accepted_answers": [
+        "武士"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-009",
+      "kind": "writing",
+      "vocab_id": "v-e585a5e5ada6",
+      "target_kanji": [
+        "入"
+      ],
+      "sentence_before": "来年の春に高校へ",
+      "sentence_target": "にゅうがく",
+      "sentence_after": "する。",
+      "answer": "入学",
+      "accepted_answers": [
+        "入学"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    },
+    {
+      "id": "p-w-010",
+      "kind": "writing",
+      "vocab_id": "v-e79baee79a84",
+      "target_kanji": [
+        "目"
+      ],
+      "sentence_before": "実験の",
+      "sentence_target": "もくてき",
+      "sentence_after": "を最初に書いた。",
+      "answer": "目的",
+      "accepted_answers": [
+        "目的"
+      ],
+      "tags": [
+        "junior-high-exam",
+        "original-ai-draft",
+        "sentence-writing"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft"
+    }
+  ]
+}
