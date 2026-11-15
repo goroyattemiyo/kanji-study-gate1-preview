@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#3554ef">
+  <meta name="description" content="5分から始める漢字の入試対策。自分の力で読める・書けるを目指そう。">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./assets/icon-192.png">
+  <link rel="stylesheet" href="./assets/app.css">
+  <title>漢字を、書けるまで。｜5分から始める入試対策</title>
+</head>
+<body>
+<div class="shell">
+  <header class="topbar"><div class="brand"><span class="brand-icon" aria-hidden="true">字</span><div><strong>漢字を、書けるまで。</strong><small>受験まで、毎日ちょっとずつ。</small></div></div><span id="offline" class="offline" aria-live="polite"></span></header>
+  <nav class="nav" aria-label="メインメニュー">
+    <button type="button" data-view="home" class="active">ホーム</button>
+    <button type="button" data-view="learn">学習カード</button>
+    <button type="button" data-view="quiz">読みテスト</button>
+    <button type="button" data-view="backup">進捗・設定</button>
+  </nav>
+  <main id="app" tabindex="-1" aria-live="off"><div class="loading">準備しているよ…</div></main>
+  <footer>進捗はこの端末に保存されます · 漢字問題は確認中の検証データです</footer>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
