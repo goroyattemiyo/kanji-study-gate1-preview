@@ -1,0 +1,114 @@
+{
+  "version": "0.6.0",
+  "source": "KANJIDIC2 2026-04-06 and KanjiVG r20250816",
+  "allocation": "MEXT elementary grade numbers, secondary grades are frequency-based approximations",
+  "half": "Split into halves in fixed list order; NOT an official school-term assignment",
+  "grades": [
+    {
+      "grade": "小1",
+      "count": 80,
+      "first_half": 40,
+      "second_half": 40
+    },
+    {
+      "grade": "小2",
+      "count": 160,
+      "first_half": 80,
+      "second_half": 80
+    },
+    {
+      "grade": "小3",
+      "count": 200,
+      "first_half": 100,
+      "second_half": 100
+    },
+    {
+      "grade": "小4",
+      "count": 202,
+      "first_half": 101,
+      "second_half": 101
+    },
+    {
+      "grade": "小5",
+      "count": 193,
+      "first_half": 97,
+      "second_half": 96
+    },
+    {
+      "grade": "小6",
+      "count": 191,
+      "first_half": 96,
+      "second_half": 95
+    },
+    {
+      "grade": "中1",
+      "count": 370,
+      "first_half": 185,
+      "second_half": 185
+    },
+    {
+      "grade": "中2",
+      "count": 370,
+      "first_half": 185,
+      "second_half": 185
+    },
+    {
+      "grade": "中3",
+      "count": 370,
+      "first_half": 185,
+      "second_half": 185
+    }
+  ],
+  "total": 2136,
+  "missing_paths": 0,
+  "missing_readings": 0,
+  "stroke_count_mismatches": [
+    {
+      "character": "葛",
+      "kanjidic2": 11,
+      "kanjivg": 12
+    },
+    {
+      "character": "賭",
+      "kanjidic2": 15,
+      "kanjivg": 16
+    },
+    {
+      "character": "謎",
+      "kanjidic2": 16,
+      "kanjivg": 17
+    },
+    {
+      "character": "牙",
+      "kanjidic2": 5,
+      "kanjivg": 4
+    },
+    {
+      "character": "餅",
+      "kanjidic2": 14,
+      "kanjivg": 15
+    },
+    {
+      "character": "餌",
+      "kanjidic2": 14,
+      "kanjivg": 15
+    },
+    {
+      "character": "僅",
+      "kanjidic2": 12,
+      "kanjivg": 13
+    },
+    {
+      "character": "遜",
+      "kanjidic2": 13,
+      "kanjivg": 14
+    },
+    {
+      "character": "遡",
+      "kanjidic2": 13,
+      "kanjivg": 14
+    }
+  ],
+  "kanjidic2_blob_sha1": "b1bad3d556d0a8509a0c15093c4052eafce374ff",
+  "kanjivg_zip_sha256": "69a2944ec1183086fdee5ba9c1f48bc306b867480a95b2f337f3203bf50689a3"
+}
