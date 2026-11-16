@@ -1,0 +1,5928 @@
+{
+  "schema_version": 1,
+  "grade": "中3",
+  "source_cards_sha256": "e6af08c3e60661a3ccea7b8700167fc5dbe08436d3ea7384f062080b2dcfb984",
+  "human_review_policy": "reviewed_true_only",
+  "questions": [
+    {
+      "id": "reading-v080:中3:U+5CE1:on",
+      "grade": "中3",
+      "character": "峡",
+      "reading_kind": "on",
+      "correct_answer": "キョウ",
+      "choices": [
+        "キョウ",
+        "トツ",
+        "コ",
+        "セイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "240cadd2570f23075521fecf5889c749d59ecd075818dbdfe6df75b76f6c9aa5"
+    },
+    {
+      "id": "reading-v080:中3:U+4FF8:on",
+      "grade": "中3",
+      "character": "俸",
+      "reading_kind": "on",
+      "correct_answer": "ホウ",
+      "choices": [
+        "コウ",
+        "ホウ",
+        "ラン",
+        "ジョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "84e54d49ba3c577176def1d877593797fcdbd0c783aa472119df7617fe490317"
+    },
+    {
+      "id": "reading-v080:中3:U+5398:on",
+      "grade": "中3",
+      "character": "厘",
+      "reading_kind": "on",
+      "correct_answer": "リン",
+      "choices": [
+        "スイ",
+        "タン",
+        "ロク",
+        "リン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "54d6e2df2167f462e46184c086625f1e69a0cee705bead22179fd150bcd3c86a"
+    },
+    {
+      "id": "reading-v080:中3:U+5CF0:kun",
+      "grade": "中3",
+      "character": "峰",
+      "reading_kind": "kun",
+      "correct_answer": "ね",
+      "choices": [
+        "すすめる",
+        "ね",
+        "へぐ",
+        "くらい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9b7fc0b6905f555f37c1d219cf49b90d61de30ab05e0c73ee985f2596c7cdc24"
+    },
+    {
+      "id": "reading-v080:中3:U+91B8:on",
+      "grade": "中3",
+      "character": "醸",
+      "reading_kind": "on",
+      "correct_answer": "ジョウ",
+      "choices": [
+        "エ",
+        "チョウ",
+        "ジュ",
+        "ジョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d5fbcbc80d10395ae80edb335093265b9ebade61526823961acf98244e643e43"
+    },
+    {
+      "id": "reading-v080:中3:U+5F14:kun",
+      "grade": "中3",
+      "character": "弔",
+      "reading_kind": "kun",
+      "correct_answer": "とぶらう",
+      "choices": [
+        "とぶらう",
+        "わずか",
+        "やせる",
+        "たとえる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e1ff34781ba437c72f21474400882e1cff7ebcf0ee269f679193056192ec8dc0"
+    },
+    {
+      "id": "reading-v080:中3:U+4E59:on",
+      "grade": "中3",
+      "character": "乙",
+      "reading_kind": "on",
+      "correct_answer": "イツ",
+      "choices": [
+        "トウ",
+        "ゲイ",
+        "ボウ",
+        "イツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b908c3b70e5dd3c8cdf2b468da7d195f5f57bf9ab5c31bba481d79890a7333b4"
+    },
+    {
+      "id": "reading-v080:中3:U+6C41:kun",
+      "grade": "中3",
+      "character": "汁",
+      "reading_kind": "kun",
+      "correct_answer": "しる",
+      "choices": [
+        "あえて",
+        "うつ",
+        "しる",
+        "かすか"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9b731e78ca6231222907f4c983cc86389d89e54a724505acb35c14bec8067f0d"
+    },
+    {
+      "id": "reading-v080:中3:U+5C3C:on",
+      "grade": "中3",
+      "character": "尼",
+      "reading_kind": "on",
+      "correct_answer": "ニ",
+      "choices": [
+        "ボウ",
+        "ニ",
+        "ラ",
+        "ユウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0e2f5cc6e15897dfb6473da4e59c6bef10e9031a5fd973b65a165f59cfdb2915"
+    },
+    {
+      "id": "reading-v080:中3:U+904D:kun",
+      "grade": "中3",
+      "character": "遍",
+      "reading_kind": "kun",
+      "correct_answer": "あまねく",
+      "choices": [
+        "きれ",
+        "あまねく",
+        "なげく",
+        "あざむく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c8122fa6424f4af86cea54d6c1f24fa729081230ec797f6f6114ff21437ba463"
+    },
+    {
+      "id": "reading-v080:中3:U+8861:on",
+      "grade": "中3",
+      "character": "衡",
+      "reading_kind": "on",
+      "correct_answer": "コウ",
+      "choices": [
+        "コウ",
+        "サン",
+        "ホ",
+        "カク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "199b8eb6d83fede2d511818493741879452099a4bf0d1f2800ce5f09867ba353"
+    },
+    {
+      "id": "reading-v080:中3:U+85AB:kun",
+      "grade": "中3",
+      "character": "薫",
+      "reading_kind": "kun",
+      "correct_answer": "かおる",
+      "choices": [
+        "くらい",
+        "かおる",
+        "しとやか",
+        "たむろ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e912067e0429d63e41ae8686d7992f376d49faa02183cfbaf1e41b2bda7aa4b8"
+    },
+    {
+      "id": "reading-v080:中3:U+74E6:on",
+      "grade": "中3",
+      "character": "瓦",
+      "reading_kind": "on",
+      "correct_answer": "ガ",
+      "choices": [
+        "ガイ",
+        "ガ",
+        "カ",
+        "エン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "152fa0cf7a2569ac9aa5846abd149974b9d513f923ba92c1f5bcc9f848d7ccac"
+    },
+    {
+      "id": "reading-v080:中3:U+731F:kun",
+      "grade": "中3",
+      "character": "猟",
+      "reading_kind": "kun",
+      "correct_answer": "かり",
+      "choices": [
+        "やつ",
+        "すぐれる",
+        "ただし",
+        "かり"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0dae7612de122b6ad39c2c43c57505aa7e8d0bcd7fa30970bedd2d45eff536bd"
+    },
+    {
+      "id": "reading-v080:中3:U+6B3E:on",
+      "grade": "中3",
+      "character": "款",
+      "reading_kind": "on",
+      "correct_answer": "カン",
+      "choices": [
+        "サク",
+        "カン",
+        "コ",
+        "グ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "20603643c5a85971fa69a141df4e678eb8372791d8f6f47ad3c4d4bbeece4d53"
+    },
+    {
+      "id": "reading-v080:中3:U+95B2:kun",
+      "grade": "中3",
+      "character": "閲",
+      "reading_kind": "kun",
+      "correct_answer": "けみする",
+      "choices": [
+        "くぼむ",
+        "さます",
+        "こう",
+        "けみする"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "96ffb907fefd292f5aba43393757172671163b8d5f9e8ecec8ac074d890d536c"
+    },
+    {
+      "id": "reading-v080:中3:U+5075:on",
+      "grade": "中3",
+      "character": "偵",
+      "reading_kind": "on",
+      "correct_answer": "テイ",
+      "choices": [
+        "カイ",
+        "テイ",
+        "ロウ",
+        "シュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "54df53cfce62dc92af4af43a3e2fdcadb9c2fbee7ec45b235f2ec0d8ea6ccf3f"
+    },
+    {
+      "id": "reading-v080:中3:U+559D:on",
+      "grade": "中3",
+      "character": "喝",
+      "reading_kind": "on",
+      "correct_answer": "カツ",
+      "choices": [
+        "カツ",
+        "チョク",
+        "カ",
+        "ロ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e767522aa8afc8f3435d8193b0131f06a87199c349b29c46f113cf94e5ae4ee2"
+    },
+    {
+      "id": "reading-v080:中3:U+6562:on",
+      "grade": "中3",
+      "character": "敢",
+      "reading_kind": "on",
+      "correct_answer": "カン",
+      "choices": [
+        "オン",
+        "カン",
+        "オツ",
+        "ショウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8f60c34ee903aa1091302979cb55e0cb6e74ee03a6555017171967fd1492dcfc"
+    },
+    {
+      "id": "reading-v080:中3:U+80CE:on",
+      "grade": "中3",
+      "character": "胎",
+      "reading_kind": "on",
+      "correct_answer": "タイ",
+      "choices": [
+        "タイ",
+        "カイ",
+        "ハン",
+        "ド"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c86a217e16d41b512e6441a3e78e3d1e92ea6539b50fde371603e1e8e0e04305"
+    },
+    {
+      "id": "reading-v080:中3:U+9175:on",
+      "grade": "中3",
+      "character": "酵",
+      "reading_kind": "on",
+      "correct_answer": "コウ",
+      "choices": [
+        "ラ",
+        "クツ",
+        "ハン",
+        "コウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "75fe844bb78aaf44cbf8404f926e4095c341d1bf58c6db3fab32311f6e2b6117"
+    },
+    {
+      "id": "reading-v080:中3:U+61A4:kun",
+      "grade": "中3",
+      "character": "憤",
+      "reading_kind": "kun",
+      "correct_answer": "いきどおる",
+      "choices": [
+        "いわや",
+        "いきどおる",
+        "くし",
+        "おおむね"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "56940a1609371bf89a8a2626f7a028622aacac85f8594da089038b02c9bb457c"
+    },
+    {
+      "id": "reading-v080:中3:U+8C5A:on",
+      "grade": "中3",
+      "character": "豚",
+      "reading_kind": "on",
+      "correct_answer": "トン",
+      "choices": [
+        "オク",
+        "リツ",
+        "ダ",
+        "トン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "547b2392d1ddd216d318b9a2386d19a97ac9087a79facf4d833bfbdff70b6d35"
+    },
+    {
+      "id": "reading-v080:中3:U+906E:kun",
+      "grade": "中3",
+      "character": "遮",
+      "reading_kind": "kun",
+      "correct_answer": "さえぎる",
+      "choices": [
+        "くもる",
+        "むね",
+        "さえぎる",
+        "はれもの"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "450b7a069f7865b79d538906a54fbae48b0e645dc05e8074da7a61c1a941e0b1"
+    },
+    {
+      "id": "reading-v080:中3:U+6249:on",
+      "grade": "中3",
+      "character": "扉",
+      "reading_kind": "on",
+      "correct_answer": "ヒ",
+      "choices": [
+        "ヨウ",
+        "ヒ",
+        "ユ",
+        "ド"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c301dc0466bf892aea8f30dc10ba50b89bab751b44820a7019896a2b19d956e6"
+    },
+    {
+      "id": "reading-v080:中3:U+786B:on",
+      "grade": "中3",
+      "character": "硫",
+      "reading_kind": "on",
+      "correct_answer": "リュウ",
+      "choices": [
+        "シュ",
+        "ソ",
+        "サン",
+        "リュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d9694c71bd3ea21c8fce1a8f2df3a41ff6965a76c1ad7c4f26492c740f4307c1"
+    },
+    {
+      "id": "reading-v080:中3:U+8D66:on",
+      "grade": "中3",
+      "character": "赦",
+      "reading_kind": "on",
+      "correct_answer": "シャ",
+      "choices": [
+        "オン",
+        "シャ",
+        "メン",
+        "ホ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f02bd0bbd8406b053114be75acf6e76939a96bbd3860fc183c36bac727fdffb4"
+    },
+    {
+      "id": "reading-v080:中3:U+632B:kun",
+      "grade": "中3",
+      "character": "挫",
+      "reading_kind": "kun",
+      "correct_answer": "くじく",
+      "choices": [
+        "おきな",
+        "かなう",
+        "まがい",
+        "くじく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0d9d36cd840e1abf3607069771f392c5131cbdc62931a1b2a5ef93fd7962901f"
+    },
+    {
+      "id": "reading-v080:中3:U+631F:on",
+      "grade": "中3",
+      "character": "挟",
+      "reading_kind": "on",
+      "correct_answer": "キョウ",
+      "choices": [
+        "シ",
+        "キョウ",
+        "ニ",
+        "キツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "539382cf898bcb13e0ef42301a1bcbf9210a42a63ae122bd39fd42472ec14afd"
+    },
+    {
+      "id": "reading-v080:中3:U+7A83:kun",
+      "grade": "中3",
+      "character": "窃",
+      "reading_kind": "kun",
+      "correct_answer": "ぬすむ",
+      "choices": [
+        "にわかに",
+        "あたかも",
+        "はずかしい",
+        "ぬすむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "61c328fd011598fe910beae102c729c9c023c9efd5be603f70f3aaca8344e4fc"
+    },
+    {
+      "id": "reading-v080:中3:U+6CE1:on",
+      "grade": "中3",
+      "character": "泡",
+      "reading_kind": "on",
+      "correct_answer": "ホウ",
+      "choices": [
+        "チ",
+        "デキ",
+        "ト",
+        "ホウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4d6a5da40bcf1da51d65e1069782816cac196724978dc0382dea24e953ba90bc"
+    },
+    {
+      "id": "reading-v080:中3:U+53C8:kun",
+      "grade": "中3",
+      "character": "又",
+      "reading_kind": "kun",
+      "correct_answer": "また",
+      "choices": [
+        "うつる",
+        "かしこし",
+        "また",
+        "でく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2185271edc2c43cb5543d5984d6aa8c510fca3c07b2b1879a13444a71c01d3b7"
+    },
+    {
+      "id": "reading-v080:中3:U+6168:on",
+      "grade": "中3",
+      "character": "慨",
+      "reading_kind": "on",
+      "correct_answer": "ガイ",
+      "choices": [
+        "ユ",
+        "ヘイ",
+        "ジョク",
+        "ガイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f8bee92410481c1c154696facc63260ebd0510e0ba6c9129ccf96ea724d08b82"
+    },
+    {
+      "id": "reading-v080:中3:U+7D21:kun",
+      "grade": "中3",
+      "character": "紡",
+      "reading_kind": "kun",
+      "correct_answer": "つむぐ",
+      "choices": [
+        "はて",
+        "ぼこ",
+        "うすづく",
+        "つむぐ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "cdf612301fdb1f666de9e706d72c654df15d5cf37f958981d629e2afb2bf7bff"
+    },
+    {
+      "id": "reading-v080:中3:U+6068:on",
+      "grade": "中3",
+      "character": "恨",
+      "reading_kind": "on",
+      "correct_answer": "コン",
+      "choices": [
+        "コン",
+        "ベイ",
+        "ダ",
+        "ヘイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "937889c2b83cf6fe017edaad48acbebb84b881e70564d05aa2aee40ff905f8ef"
+    },
+    {
+      "id": "reading-v080:中3:U+80AA:on",
+      "grade": "中3",
+      "character": "肪",
+      "reading_kind": "on",
+      "correct_answer": "ボウ",
+      "choices": [
+        "ハツ",
+        "ボウ",
+        "ヘイ",
+        "モク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4ea2ca0786a6a062d238019aebe3de438fcde994b287db63df73308f500980f2"
+    },
+    {
+      "id": "reading-v080:中3:U+6276:on",
+      "grade": "中3",
+      "character": "扶",
+      "reading_kind": "on",
+      "correct_answer": "フ",
+      "choices": [
+        "ソウ",
+        "トン",
+        "フ",
+        "モ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "85f077c1a32aaf4af1bf92a6765c45b9f89e72670e111dd0e425379d76a0c9f1"
+    },
+    {
+      "id": "reading-v080:中3:U+622F:kun",
+      "grade": "中3",
+      "character": "戯",
+      "reading_kind": "kun",
+      "correct_answer": "ざれる",
+      "choices": [
+        "ひねくる",
+        "はげる",
+        "しぼむ",
+        "ざれる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8498e9654053de078509c0131a54743bf3345c1769a0292546f5d832b21ea6d2"
+    },
+    {
+      "id": "reading-v080:中3:U+5FCC:on",
+      "grade": "中3",
+      "character": "忌",
+      "reading_kind": "on",
+      "correct_answer": "キ",
+      "choices": [
+        "キ",
+        "フ",
+        "オン",
+        "セイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c9e1ced2b4b7ee0d38494ae8c48398735c843a1f6764dd1bdbaf602c82d6f884"
+    },
+    {
+      "id": "reading-v080:中3:U+6FC1:kun",
+      "grade": "中3",
+      "character": "濁",
+      "reading_kind": "kun",
+      "correct_answer": "にごす",
+      "choices": [
+        "ひろい",
+        "ねる",
+        "にごす",
+        "まき"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a591a2ced9359d663817fdcf15448ac510e72cf133d2f70cbd9b10b11c05779d"
+    },
+    {
+      "id": "reading-v080:中3:U+5954:on",
+      "grade": "中3",
+      "character": "奔",
+      "reading_kind": "on",
+      "correct_answer": "ホン",
+      "choices": [
+        "カン",
+        "カ",
+        "ツ",
+        "ホン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "168ab52f65ac68b558d45f0426f8d674b43bb90b56cd9fd090b5128b685cf676"
+    },
+    {
+      "id": "reading-v080:中3:U+6597:on",
+      "grade": "中3",
+      "character": "斗",
+      "reading_kind": "on",
+      "correct_answer": "ト",
+      "choices": [
+        "サ",
+        "シュク",
+        "タン",
+        "ト"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1d68773e29f4bc45aebecb0595fe335fff31ba476d7a199ffb04ca71546bf79e"
+    },
+    {
+      "id": "reading-v080:中3:U+8FC5:on",
+      "grade": "中3",
+      "character": "迅",
+      "reading_kind": "on",
+      "correct_answer": "ジン",
+      "choices": [
+        "イツ",
+        "カイ",
+        "ジン",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1b5dd75981d59a5707c69ced3b43af233f7d5c08fbad307ba5a6657e3a35eea7"
+    },
+    {
+      "id": "reading-v080:中3:U+8096:kun",
+      "grade": "中3",
+      "character": "肖",
+      "reading_kind": "kun",
+      "correct_answer": "あやかる",
+      "choices": [
+        "けだし",
+        "あやかる",
+        "にわかに",
+        "うらむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d9dcbf0d178b10d55ff9d398d957d861198e6604ce9f1d7f7d7862e8338374b4"
+    },
+    {
+      "id": "reading-v080:中3:U+9262:on",
+      "grade": "中3",
+      "character": "鉢",
+      "reading_kind": "on",
+      "correct_answer": "ハチ",
+      "choices": [
+        "ク",
+        "チン",
+        "ハチ",
+        "ヒ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8be0af2c5a4c03b2f4bb3b0e54db039298752cedc35fc2e7dc023f38766995c4"
+    },
+    {
+      "id": "reading-v080:中3:U+673D:kun",
+      "grade": "中3",
+      "character": "朽",
+      "reading_kind": "kun",
+      "correct_answer": "くちる",
+      "choices": [
+        "おそれ",
+        "さめる",
+        "くちる",
+        "あと"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2ac6198abb4af91133edcea24da5d1e3c56d91976594c8ed18b1b228d0000cb6"
+    },
+    {
+      "id": "reading-v080:中3:U+6BBB:on",
+      "grade": "中3",
+      "character": "殻",
+      "reading_kind": "on",
+      "correct_answer": "カク",
+      "choices": [
+        "シュウ",
+        "アン",
+        "ゴン",
+        "カク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d759790c220e722f234b45301cc90041af7261ef7cb433c2f13df647c1f4669e"
+    },
+    {
+      "id": "reading-v080:中3:U+4EAB:kun",
+      "grade": "中3",
+      "character": "享",
+      "reading_kind": "kun",
+      "correct_answer": "うける",
+      "choices": [
+        "せ",
+        "うける",
+        "はて",
+        "やわらぐ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ef52701dcaa2f3d8f5beb013aa5ce40a8ebfa09127858eedb6fef033bdc78e4b"
+    },
+    {
+      "id": "reading-v080:中3:U+85E9:on",
+      "grade": "中3",
+      "character": "藩",
+      "reading_kind": "on",
+      "correct_answer": "ハン",
+      "choices": [
+        "ヒ",
+        "ベツ",
+        "ホウ",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9726f3cf08087aa7f729747c79f8c767ac468f2e78acee16f06da0cb09788558"
+    },
+    {
+      "id": "reading-v080:中3:U+6C99:kun",
+      "grade": "中3",
+      "character": "沙",
+      "reading_kind": "kun",
+      "correct_answer": "すな",
+      "choices": [
+        "におう",
+        "いみ",
+        "かなう",
+        "すな"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "40ecdf6d05bd892dc9cfe922f050c06ffb0458d240ae07635c0efd7af54e4b0d"
+    },
+    {
+      "id": "reading-v080:中3:U+66C7:on",
+      "grade": "中3",
+      "character": "曇",
+      "reading_kind": "on",
+      "correct_answer": "ドン",
+      "choices": [
+        "シ",
+        "ドン",
+        "カイ",
+        "オウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e28e81897fe6c4db09fe5c728690e03b004dafead3b327b5bcfa1545a2e69cc4"
+    },
+    {
+      "id": "reading-v080:中3:U+5A92:kun",
+      "grade": "中3",
+      "character": "媒",
+      "reading_kind": "kun",
+      "correct_answer": "なこうど",
+      "choices": [
+        "いたる",
+        "なこうど",
+        "みうち",
+        "がけ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f35a7e20d2cb2e1db6d220e1e1040ec67705348803f834c8331b077c8394eaf9"
+    },
+    {
+      "id": "reading-v080:中3:U+9D8F:on",
+      "grade": "中3",
+      "character": "鶏",
+      "reading_kind": "on",
+      "correct_answer": "ケイ",
+      "choices": [
+        "ケイ",
+        "ル",
+        "タイ",
+        "カツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a8c8dbbbfbffd681195f342a877e93bef2c4a23e8407e1c481eef0006a33e201"
+    },
+    {
+      "id": "reading-v080:中3:U+7985:kun",
+      "grade": "中3",
+      "character": "禅",
+      "reading_kind": "kun",
+      "correct_answer": "しずか",
+      "choices": [
+        "たもう",
+        "しずか",
+        "めん",
+        "こわす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "984f58e5847cf692777dac45aeee661dc861abbb4288764f3790653257035b6c"
+    },
+    {
+      "id": "reading-v080:中3:U+5631:on",
+      "grade": "中3",
+      "character": "嘱",
+      "reading_kind": "on",
+      "correct_answer": "ショク",
+      "choices": [
+        "ク",
+        "ショク",
+        "ヒョウ",
+        "ト"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "319b5892d9ff4766946469047f712881363db5b6be84f7f8fad3af0c0c7ee4c9"
+    },
+    {
+      "id": "reading-v080:中3:U+80F4:on",
+      "grade": "中3",
+      "character": "胴",
+      "reading_kind": "on",
+      "correct_answer": "ドウ",
+      "choices": [
+        "エ",
+        "ザン",
+        "ドウ",
+        "ジュ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "dae7ae7d158d200e3f41023c948e011dd4aeac9b3e9f40edc68fbf571d4c8706"
+    },
+    {
+      "id": "reading-v080:中3:U+8FED:on",
+      "grade": "中3",
+      "character": "迭",
+      "reading_kind": "on",
+      "correct_answer": "テツ",
+      "choices": [
+        "テツ",
+        "ツ",
+        "トン",
+        "コウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "adcf43ad214b1cf62e8a0df0e91a85a85a8906ea75d424649279d6dc20909736"
+    },
+    {
+      "id": "reading-v080:中3:U+633F:kun",
+      "grade": "中3",
+      "character": "挿",
+      "reading_kind": "kun",
+      "correct_answer": "さす",
+      "choices": [
+        "ふかい",
+        "たにがわ",
+        "すすむ",
+        "さす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5aa5e56b70eac89695ff3a2825081879816651e8348121cd9ed9ba053cf700af"
+    },
+    {
+      "id": "reading-v080:中3:U+5D50:on",
+      "grade": "中3",
+      "character": "嵐",
+      "reading_kind": "on",
+      "correct_answer": "ラン",
+      "choices": [
+        "ラン",
+        "キョウ",
+        "カン",
+        "ケン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "60346d7cc9880712fb3a7bd82b6f193b4a80327b67703c0293db2abb34beaacb"
+    },
+    {
+      "id": "reading-v080:中3:U+690E:kun",
+      "grade": "中3",
+      "character": "椎",
+      "reading_kind": "kun",
+      "correct_answer": "うつ",
+      "choices": [
+        "ろうする",
+        "いらだつ",
+        "めん",
+        "うつ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2223b8c5a570e4e2d1ba00547be849bba9df7cd0e10b9e984ef07d7ca4853b69"
+    },
+    {
+      "id": "reading-v080:中3:U+966A:on",
+      "grade": "中3",
+      "character": "陪",
+      "reading_kind": "on",
+      "correct_answer": "バイ",
+      "choices": [
+        "ロ",
+        "バイ",
+        "ジ",
+        "サイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4ecdd7c80ce4f5e3d5b5d836db90067eeb1974af9e6fad20f4d15ba27e01154d"
+    },
+    {
+      "id": "reading-v080:中3:U+5256:on",
+      "grade": "中3",
+      "character": "剖",
+      "reading_kind": "on",
+      "correct_answer": "ボウ",
+      "choices": [
+        "オウ",
+        "ボウ",
+        "ベツ",
+        "シン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e1300dd4b11447b19c635840e259955d89f275b1f02bba0d947ff4d6f3f1c98b"
+    },
+    {
+      "id": "reading-v080:中3:U+8B5C:on",
+      "grade": "中3",
+      "character": "譜",
+      "reading_kind": "on",
+      "correct_answer": "フ",
+      "choices": [
+        "ト",
+        "フ",
+        "セイ",
+        "コ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3ea3ab9e5e95c8803598f0b6dbb372b19909c93e4acef712d1fa7d207f46001a"
+    },
+    {
+      "id": "reading-v080:中3:U+60A0:on",
+      "grade": "中3",
+      "character": "悠",
+      "reading_kind": "on",
+      "correct_answer": "ユウ",
+      "choices": [
+        "ショウ",
+        "チュウ",
+        "ユウ",
+        "ソン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0a687fddd0815735f85eb1a92c2f6e07d118b566562d1b177c96dbcc1d060216"
+    },
+    {
+      "id": "reading-v080:中3:U+6DD1:on",
+      "grade": "中3",
+      "character": "淑",
+      "reading_kind": "on",
+      "correct_answer": "シュク",
+      "choices": [
+        "エ",
+        "ケイ",
+        "シュク",
+        "ユウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3db07cf77617911a07ede3793972e3e051b43417bae838c3582778abf04bf3e0"
+    },
+    {
+      "id": "reading-v080:中3:U+5E06:kun",
+      "grade": "中3",
+      "character": "帆",
+      "reading_kind": "kun",
+      "correct_answer": "ほ",
+      "choices": [
+        "うた",
+        "ちきり",
+        "ほ",
+        "とどめる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1aba038e18c2c8da49c5f85ba86989d2269c8c77cb58d43bf7468eb4b65fe552"
+    },
+    {
+      "id": "reading-v080:中3:U+6681:on",
+      "grade": "中3",
+      "character": "暁",
+      "reading_kind": "on",
+      "correct_answer": "キョウ",
+      "choices": [
+        "ヨウ",
+        "トツ",
+        "キョウ",
+        "ガイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b70b64e901f96545a9c5ae23135388c55052a1376ec12356f56440b26c83e1c5"
+    },
+    {
+      "id": "reading-v080:中3:U+5091:kun",
+      "grade": "中3",
+      "character": "傑",
+      "reading_kind": "kun",
+      "correct_answer": "すぐれる",
+      "choices": [
+        "すぐれる",
+        "ぼこ",
+        "すすめる",
+        "むつぶ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9a6383218a167ba2011573d7db8b2dafb24beb80c576a66a09d848c3d67c1717"
+    },
+    {
+      "id": "reading-v080:中3:U+5974:on",
+      "grade": "中3",
+      "character": "奴",
+      "reading_kind": "on",
+      "correct_answer": "ド",
+      "choices": [
+        "チ",
+        "ド",
+        "ジュ",
+        "トウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f2972f731e77fcb12e9dc9ce5013de63111ca9bd6b6cb21656e7ef7ac0cf3380"
+    },
+    {
+      "id": "reading-v080:中3:U+8AB0:kun",
+      "grade": "中3",
+      "character": "誰",
+      "reading_kind": "kun",
+      "correct_answer": "た",
+      "choices": [
+        "うた",
+        "しずか",
+        "とぶらう",
+        "た"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "444357e48bfc9302b78286770abd495348a92331d66a555f0de648ce649ede0d"
+    },
+    {
+      "id": "reading-v080:中3:U+9320:on",
+      "grade": "中3",
+      "character": "錠",
+      "reading_kind": "on",
+      "correct_answer": "ジョウ",
+      "choices": [
+        "グ",
+        "ショウ",
+        "オウ",
+        "ジョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6b5bca38014b85945caabb0c19a2db16b1978e9fb6eff2080cf8d6896c65ce0d"
+    },
+    {
+      "id": "reading-v080:中3:U+62F3:kun",
+      "grade": "中3",
+      "character": "拳",
+      "reading_kind": "kun",
+      "correct_answer": "こぶし",
+      "choices": [
+        "こぶし",
+        "もてあそぶ",
+        "つく",
+        "うすづく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c7828bc528d4eae214503dc6181e1821865dff7bbaec26ee93309562c343b4b0"
+    },
+    {
+      "id": "reading-v080:中3:U+9077:on",
+      "grade": "中3",
+      "character": "遷",
+      "reading_kind": "on",
+      "correct_answer": "セン",
+      "choices": [
+        "ビ",
+        "セン",
+        "ヘン",
+        "ショウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0ceef2390a5f2c5743f90d0b9b088eb191cd636be8bef72dab6cd1c4b42e6b8f"
+    },
+    {
+      "id": "reading-v080:中3:U+62D9:kun",
+      "grade": "中3",
+      "character": "拙",
+      "reading_kind": "kun",
+      "correct_answer": "つたない",
+      "choices": [
+        "ねじる",
+        "ぬぐう",
+        "つたない",
+        "ふるえる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "891251afa02bfd49a9e46512386c248ad8777f9c2511530e82641e569848b453"
+    },
+    {
+      "id": "reading-v080:中3:U+4F8D:on",
+      "grade": "中3",
+      "character": "侍",
+      "reading_kind": "on",
+      "correct_answer": "シ",
+      "choices": [
+        "シ",
+        "グ",
+        "ル",
+        "エン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "710758764e54283515e60a87f78937510f610d423c2cdf9d69cefb91c93acc8a"
+    },
+    {
+      "id": "reading-v080:中3:U+5CE0:kun",
+      "grade": "中3",
+      "character": "峠",
+      "reading_kind": "kun",
+      "correct_answer": "とうげ",
+      "choices": [
+        "すさまじい",
+        "とうげ",
+        "ふく",
+        "むつむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b95c5b8d8b330609836e50bbf58c4dc7bd3aac2a296adb954d07a45ba7cf04ec"
+    },
+    {
+      "id": "reading-v080:中3:U+7BE4:on",
+      "grade": "中3",
+      "character": "篤",
+      "reading_kind": "on",
+      "correct_answer": "トク",
+      "choices": [
+        "チ",
+        "レイ",
+        "トク",
+        "バク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "68cd491efaf9996e7fa04b1f8e14583d779e1b79b274e05373beeb7aded8a8e1"
+    },
+    {
+      "id": "reading-v080:中3:U+6E07:kun",
+      "grade": "中3",
+      "character": "渇",
+      "reading_kind": "kun",
+      "correct_answer": "かわく",
+      "choices": [
+        "うた",
+        "くむ",
+        "くじける",
+        "かわく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e76144253c1d8e4aae409baf0a538f212aecd5351824d3b047b044cd35ad7f0f"
+    },
+    {
+      "id": "reading-v080:中3:U+4FFA:on",
+      "grade": "中3",
+      "character": "俺",
+      "reading_kind": "on",
+      "correct_answer": "エン",
+      "choices": [
+        "ホウ",
+        "エン",
+        "ト",
+        "ジ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "666959e10f3907eb66658cbf2fe726acd9f6aed33f0b6bb9acd0be1b11ccfc6d"
+    },
+    {
+      "id": "reading-v080:中3:U+53D4:on",
+      "grade": "中3",
+      "character": "叔",
+      "reading_kind": "on",
+      "correct_answer": "シュク",
+      "choices": [
+        "シュク",
+        "カイ",
+        "シュウ",
+        "エツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "683b39d41d6e85fd9b2c434c21a67e065273fa91e1fae24ee3b079cca927473b"
+    },
+    {
+      "id": "reading-v080:中3:U+96CC:on",
+      "grade": "中3",
+      "character": "雌",
+      "reading_kind": "on",
+      "correct_answer": "シ",
+      "choices": [
+        "エン",
+        "ダ",
+        "チャク",
+        "シ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "730f5c02f2b10226ee65a83460b65b66e9a2332660d96e369abfe68a8031ed0a"
+    },
+    {
+      "id": "reading-v080:中3:U+582A:kun",
+      "grade": "中3",
+      "character": "堪",
+      "reading_kind": "kun",
+      "correct_answer": "こたえる",
+      "choices": [
+        "こたえる",
+        "いばり",
+        "うっする",
+        "にわかに"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "38f791607244b35aad0f40b3c6109f5b826d22dc6397a9750482d520842f6ce6"
+    },
+    {
+      "id": "reading-v080:中3:U+53D9:on",
+      "grade": "中3",
+      "character": "叙",
+      "reading_kind": "on",
+      "correct_answer": "ジョ",
+      "choices": [
+        "ハン",
+        "ジョ",
+        "キョウ",
+        "ジョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "94f1320fc2ac07a2c3163ecbb03195fe9f38fa61867b45d2e568a4743a2f7455"
+    },
+    {
+      "id": "reading-v080:中3:U+9162:kun",
+      "grade": "中3",
+      "character": "酢",
+      "reading_kind": "kun",
+      "correct_answer": "す",
+      "choices": [
+        "うかがう",
+        "から",
+        "われ",
+        "す"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f7b370fb4d7805b2f76de33b3239b382cd39a2051ae72630e4eff4cbd68c90ce"
+    },
+    {
+      "id": "reading-v080:中3:U+541F:on",
+      "grade": "中3",
+      "character": "吟",
+      "reading_kind": "on",
+      "correct_answer": "ギン",
+      "choices": [
+        "リ",
+        "ギン",
+        "ヨウ",
+        "スイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2454e1dc8fe432a1db3047444bc74ee9e128b16acb364f0adac04393c67e251a"
+    },
+    {
+      "id": "reading-v080:中3:U+9013:kun",
+      "grade": "中3",
+      "character": "逓",
+      "reading_kind": "kun",
+      "correct_answer": "かわる",
+      "choices": [
+        "みね",
+        "かわる",
+        "みやこがえ",
+        "うす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "58730ba5fb825c2cc7fa18fa78a76fb94c5a299478ae5501e63d6fa1857f1beb"
+    },
+    {
+      "id": "reading-v080:中3:U+75D5:on",
+      "grade": "中3",
+      "character": "痕",
+      "reading_kind": "on",
+      "correct_answer": "コン",
+      "choices": [
+        "ボウ",
+        "ガン",
+        "コン",
+        "ル"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e4c7281a7a7331187e6c016dcadadfea1607d79cbb162009ab3019cfa15040d1"
+    },
+    {
+      "id": "reading-v080:中3:U+8896:kun",
+      "grade": "中3",
+      "character": "袖",
+      "reading_kind": "kun",
+      "correct_answer": "そで",
+      "choices": [
+        "ねじる",
+        "ひねくる",
+        "そで",
+        "かんがえる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4c2e34cd2070252d12488637f4413800117cb6a55880f8ba13e408de6a856aba"
+    },
+    {
+      "id": "reading-v080:中3:U+751A:on",
+      "grade": "中3",
+      "character": "甚",
+      "reading_kind": "on",
+      "correct_answer": "ジン",
+      "choices": [
+        "ガン",
+        "ジン",
+        "キン",
+        "シ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a7b6d4fd9cbd5065acc1a6fd6c581837cefaccb826cc439e3efa49d26f1ad9da"
+    },
+    {
+      "id": "reading-v080:中3:U+5996:kun",
+      "grade": "中3",
+      "character": "妖",
+      "reading_kind": "kun",
+      "correct_answer": "あやしい",
+      "choices": [
+        "らっする",
+        "す",
+        "あやしい",
+        "たえる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "cda451061da9ba2256cf185921a0351385fb26f67b7a6f69d9f43f39bc4d8eb8"
+    },
+    {
+      "id": "reading-v080:中3:U+95C7:on",
+      "grade": "中3",
+      "character": "闇",
+      "reading_kind": "on",
+      "correct_answer": "アン",
+      "choices": [
+        "レイ",
+        "アン",
+        "スウ",
+        "ジョ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "00d445b7a618b2ef4a5a5f5075886cef3274d4808d63a4dcd952d61fdffa43b0"
+    },
+    {
+      "id": "reading-v080:中3:U+5D07:kun",
+      "grade": "中3",
+      "character": "崇",
+      "reading_kind": "kun",
+      "correct_answer": "あがめる",
+      "choices": [
+        "うらむ",
+        "はらす",
+        "あがめる",
+        "ようやく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a1dea2fd22ff25fa0b5e6d824865231b5013842b2a07db94d8cd68674ed3792c"
+    },
+    {
+      "id": "reading-v080:中3:U+6F06:on",
+      "grade": "中3",
+      "character": "漆",
+      "reading_kind": "on",
+      "correct_answer": "シツ",
+      "choices": [
+        "サイ",
+        "シツ",
+        "ヘツ",
+        "テン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5d64f3aa5e08c76cb0be57481264bd0b8a69ded4d7e90624d6c52774b6625960"
+    },
+    {
+      "id": "reading-v080:中3:U+5CAC:kun",
+      "grade": "中3",
+      "character": "岬",
+      "reading_kind": "kun",
+      "correct_answer": "みさき",
+      "choices": [
+        "はさむ",
+        "まこと",
+        "いただく",
+        "みさき"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "821966a1351185fb4b351ec7be6ccbb648479346291197b5bad64f7aa386fcec"
+    },
+    {
+      "id": "reading-v080:中3:U+7656:on",
+      "grade": "中3",
+      "character": "癖",
+      "reading_kind": "on",
+      "correct_answer": "ヘキ",
+      "choices": [
+        "ヘキ",
+        "カン",
+        "ホク",
+        "キ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3fc9c780612e32dd1e457c81cc1900984118cab7b712ab9e0c3c258aab497491"
+    },
+    {
+      "id": "reading-v080:中3:U+6109:kun",
+      "grade": "中3",
+      "character": "愉",
+      "reading_kind": "kun",
+      "correct_answer": "たのしい",
+      "choices": [
+        "かわく",
+        "たれ",
+        "いみ",
+        "たのしい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "815bce21e1401da43bc09cb82a31ce7acea083c7036e98871c8500f25afd0789"
+    },
+    {
+      "id": "reading-v080:中3:U+6349:on",
+      "grade": "中3",
+      "character": "捉",
+      "reading_kind": "on",
+      "correct_answer": "サク",
+      "choices": [
+        "セツ",
+        "シュク",
+        "ラツ",
+        "サク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8ffe79c675f8b30147942ad3df6d1fa82f296b1d02e27d148a6531ca72c5db9b"
+    },
+    {
+      "id": "reading-v080:中3:U+7901:on",
+      "grade": "中3",
+      "character": "礁",
+      "reading_kind": "on",
+      "correct_answer": "ショウ",
+      "choices": [
+        "ケキ",
+        "ショウ",
+        "ジン",
+        "ドウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0b0a4b823ccdcc0a3c0f87efa3cb4ece10c43c7ca18204e69bd9b83b38cbe50e"
+    },
+    {
+      "id": "reading-v080:中3:U+5C6F:on",
+      "grade": "中3",
+      "character": "屯",
+      "reading_kind": "on",
+      "correct_answer": "トン",
+      "choices": [
+        "トン",
+        "セン",
+        "チョウ",
+        "ニ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "af793398fc6e2a8fa1dad7b30af3e426bc9937aec01752aea8f3946bb16e54ad"
+    },
+    {
+      "id": "reading-v080:中3:U+59FB:on",
+      "grade": "中3",
+      "character": "姻",
+      "reading_kind": "on",
+      "correct_answer": "イン",
+      "choices": [
+        "シ",
+        "ガイ",
+        "イン",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "dac8e44de203f1bd6dd0c6f6983e2ca4e2e47fd0838472db7af968b5839a8606"
+    },
+    {
+      "id": "reading-v080:中3:U+8CED:on",
+      "grade": "中3",
+      "character": "賭",
+      "reading_kind": "on",
+      "correct_answer": "ト",
+      "choices": [
+        "ト",
+        "ショウ",
+        "ゲン",
+        "ユウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2ae3b07c567126396df6b99a63ea04d49882e01b09f7f3b3a9d1c0ecdab11070"
+    },
+    {
+      "id": "reading-v080:中3:U+64EC:kun",
+      "grade": "中3",
+      "character": "擬",
+      "reading_kind": "kun",
+      "correct_answer": "まがい",
+      "choices": [
+        "うれい",
+        "まがい",
+        "はぐくむ",
+        "ぼこ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e65b0fe39047f6c0472e0b08b88c59cf85d8e42d1b653cb6a4d6358c81a38c36"
+    },
+    {
+      "id": "reading-v080:中3:U+5840:on",
+      "grade": "中3",
+      "character": "塀",
+      "reading_kind": "on",
+      "correct_answer": "ヘイ",
+      "choices": [
+        "ソク",
+        "ヘイ",
+        "ト",
+        "チャク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0309e6491875454ef6199e27f0b03220f1618afe06defb84b6de8d74b8b9dced"
+    },
+    {
+      "id": "reading-v080:中3:U+5507:kun",
+      "grade": "中3",
+      "character": "唇",
+      "reading_kind": "kun",
+      "correct_answer": "くちびる",
+      "choices": [
+        "したう",
+        "かぐ",
+        "くちびる",
+        "まいる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "06ad22cbb7e6f1fdd3493458712b6b6b305a5d01487bc7a5ad4bf93226df6f4d"
+    },
+    {
+      "id": "reading-v080:中3:U+7766:on",
+      "grade": "中3",
+      "character": "睦",
+      "reading_kind": "on",
+      "correct_answer": "ボク",
+      "choices": [
+        "ボク",
+        "キン",
+        "ヨウ",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fd4f4d1ac48195d6633fbbd4f791c168fca22d3cb40243c3e22e16f72bfa0ac6"
+    },
+    {
+      "id": "reading-v080:中3:U+9591:on",
+      "grade": "中3",
+      "character": "閑",
+      "reading_kind": "on",
+      "correct_answer": "カン",
+      "choices": [
+        "ネン",
+        "カン",
+        "チュ",
+        "メイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d9636cac61335f2658b1c8870420aae9be57b4c895c9123a018cee17012470e0"
+    },
+    {
+      "id": "reading-v080:中3:U+5E7D:on",
+      "grade": "中3",
+      "character": "幽",
+      "reading_kind": "on",
+      "correct_answer": "ユウ",
+      "choices": [
+        "ユウ",
+        "チョク",
+        "ドウ",
+        "カイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f166fefeb05c985d375608829b65e1419eaeb92a605a1cca6f9e91f58c40bb39"
+    },
+    {
+      "id": "reading-v080:中3:U+66F9:on",
+      "grade": "中3",
+      "character": "曹",
+      "reading_kind": "on",
+      "correct_answer": "ソウ",
+      "choices": [
+        "ホン",
+        "ガン",
+        "ガ",
+        "ソウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2da0f649fc8973e558bdb7fe50276b1db958d75067575a6fed310fb405c4f20f"
+    },
+    {
+      "id": "reading-v080:中3:U+8A60:on",
+      "grade": "中3",
+      "character": "詠",
+      "reading_kind": "on",
+      "correct_answer": "エイ",
+      "choices": [
+        "エイ",
+        "シュウ",
+        "カツ",
+        "ビ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5e6441737ea62ede000d6d3916d773257b7099a7600b3a8b1cc99ba08078b705"
+    },
+    {
+      "id": "reading-v080:中3:U+5351:kun",
+      "grade": "中3",
+      "character": "卑",
+      "reading_kind": "kun",
+      "correct_answer": "いやしい",
+      "choices": [
+        "しおれる",
+        "あつい",
+        "いやしい",
+        "しぼむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6cbea4e94b645e448782527030749019d6074c6b740771385af2543eab515785"
+    },
+    {
+      "id": "reading-v080:中3:U+4FAE:on",
+      "grade": "中3",
+      "character": "侮",
+      "reading_kind": "on",
+      "correct_answer": "ブ",
+      "choices": [
+        "ブ",
+        "ホク",
+        "ゲ",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a91cb5227f02a59a7d4bf18252142c083deaeaeb62264474de2b1276f6ca2b72"
+    },
+    {
+      "id": "reading-v080:中3:U+92F3:kun",
+      "grade": "中3",
+      "character": "鋳",
+      "reading_kind": "kun",
+      "correct_answer": "いる",
+      "choices": [
+        "いらだつ",
+        "ざれる",
+        "いる",
+        "もどき"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2e47a98deea3e9a254f8b969210c2bb8b14df9ba5b4d279735d0e407f199f4ba"
+    },
+    {
+      "id": "reading-v080:中3:U+62B9:on",
+      "grade": "中3",
+      "character": "抹",
+      "reading_kind": "on",
+      "correct_answer": "マツ",
+      "choices": [
+        "バ",
+        "サク",
+        "マツ",
+        "キョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0bb39e545a9a0dabbd531240f86312eb70f8f77e5350002aeedc33afae95b392"
+    },
+    {
+      "id": "reading-v080:中3:U+5C09:on",
+      "grade": "中3",
+      "character": "尉",
+      "reading_kind": "on",
+      "correct_answer": "イ",
+      "choices": [
+        "ドウ",
+        "イ",
+        "ク",
+        "シツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5761c8e020144d1d9b24be27d4d1f9aa76e6df847bdf389ebc248889f3b2c285"
+    },
+    {
+      "id": "reading-v080:中3:U+96B7:on",
+      "grade": "中3",
+      "character": "隷",
+      "reading_kind": "on",
+      "correct_answer": "レイ",
+      "choices": [
+        "セン",
+        "テン",
+        "レイ",
+        "シン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "edfeb476fa0aad1a6a8c8724d9a18f988e77650b61d02ba2bdf32af8542e2584"
+    },
+    {
+      "id": "reading-v080:中3:U+798D:kun",
+      "grade": "中3",
+      "character": "禍",
+      "reading_kind": "kun",
+      "correct_answer": "わざわい",
+      "choices": [
+        "わざわい",
+        "おごる",
+        "なみする",
+        "のむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "233c442b5165af7d3eedf4ebc56b6b1a640261c92ef3a3c7047bdc2e191e1115"
+    },
+    {
+      "id": "reading-v080:中3:U+916A:on",
+      "grade": "中3",
+      "character": "酪",
+      "reading_kind": "on",
+      "correct_answer": "ラク",
+      "choices": [
+        "トク",
+        "レン",
+        "ヤ",
+        "ラク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "43fcfce4196232b72eea2645fead96e0c641bb853f606a6551eddc9dd40aa162"
+    },
+    {
+      "id": "reading-v080:中3:U+830E:kun",
+      "grade": "中3",
+      "character": "茎",
+      "reading_kind": "kun",
+      "correct_answer": "くき",
+      "choices": [
+        "くき",
+        "たがいに",
+        "おそれる",
+        "うれえる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f3e700ad0705ba2573e704d444368cfc647c0e767cac0dc47c432ab2ace318af"
+    },
+    {
+      "id": "reading-v080:中3:U+6C4E:on",
+      "grade": "中3",
+      "character": "汎",
+      "reading_kind": "on",
+      "correct_answer": "ハン",
+      "choices": [
+        "キョウ",
+        "ボ",
+        "カツ",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ab408a1a4ada08ebeef428fdc9c79d2924a3fef87cff14e78e253d4e7f4cfcbb"
+    },
+    {
+      "id": "reading-v080:中3:U+9803:kun",
+      "grade": "中3",
+      "character": "頃",
+      "reading_kind": "kun",
+      "correct_answer": "ころ",
+      "choices": [
+        "くらい",
+        "ころ",
+        "おごる",
+        "おそれる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3917fdd8bbe04d2189afdee24dbf1bbfb862e261011c1295363000eafde01151"
+    },
+    {
+      "id": "reading-v080:中3:U+5E25:on",
+      "grade": "中3",
+      "character": "帥",
+      "reading_kind": "on",
+      "correct_answer": "スイ",
+      "choices": [
+        "タ",
+        "スイ",
+        "イツ",
+        "ミ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6be6133f5b6b06936165e10d3743bfbff7cf7d1e6384078b469af0828dd842a5"
+    },
+    {
+      "id": "reading-v080:中3:U+901D:kun",
+      "grade": "中3",
+      "character": "逝",
+      "reading_kind": "kun",
+      "correct_answer": "いく",
+      "choices": [
+        "とどめる",
+        "あわ",
+        "おきな",
+        "いく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "daa3a2fc171bf2991795e275981c1383538efba9a274d3f664d40bb048de38dc"
+    },
+    {
+      "id": "reading-v080:中3:U+6EF4:on",
+      "grade": "中3",
+      "character": "滴",
+      "reading_kind": "on",
+      "correct_answer": "テキ",
+      "choices": [
+        "ロ",
+        "ゼン",
+        "テキ",
+        "カ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8884cc160c543997c2f65a978275ee2683bf4c53ae90c85db6f884189f9d8bcc"
+    },
+    {
+      "id": "reading-v080:中3:U+8B0E:kun",
+      "grade": "中3",
+      "character": "謎",
+      "reading_kind": "kun",
+      "correct_answer": "なぞ",
+      "choices": [
+        "なぞ",
+        "あやしい",
+        "にわかに",
+        "もどき"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "21ec3735e8d367ca1655a1c438b0e2d1bc9f57a44f75d10ccf16f74529f13c11"
+    },
+    {
+      "id": "reading-v080:中3:U+533F:on",
+      "grade": "中3",
+      "character": "匿",
+      "reading_kind": "on",
+      "correct_answer": "トク",
+      "choices": [
+        "キョウ",
+        "バイ",
+        "カン",
+        "トク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "de7f1970b7cda840984ac5d3f6bfa828e0f0732ecabe25459c1bb8c1e7e9858d"
+    },
+    {
+      "id": "reading-v080:中3:U+722A:kun",
+      "grade": "中3",
+      "character": "爪",
+      "reading_kind": "kun",
+      "correct_answer": "つめ",
+      "choices": [
+        "でこ",
+        "しがらみ",
+        "つめ",
+        "とみに"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7899ef83e7a44c3263391d86de297b991839a87253ae1650f05c72e940e683a1"
+    },
+    {
+      "id": "reading-v080:中3:U+9375:on",
+      "grade": "中3",
+      "character": "鍵",
+      "reading_kind": "on",
+      "correct_answer": "ケン",
+      "choices": [
+        "ケン",
+        "セイ",
+        "ギン",
+        "ケイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "aa05f37a11637927c6053b64f12cbd227308c2c7e364312a485a3588793bcff2"
+    },
+    {
+      "id": "reading-v080:中3:U+895F:kun",
+      "grade": "中3",
+      "character": "襟",
+      "reading_kind": "kun",
+      "correct_answer": "えり",
+      "choices": [
+        "はさむ",
+        "なげく",
+        "えり",
+        "とうげ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "45df286a4c03388cb2121e82de9da6137642e97dbbe50416cfd1ee831995aa0f"
+    },
+    {
+      "id": "reading-v080:中3:U+86CD:on",
+      "grade": "中3",
+      "character": "蛍",
+      "reading_kind": "on",
+      "correct_answer": "ケイ",
+      "choices": [
+        "ボウ",
+        "キョ",
+        "ダン",
+        "ケイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2c53162fe38879d447462b899ed572b1af02a7c7aded5f13fbaeb89199397f51"
+    },
+    {
+      "id": "reading-v080:中3:U+5BE1:on",
+      "grade": "中3",
+      "character": "寡",
+      "reading_kind": "on",
+      "correct_answer": "カ",
+      "choices": [
+        "イツ",
+        "カツ",
+        "カ",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "bf9943feada5de4da5a16cbe75434df3f49cfcc95dac4f9f1b5d0bd711b6e148"
+    },
+    {
+      "id": "reading-v080:中3:U+75E2:on",
+      "grade": "中3",
+      "character": "痢",
+      "reading_kind": "on",
+      "correct_answer": "リ",
+      "choices": [
+        "モ",
+        "タン",
+        "リ",
+        "シュク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0e69f1be36514f79e95e43c5eacc1465dad0f91b142ebe9f6076354cc473fc7f"
+    },
+    {
+      "id": "reading-v080:中3:U+5EB8:on",
+      "grade": "中3",
+      "character": "庸",
+      "reading_kind": "on",
+      "correct_answer": "ヨウ",
+      "choices": [
+        "チン",
+        "ベツ",
+        "ヨウ",
+        "カン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "71382e9a0128f12c8b5743c1381d8b90bcd5cf5c8614b6be887b453e333efdb5"
+    },
+    {
+      "id": "reading-v080:中3:U+5751:on",
+      "grade": "中3",
+      "character": "坑",
+      "reading_kind": "on",
+      "correct_answer": "コウ",
+      "choices": [
+        "コウ",
+        "ソク",
+        "スウ",
+        "エン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "071fd007d8d73ad186bba224e05d1232861084f730ae01dfdbb315be22f5f4de"
+    },
+    {
+      "id": "reading-v080:中3:U+85CD:kun",
+      "grade": "中3",
+      "character": "藍",
+      "reading_kind": "kun",
+      "correct_answer": "あい",
+      "choices": [
+        "おこる",
+        "いやしむ",
+        "あい",
+        "わきばさむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8f9b2c327c6d0d2cb7bbf40b9ee548e8312a1641fce2362803af8e90e9ddd5ed"
+    },
+    {
+      "id": "reading-v080:中3:U+8CCA:on",
+      "grade": "中3",
+      "character": "賊",
+      "reading_kind": "on",
+      "correct_answer": "ゾク",
+      "choices": [
+        "ゾク",
+        "ラツ",
+        "フ",
+        "コウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d921ccc51a54fc643ea75ce66ad625566ea307cf4f615935b57e5ee42fb16270"
+    },
+    {
+      "id": "reading-v080:中3:U+643E:kun",
+      "grade": "中3",
+      "character": "搾",
+      "reading_kind": "kun",
+      "correct_answer": "しぼる",
+      "choices": [
+        "さしはさむ",
+        "たがう",
+        "そで",
+        "しぼる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "eb25c4f851c1b839fad07d70d571b9f69862d372413b54dfb8d572a1c5d649ea"
+    },
+    {
+      "id": "reading-v080:中3:U+81FC:on",
+      "grade": "中3",
+      "character": "臼",
+      "reading_kind": "on",
+      "correct_answer": "キュウ",
+      "choices": [
+        "サク",
+        "キュウ",
+        "ヒ",
+        "シ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3a179045f628cff573e67b4e3c6530d0e10ece295837f0b73e46ad472f0d57c8"
+    },
+    {
+      "id": "reading-v080:中3:U+7554:kun",
+      "grade": "中3",
+      "character": "畔",
+      "reading_kind": "kun",
+      "correct_answer": "あぜ",
+      "choices": [
+        "あぜ",
+        "しかる",
+        "かぎ",
+        "ふるえる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "98d6a8e4c1a4a3e7e7eab786469aabdb1a593c0077d3b0dee3c3a045d12281f9"
+    },
+    {
+      "id": "reading-v080:中3:U+5504:on",
+      "grade": "中3",
+      "character": "唄",
+      "reading_kind": "on",
+      "correct_answer": "バイ",
+      "choices": [
+        "ボク",
+        "ダ",
+        "バイ",
+        "クン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "145af30cbbfb6be6aeb6b1cad1c6aace6641a281d85fe3925e2c40764bea0188"
+    },
+    {
+      "id": "reading-v080:中3:U+5B54:kun",
+      "grade": "中3",
+      "character": "孔",
+      "reading_kind": "kun",
+      "correct_answer": "あな",
+      "choices": [
+        "あな",
+        "いたる",
+        "みだりがましい",
+        "かけはし"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "324532697ccaa3ad1e3638c237cd72ca1aba0c8975bdf7a8b253b0539010e3de"
+    },
+    {
+      "id": "reading-v080:中3:U+5442:on",
+      "grade": "中3",
+      "character": "呂",
+      "reading_kind": "on",
+      "correct_answer": "リョ",
+      "choices": [
+        "イ",
+        "リョ",
+        "エン",
+        "ギ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f9ee860e05cb990c476524005ff419b63b7dba2b8e27628185b21385e7c9e33c"
+    },
+    {
+      "id": "reading-v080:中3:U+62F7:on",
+      "grade": "中3",
+      "character": "拷",
+      "reading_kind": "on",
+      "correct_answer": "ゴウ",
+      "choices": [
+        "ゴウ",
+        "サク",
+        "サ",
+        "ジョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "439f31018b00f922e2819882203c283292f7309db689beb62ad41d14b38a4faf"
+    },
+    {
+      "id": "reading-v080:中3:U+5B22:on",
+      "grade": "中3",
+      "character": "嬢",
+      "reading_kind": "on",
+      "correct_answer": "ジョウ",
+      "choices": [
+        "ホ",
+        "チョウ",
+        "トン",
+        "ジョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8549af3e2d2953b6291626fe4e91eeb7d926f20f56ff8a7a5ea18a27aaf09c2b"
+    },
+    {
+      "id": "reading-v080:中3:U+6E13:kun",
+      "grade": "中3",
+      "character": "渓",
+      "reading_kind": "kun",
+      "correct_answer": "たに",
+      "choices": [
+        "あわ",
+        "おおう",
+        "たに",
+        "ふなべり"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3c9c151bdb71f17f59ff136fb83384f8bc725879d65e220ab87121520504a03b"
+    },
+    {
+      "id": "reading-v080:中3:U+7FC1:on",
+      "grade": "中3",
+      "character": "翁",
+      "reading_kind": "on",
+      "correct_answer": "オウ",
+      "choices": [
+        "ボウ",
+        "オウ",
+        "カク",
+        "トウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fb15856baf322e63b3d6dd1a5ae46889b50298a7147ba8bdfc6b16d604a89aba"
+    },
+    {
+      "id": "reading-v080:中3:U+5EC9:on",
+      "grade": "中3",
+      "character": "廉",
+      "reading_kind": "on",
+      "correct_answer": "レン",
+      "choices": [
+        "レン",
+        "リン",
+        "ム",
+        "トツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2e6dc8aed44acb29f15af98770af822c3ec3fac877812a505128987c833dfd7d"
+    },
+    {
+      "id": "reading-v080:中3:U+7259:on",
+      "grade": "中3",
+      "character": "牙",
+      "reading_kind": "on",
+      "correct_answer": "ガ",
+      "choices": [
+        "ガ",
+        "グ",
+        "ク",
+        "コ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "82d8e1a2b367db549c99c0231ceb12a653ded4afd291490df3c91305f4e632b2"
+    },
+    {
+      "id": "reading-v080:中3:U+8B39:kun",
+      "grade": "中3",
+      "character": "謹",
+      "reading_kind": "kun",
+      "correct_answer": "つつしむ",
+      "choices": [
+        "たれ",
+        "しろい",
+        "わかつ",
+        "つつしむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f426328231e94a25a3fbcb1481bf123ff6458860fde1a8135f113245c14bdcee"
+    },
+    {
+      "id": "reading-v080:中3:U+77B3:on",
+      "grade": "中3",
+      "character": "瞳",
+      "reading_kind": "on",
+      "correct_answer": "トウ",
+      "choices": [
+        "サツ",
+        "チョク",
+        "ル",
+        "トウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "682c7a0ce6057baab7c65d390fd76f8bf2a18d64629081583ef6772c8b3c34d2"
+    },
+    {
+      "id": "reading-v080:中3:U+6E67:kun",
+      "grade": "中3",
+      "character": "湧",
+      "reading_kind": "kun",
+      "correct_answer": "わく",
+      "choices": [
+        "ふさぐ",
+        "はめる",
+        "さむい",
+        "わく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e55c96eb7a52adbf78a11323723909046e7aa03e92d1167bebcdbbf37ea8b334"
+    },
+    {
+      "id": "reading-v080:中3:U+7AAF:on",
+      "grade": "中3",
+      "character": "窯",
+      "reading_kind": "on",
+      "correct_answer": "ヨウ",
+      "choices": [
+        "タン",
+        "ヨウ",
+        "ニ",
+        "カイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "47e39e3f4cc2fbd6011db9db78b95aafc250a71f6f4e1ae86c600089decda688"
+    },
+    {
+      "id": "reading-v080:中3:U+8912:kun",
+      "grade": "中3",
+      "character": "褒",
+      "reading_kind": "kun",
+      "correct_answer": "ほめる",
+      "choices": [
+        "かつ",
+        "ざれる",
+        "はらす",
+        "ほめる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5a9a28540d8ed2039184aa0ecf8af0765e34d9ff6862c29b4c7f6daa955a409d"
+    },
+    {
+      "id": "reading-v080:中3:U+919C:on",
+      "grade": "中3",
+      "character": "醜",
+      "reading_kind": "on",
+      "correct_answer": "シュウ",
+      "choices": [
+        "チョ",
+        "ジン",
+        "テキ",
+        "シュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e12c37e408c0f259d7ccdc6be9569a23cd5b45c802e01cf2ce6b0aa25a6364e5"
+    },
+    {
+      "id": "reading-v080:中3:U+5347:kun",
+      "grade": "中3",
+      "character": "升",
+      "reading_kind": "kun",
+      "correct_answer": "ます",
+      "choices": [
+        "ます",
+        "おきな",
+        "あした",
+        "は"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9175aa408ce61b861c2228e9ba18a2b79e820d76d44aebf0a732e6c02dbc1067"
+    },
+    {
+      "id": "reading-v080:中3:U+6B89:on",
+      "grade": "中3",
+      "character": "殉",
+      "reading_kind": "on",
+      "correct_answer": "ジュン",
+      "choices": [
+        "ジュン",
+        "イ",
+        "ル",
+        "ヘイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "eb38180bdb33beb30373dee3f65e59aba7cc9ede1722f2dfddafea342ae3fa35"
+    },
+    {
+      "id": "reading-v080:中3:U+7169:kun",
+      "grade": "中3",
+      "character": "煩",
+      "reading_kind": "kun",
+      "correct_answer": "うるさい",
+      "choices": [
+        "うるさい",
+        "やや",
+        "くし",
+        "あてる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2cc4f6c3f7ffa93da9d17d1abbc689460751eeac34ebe938cde541c46b45a9b2"
+    },
+    {
+      "id": "reading-v080:中3:U+6795:on",
+      "grade": "中3",
+      "character": "枕",
+      "reading_kind": "on",
+      "correct_answer": "シン",
+      "choices": [
+        "オウ",
+        "クン",
+        "セイ",
+        "シン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "21f4b64b1a399654cc4a3d4f0d552c3856272e63702e0462dd26220fc3daf456"
+    },
+    {
+      "id": "reading-v080:中3:U+52BE:on",
+      "grade": "中3",
+      "character": "劾",
+      "reading_kind": "on",
+      "correct_answer": "ガイ",
+      "choices": [
+        "シ",
+        "ガイ",
+        "イ",
+        "ボウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "771685be28b1ec3e2c66475e94ef8bea13a7d7968c1efcc7cc101aba74c386a8"
+    },
+    {
+      "id": "reading-v080:中3:U+5815:on",
+      "grade": "中3",
+      "character": "堕",
+      "reading_kind": "on",
+      "correct_answer": "ダ",
+      "choices": [
+        "ダ",
+        "シュウ",
+        "ヒツ",
+        "コ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6e8490433a86dd8e2cd014d232ed6215042530a8cbe8c5c93302722292fdef52"
+    },
+    {
+      "id": "reading-v080:中3:U+4E3C:kun",
+      "grade": "中3",
+      "character": "丼",
+      "reading_kind": "kun",
+      "correct_answer": "どんぶり",
+      "choices": [
+        "どんぶり",
+        "な",
+        "つやめく",
+        "わく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2782bbb79e2d54b4abc837da1128388630421dc0bc61d36c41c403ba492fd163"
+    },
+    {
+      "id": "reading-v080:中3:U+79DF:on",
+      "grade": "中3",
+      "character": "租",
+      "reading_kind": "on",
+      "correct_answer": "ソ",
+      "choices": [
+        "ユウ",
+        "ソ",
+        "ロ",
+        "コウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2397d904681452b9d7d580625f6fc97fbc2dd8e8e6ead0860c568356d0d4bf75"
+    },
+    {
+      "id": "reading-v080:中3:U+685F:kun",
+      "grade": "中3",
+      "character": "桟",
+      "reading_kind": "kun",
+      "correct_answer": "かけはし",
+      "choices": [
+        "かけはし",
+        "よい",
+        "もも",
+        "とびら"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "46326f23cb7e282bf8c99e083be2532b293506ce5f36f53e5b92a365a9b2a055"
+    },
+    {
+      "id": "reading-v080:中3:U+60E7:on",
+      "grade": "中3",
+      "character": "惧",
+      "reading_kind": "on",
+      "correct_answer": "ク",
+      "choices": [
+        "エ",
+        "セン",
+        "ク",
+        "メン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "47adb396b1f3edee2aff3a2ede9209f5e4218cf7964582e0439a2b790b2f7625"
+    },
+    {
+      "id": "reading-v080:中3:U+5A7F:kun",
+      "grade": "中3",
+      "character": "婿",
+      "reading_kind": "kun",
+      "correct_answer": "むこ",
+      "choices": [
+        "なまめく",
+        "あわ",
+        "むこ",
+        "はち"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5539f86d0fd2ea8969963065174f079f087195e7a5ec339469cb09548e61a593"
+    },
+    {
+      "id": "reading-v080:中3:U+6155:on",
+      "grade": "中3",
+      "character": "慕",
+      "reading_kind": "on",
+      "correct_answer": "ボ",
+      "choices": [
+        "ボ",
+        "ジ",
+        "カイ",
+        "ト"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "169ff48c9129498223cad8931ebe254e92c445406c65e6814e25bfe854724e2d"
+    },
+    {
+      "id": "reading-v080:中3:U+7F77:kun",
+      "grade": "中3",
+      "character": "罷",
+      "reading_kind": "kun",
+      "correct_answer": "やめる",
+      "choices": [
+        "ひらく",
+        "やめる",
+        "うるさがる",
+        "よむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3376a630eccb2f50ca2d33bece37d4701b24d8c90755435dd0a2c28bc34b41fe"
+    },
+    {
+      "id": "reading-v080:中3:U+77EF:on",
+      "grade": "中3",
+      "character": "矯",
+      "reading_kind": "on",
+      "correct_answer": "キョウ",
+      "choices": [
+        "キョウ",
+        "フン",
+        "タイ",
+        "チュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "feec88f0bf07b126fa0f90aa4b1d8d2deaa70f38a913ec9caf5f01184ec01781"
+    },
+    {
+      "id": "reading-v080:中3:U+67D0:kun",
+      "grade": "中3",
+      "character": "某",
+      "reading_kind": "kun",
+      "correct_answer": "それがし",
+      "choices": [
+        "はぐくむ",
+        "むせぶ",
+        "それがし",
+        "ゆく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3ed18d3a4e9247997e28660c2195815ce9065e5329e8dc6803407efab57034a8"
+    },
+    {
+      "id": "reading-v080:中3:U+56DA:on",
+      "grade": "中3",
+      "character": "囚",
+      "reading_kind": "on",
+      "correct_answer": "シュウ",
+      "choices": [
+        "ミ",
+        "ゼン",
+        "セツ",
+        "シュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "56f23ec3f7b375b9c363fafb7518d2aa9ff0d807f1b56d7771839c8087229933"
+    },
+    {
+      "id": "reading-v080:中3:U+8679:kun",
+      "grade": "中3",
+      "character": "虹",
+      "reading_kind": "kun",
+      "correct_answer": "にじ",
+      "choices": [
+        "あがめる",
+        "にじ",
+        "はて",
+        "さわやか"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6da177ed3be128a0bbad1c8cdbf6309ec3912711fd20258c1833d1a8a614aba0"
+    },
+    {
+      "id": "reading-v080:中3:U+6CCC:on",
+      "grade": "中3",
+      "character": "泌",
+      "reading_kind": "on",
+      "correct_answer": "ヒ",
+      "choices": [
+        "トツ",
+        "ヒ",
+        "ケイ",
+        "リュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "df4a67b958dcd8742fd8d0410ac8a9c9911419f57d409372a7f18ab977217393"
+    },
+    {
+      "id": "reading-v080:中3:U+6F38:kun",
+      "grade": "中3",
+      "character": "漸",
+      "reading_kind": "kun",
+      "correct_answer": "すすむ",
+      "choices": [
+        "やぶる",
+        "かわく",
+        "すすむ",
+        "ほとり"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6130c565f348df22c794f7dac9bd28b3f848c91109a408a05ae1674fce1bafd8"
+    },
+    {
+      "id": "reading-v080:中3:U+81B3:on",
+      "grade": "中3",
+      "character": "膳",
+      "reading_kind": "on",
+      "correct_answer": "セン",
+      "choices": [
+        "セイ",
+        "シュウ",
+        "ヨク",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ae2875468db3ac584377d3f73b933fac8fd612610dd72f13260d523d26e59d94"
+    },
+    {
+      "id": "reading-v080:中3:U+868A:kun",
+      "grade": "中3",
+      "character": "蚊",
+      "reading_kind": "kun",
+      "correct_answer": "か",
+      "choices": [
+        "すき",
+        "むく",
+        "か",
+        "ほ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "19e65da6418a35b18a3ec22b488fa3c0f59b0cee52b797ad981e45bf3433d9d3"
+    },
+    {
+      "id": "reading-v080:中3:U+5384:on",
+      "grade": "中3",
+      "character": "厄",
+      "reading_kind": "on",
+      "correct_answer": "ヤク",
+      "choices": [
+        "ヤク",
+        "ヘツ",
+        "コン",
+        "メイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1e96f1fe4b041e0ceeb465ae90ca57cdd4cff5a24f4468e65b7a7d0397b9d06d"
+    },
+    {
+      "id": "reading-v080:中3:U+85FB:kun",
+      "grade": "中3",
+      "character": "藻",
+      "reading_kind": "kun",
+      "correct_answer": "も",
+      "choices": [
+        "あぎと",
+        "も",
+        "そそぐ",
+        "かしこ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "572d301801e1ecc3f5a67130389c9300c4aad1d40857c709180714c0257b0276"
+    },
+    {
+      "id": "reading-v080:中3:U+5AE1:on",
+      "grade": "中3",
+      "character": "嫡",
+      "reading_kind": "on",
+      "correct_answer": "チャク",
+      "choices": [
+        "ハク",
+        "ヨウ",
+        "ソク",
+        "チャク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d6123ce7cfc47899e9d078016658f39700a3bec51f75e12e5a66c2e6c26f087f"
+    },
+    {
+      "id": "reading-v080:中3:U+546A:kun",
+      "grade": "中3",
+      "character": "呪",
+      "reading_kind": "kun",
+      "correct_answer": "のろい",
+      "choices": [
+        "すそ",
+        "やぶる",
+        "むく",
+        "のろい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "edc1b06ce6ef744627524e4c9ad314e94298412d2216d6435905f9871f884845"
+    },
+    {
+      "id": "reading-v080:中3:U+65AC:on",
+      "grade": "中3",
+      "character": "斬",
+      "reading_kind": "on",
+      "correct_answer": "サン",
+      "choices": [
+        "ネン",
+        "ゴウ",
+        "サン",
+        "コク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c78ce59a004940634e97746121be77543147186b26298d883b2d10a5aa414f6b"
+    },
+    {
+      "id": "reading-v080:中3:U+6028:kun",
+      "grade": "中3",
+      "character": "怨",
+      "reading_kind": "kun",
+      "correct_answer": "うらみ",
+      "choices": [
+        "しらせ",
+        "うらみ",
+        "しぼむ",
+        "いも"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9a1701844d2d52d5427d4180113e2132a2cac1efbb034f4b93dcfe7feafbab6f"
+    },
+    {
+      "id": "reading-v080:中3:U+4E32:on",
+      "grade": "中3",
+      "character": "串",
+      "reading_kind": "on",
+      "correct_answer": "カン",
+      "choices": [
+        "チュウ",
+        "エ",
+        "ギン",
+        "カン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "afe6a86f72e731eacd3976b453eba3d2e9ff2da8e30f533d58aced2a8d48f6e1"
+    },
+    {
+      "id": "reading-v080:中3:U+5687:kun",
+      "grade": "中3",
+      "character": "嚇",
+      "reading_kind": "kun",
+      "correct_answer": "おどす",
+      "choices": [
+        "ふくむ",
+        "おどす",
+        "のぞむ",
+        "つば"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ecae2b5de51cf03b69d2afa97134fddaa0640d55bc5fa43f3821dd915bbcfe49"
+    },
+    {
+      "id": "reading-v080:中3:U+51F8:on",
+      "grade": "中3",
+      "character": "凸",
+      "reading_kind": "on",
+      "correct_answer": "トツ",
+      "choices": [
+        "オク",
+        "モウ",
+        "シン",
+        "トツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9519e3f206e59f41c9abb2ded60cc4bcf31e94ec76279717f97698106c0126f6"
+    },
+    {
+      "id": "reading-v080:中3:U+816B:kun",
+      "grade": "中3",
+      "character": "腫",
+      "reading_kind": "kun",
+      "correct_answer": "はらす",
+      "choices": [
+        "まき",
+        "いらだつ",
+        "はらす",
+        "まじなう"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b1832d017f93e95a7cb0b73d8a7ff9529e3102d309394aec1538a3dd0ca6189d"
+    },
+    {
+      "id": "reading-v080:中3:U+97FB:on",
+      "grade": "中3",
+      "character": "韻",
+      "reading_kind": "on",
+      "correct_answer": "イン",
+      "choices": [
+        "キョウ",
+        "ジョウ",
+        "トク",
+        "イン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4457f6736163c296d91db0ef587620b78001237064e9de26f6d36cb0a0f98730"
+    },
+    {
+      "id": "reading-v080:中3:U+971C:kun",
+      "grade": "中3",
+      "character": "霜",
+      "reading_kind": "kun",
+      "correct_answer": "しも",
+      "choices": [
+        "まがる",
+        "いる",
+        "しも",
+        "はぐくむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5a78b227e3bcd7f2f984cc03fff0e5e6c8dbdd9ba773223c21db089622bd413d"
+    },
+    {
+      "id": "reading-v080:中3:U+9905:on",
+      "grade": "中3",
+      "character": "餅",
+      "reading_kind": "on",
+      "correct_answer": "ヒョウ",
+      "choices": [
+        "シャ",
+        "セイ",
+        "ヒョウ",
+        "ジュ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7f9285007c9d890ae838f21440f395251d3dabd89c57a977ef292263b899838e"
+    },
+    {
+      "id": "reading-v080:中3:U+785D:on",
+      "grade": "中3",
+      "character": "硝",
+      "reading_kind": "on",
+      "correct_answer": "ショウ",
+      "choices": [
+        "ショウ",
+        "シュ",
+        "カン",
+        "カイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d6185a88054edd447b0b3090f3145569eabd5b42d97470f184c60eb1001c747e"
+    },
+    {
+      "id": "reading-v080:中3:U+7BB8:on",
+      "grade": "中3",
+      "character": "箸",
+      "reading_kind": "on",
+      "correct_answer": "チャク",
+      "choices": [
+        "ソ",
+        "メイ",
+        "チャク",
+        "ソウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d9ac8475a5171f5ff08649d65531561f84add299b757589c9b82e129e032ba69"
+    },
+    {
+      "id": "reading-v080:中3:U+52C5:kun",
+      "grade": "中3",
+      "character": "勅",
+      "reading_kind": "kun",
+      "correct_answer": "いましめる",
+      "choices": [
+        "いましめる",
+        "うずめる",
+        "とどめる",
+        "うす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "73a18ec58bdc2e3fdf25e59fc55352cb506d7e812179f7a3037d378499be7675"
+    },
+    {
+      "id": "reading-v080:中3:U+68FA:on",
+      "grade": "中3",
+      "character": "棺",
+      "reading_kind": "on",
+      "correct_answer": "カン",
+      "choices": [
+        "カン",
+        "ル",
+        "ム",
+        "ホウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "15b5d291fad0efbb44c081bbe47d2f51b390d58c6eeb5e50c9c419b0ed47abf9"
+    },
+    {
+      "id": "reading-v080:中3:U+5112:on",
+      "grade": "中3",
+      "character": "儒",
+      "reading_kind": "on",
+      "correct_answer": "ジュ",
+      "choices": [
+        "シ",
+        "ジュ",
+        "ショウ",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "94779c0508bdf70508453d8b6c5c36b1801e4339b114f76df66cd6dc9cc5f74a"
+    },
+    {
+      "id": "reading-v080:中3:U+6591:on",
+      "grade": "中3",
+      "character": "斑",
+      "reading_kind": "on",
+      "correct_answer": "ハン",
+      "choices": [
+        "ヒ",
+        "エン",
+        "イン",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "bb7d9d809828721aef2fc3cf57f72c5cac70546214915e88d123639bce4e6965"
+    },
+    {
+      "id": "reading-v080:中3:U+646F:kun",
+      "grade": "中3",
+      "character": "摯",
+      "reading_kind": "kun",
+      "correct_answer": "いたる",
+      "choices": [
+        "いたる",
+        "せい",
+        "たのしい",
+        "たのむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ba8f6be7a80b0554f8c3e93b223268168142321f17f8c9a0791bb7e646facdd2"
+    },
+    {
+      "id": "reading-v080:中3:U+6101:on",
+      "grade": "中3",
+      "character": "愁",
+      "reading_kind": "on",
+      "correct_answer": "シュウ",
+      "choices": [
+        "チョク",
+        "セツ",
+        "シュウ",
+        "ビ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "21ebec13f47d5498aa8496cdefd2ef8f4f99c30c99a2ae70582043bddd5cc4b7"
+    },
+    {
+      "id": "reading-v080:中3:U+697C:kun",
+      "grade": "中3",
+      "character": "楼",
+      "reading_kind": "kun",
+      "correct_answer": "たかどの",
+      "choices": [
+        "たかどの",
+        "もちあそぶ",
+        "やわらぐ",
+        "しとやか"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d9dd098d6f3e209835fffdf8e46d4df70cfd5059eb116c4e058358c75bcad2b9"
+    },
+    {
+      "id": "reading-v080:中3:U+7709:on",
+      "grade": "中3",
+      "character": "眉",
+      "reading_kind": "on",
+      "correct_answer": "ビ",
+      "choices": [
+        "ビ",
+        "メイ",
+        "ニョウ",
+        "ジュン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5e62e75f0854e5fbe19d22bda9ff745e558a2e6560bc1c4ff1dcae60aa6c6e36"
+    },
+    {
+      "id": "reading-v080:中3:U+85AA:kun",
+      "grade": "中3",
+      "character": "薪",
+      "reading_kind": "kun",
+      "correct_answer": "たきぎ",
+      "choices": [
+        "こまかい",
+        "とうげ",
+        "まじなう",
+        "たきぎ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "95d52eb1c313b20f5bbda19d93706bc69402548f6a80416ad56c2f733180ef2c"
+    },
+    {
+      "id": "reading-v080:中3:U+5806:on",
+      "grade": "中3",
+      "character": "堆",
+      "reading_kind": "on",
+      "correct_answer": "タイ",
+      "choices": [
+        "タイ",
+        "ゲイ",
+        "ハン",
+        "セツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b32aef9a5557fda23f0d1150f09a2a07044d1647e0aea405d00008c22ff4a599"
+    },
+    {
+      "id": "reading-v080:中3:U+8910:on",
+      "grade": "中3",
+      "character": "褐",
+      "reading_kind": "on",
+      "correct_answer": "カツ",
+      "choices": [
+        "デキ",
+        "カツ",
+        "シュ",
+        "リ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "99f74a1037a41ca839fd766c0919f66fb2caa0f8985cd081fb397e8b153de028"
+    },
+    {
+      "id": "reading-v080:中3:U+8CDC:on",
+      "grade": "中3",
+      "character": "賜",
+      "reading_kind": "on",
+      "correct_answer": "シ",
+      "choices": [
+        "ヨウ",
+        "フ",
+        "シ",
+        "タイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "df7341c942c800e0fb6c6b5b71bfca8b7f95d71758e82ac9deace26028f05f1b"
+    },
+    {
+      "id": "reading-v080:中3:U+7E55:kun",
+      "grade": "中3",
+      "character": "繕",
+      "reading_kind": "kun",
+      "correct_answer": "つくろう",
+      "choices": [
+        "にごる",
+        "さかのぼる",
+        "ひたす",
+        "つくろう"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f288e78e9b37a89ba24d6077c388e4370692f1fabb5ff8b81bbc62e7ac6c5fca"
+    },
+    {
+      "id": "reading-v080:中3:U+6813:on",
+      "grade": "中3",
+      "character": "栓",
+      "reading_kind": "on",
+      "correct_answer": "セン",
+      "choices": [
+        "セン",
+        "コツ",
+        "キン",
+        "メイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "557cac1e8572dd5cf931ff9a91680d5ff96020d72e7ecc3ef6ef3415bfd0ea22"
+    },
+    {
+      "id": "reading-v080:中3:U+82AF:on",
+      "grade": "中3",
+      "character": "芯",
+      "reading_kind": "on",
+      "correct_answer": "シン",
+      "choices": [
+        "シン",
+        "ロ",
+        "ボウ",
+        "チク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "475f2e6b6ef1f387debc80cddf676e4fb510bef04c7ebfcc287279d7ffcf81c9"
+    },
+    {
+      "id": "reading-v080:中3:U+871C:on",
+      "grade": "中3",
+      "character": "蜜",
+      "reading_kind": "on",
+      "correct_answer": "ビツ",
+      "choices": [
+        "ソウ",
+        "ドン",
+        "トウ",
+        "ビツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3b7d7d792a20e094f1fe0ca845903d523d62fa8b743b064e4c1aa399546b7145"
+    },
+    {
+      "id": "reading-v080:中3:U+51F9:kun",
+      "grade": "中3",
+      "character": "凹",
+      "reading_kind": "kun",
+      "correct_answer": "くぼむ",
+      "choices": [
+        "くぼむ",
+        "むつぶ",
+        "たかどの",
+        "くせ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f38d487701a0ef898f94f7b279899ceed0c9522a7034de1976d59d947e18bb29"
+    },
+    {
+      "id": "reading-v080:中3:U+8276:on",
+      "grade": "中3",
+      "character": "艶",
+      "reading_kind": "on",
+      "correct_answer": "エン",
+      "choices": [
+        "セン",
+        "メイ",
+        "エン",
+        "ゴン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1fc71e9b28705e22669970ebbe5fbfd1364954883ca967f5371c78ba68cf5a85"
+    },
+    {
+      "id": "reading-v080:中3:U+4F3A:kun",
+      "grade": "中3",
+      "character": "伺",
+      "reading_kind": "kun",
+      "correct_answer": "うかがう",
+      "choices": [
+        "ようよう",
+        "しも",
+        "うかがう",
+        "もどき"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7196abadb874acbc85a7fe3af32b0a1ebf6a0d61887f43783b9d1e00cd479519"
+    },
+    {
+      "id": "reading-v080:中3:U+80A1:on",
+      "grade": "中3",
+      "character": "股",
+      "reading_kind": "on",
+      "correct_answer": "コ",
+      "choices": [
+        "モク",
+        "コ",
+        "ガ",
+        "ヘキ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "24707f73c5e72984035e099263185630c331cac2cf76eee9ef9e5a1b1c4b9b4a"
+    },
+    {
+      "id": "reading-v080:中3:U+5302:kun",
+      "grade": "中3",
+      "character": "匂",
+      "reading_kind": "kun",
+      "correct_answer": "におい",
+      "choices": [
+        "におい",
+        "きる",
+        "まき",
+        "せまる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1aa4b65df9bd4a3a3f67a344c004dceed1892457494c2fe39245bc5bf68ce44d"
+    },
+    {
+      "id": "reading-v080:中3:U+73A9:on",
+      "grade": "中3",
+      "character": "玩",
+      "reading_kind": "on",
+      "correct_answer": "ガン",
+      "choices": [
+        "ハン",
+        "ガン",
+        "トウ",
+        "カク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c973f98cd90f4a36c800a8fa44626a7b318a9469f6a945863f94415506ebdbb2"
+    },
+    {
+      "id": "reading-v080:中3:U+932C:kun",
+      "grade": "中3",
+      "character": "錬",
+      "reading_kind": "kun",
+      "correct_answer": "ねる",
+      "choices": [
+        "あま",
+        "くらい",
+        "へこむ",
+        "ねる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "64d75f3fc99a5ff48263b9d7bc70a2e75b14976e0a1ceaa87e2bc15724e63bc5"
+    },
+    {
+      "id": "reading-v080:中3:U+8702:on",
+      "grade": "中3",
+      "character": "蜂",
+      "reading_kind": "on",
+      "correct_answer": "ホウ",
+      "choices": [
+        "ソウ",
+        "ヨウ",
+        "ホウ",
+        "ゼン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "35c71bb1edc67758b5edbb2aacebb3457f633676e1ee8a7cfa7323830bc92cf7"
+    },
+    {
+      "id": "reading-v080:中3:U+8877:on",
+      "grade": "中3",
+      "character": "衷",
+      "reading_kind": "on",
+      "correct_answer": "チュウ",
+      "choices": [
+        "チン",
+        "シチ",
+        "シン",
+        "チュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3a772b27fa2fcd7e3994421700292791cbeab1db5c38ecedffaf5ce989eb1696"
+    },
+    {
+      "id": "reading-v080:中3:U+9010:on",
+      "grade": "中3",
+      "character": "逐",
+      "reading_kind": "on",
+      "correct_answer": "チク",
+      "choices": [
+        "ギョウ",
+        "イン",
+        "チク",
+        "チョ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2f68dba85d5211ecf06db7aa39e88460e6665884e1b1b74d4e6399ab2de58450"
+    },
+    {
+      "id": "reading-v080:中3:U+65A5:kun",
+      "grade": "中3",
+      "character": "斥",
+      "reading_kind": "kun",
+      "correct_answer": "しりぞける",
+      "choices": [
+        "え",
+        "きのと",
+        "みうち",
+        "しりぞける"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "52fc854e353446ec0076e703e52467f6a6c437c8b280d1750342e50c8c147e90"
+    },
+    {
+      "id": "reading-v080:中3:U+8A54:on",
+      "grade": "中3",
+      "character": "詔",
+      "reading_kind": "on",
+      "correct_answer": "ショウ",
+      "choices": [
+        "ショウ",
+        "サク",
+        "フウ",
+        "ギ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "626657b31805589294873ba447511a64abae2326a74ff424b06a022c2ef0237c"
+    },
+    {
+      "id": "reading-v080:中3:U+6905:on",
+      "grade": "中3",
+      "character": "椅",
+      "reading_kind": "on",
+      "correct_answer": "イ",
+      "choices": [
+        "シ",
+        "キョウ",
+        "イ",
+        "カツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e8a6f1c4760459b52c9a81299c55336efbe97c6de09ac7e3c616841be2c6ee3d"
+    },
+    {
+      "id": "reading-v080:中3:U+6328:on",
+      "grade": "中3",
+      "character": "挨",
+      "reading_kind": "on",
+      "correct_answer": "アイ",
+      "choices": [
+        "キョウ",
+        "ジン",
+        "アイ",
+        "ゲキ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "067981fc269b8b11d87b077896401851588ae082373aeab66ecb8a0686908baa"
+    },
+    {
+      "id": "reading-v080:中3:U+61A7:kun",
+      "grade": "中3",
+      "character": "憧",
+      "reading_kind": "kun",
+      "correct_answer": "あこがれる",
+      "choices": [
+        "あこがれる",
+        "ざれる",
+        "ただよう",
+        "あたかも"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d1ead74ef4cd6ae4033ee24c4a29f03ca51097fabf23f4b1a0cb3d0cc919391b"
+    },
+    {
+      "id": "reading-v080:中3:U+5BB5:on",
+      "grade": "中3",
+      "character": "宵",
+      "reading_kind": "on",
+      "correct_answer": "ショウ",
+      "choices": [
+        "コウ",
+        "ショウ",
+        "ラツ",
+        "ニョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4425e8a8c4ec546d32cdae02c0044aa7fd2b00d972c617b2d216ad402fbf57d1"
+    },
+    {
+      "id": "reading-v080:中3:U+5984:kun",
+      "grade": "中3",
+      "character": "妄",
+      "reading_kind": "kun",
+      "correct_answer": "みだりに",
+      "choices": [
+        "つぶれる",
+        "みだりに",
+        "とらわれる",
+        "かご"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c515264e296c4c0e7dc98f6e817a3700ce171516fdde85df1dce3c254e8c365a"
+    },
+    {
+      "id": "reading-v080:中3:U+914C:on",
+      "grade": "中3",
+      "character": "酌",
+      "reading_kind": "on",
+      "correct_answer": "シャク",
+      "choices": [
+        "サン",
+        "ベイ",
+        "シャク",
+        "ミ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e0c5356a55997aa604b8ab6a4736cdae43d7ae8cdd08a682c784615d7262ca2b"
+    },
+    {
+      "id": "reading-v080:中3:U+990C:kun",
+      "grade": "中3",
+      "character": "餌",
+      "reading_kind": "kun",
+      "correct_answer": "え",
+      "choices": [
+        "かんがえる",
+        "おごる",
+        "みやこがえ",
+        "え"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4d1997bb7b24327664c7c46c515be405093ab3f719db7a97a40b1f524608c09b"
+    },
+    {
+      "id": "reading-v080:中3:U+9812:on",
+      "grade": "中3",
+      "character": "頒",
+      "reading_kind": "on",
+      "correct_answer": "ハン",
+      "choices": [
+        "ヒョウ",
+        "ハン",
+        "ジュン",
+        "ホウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "825c17ec5c3503f39427ac579117ec2487cc68e122e0077da3616133657123cd"
+    },
+    {
+      "id": "reading-v080:中3:U+80A2:on",
+      "grade": "中3",
+      "character": "肢",
+      "reading_kind": "on",
+      "correct_answer": "シ",
+      "choices": [
+        "シ",
+        "キン",
+        "モク",
+        "ラン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b4356b840231be4e6367d9b4aea11d0731f213680fc9fe4c867558bdcff7a4fe"
+    },
+    {
+      "id": "reading-v080:中3:U+8B04:on",
+      "grade": "中3",
+      "character": "謄",
+      "reading_kind": "on",
+      "correct_answer": "トウ",
+      "choices": [
+        "セン",
+        "ホウ",
+        "キケ",
+        "トウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2611026d1309d767cbee0e0fde93a8adf4369d8eedf0c45515ab60654aa0188e"
+    },
+    {
+      "id": "reading-v080:中3:U+810A:kun",
+      "grade": "中3",
+      "character": "脊",
+      "reading_kind": "kun",
+      "correct_answer": "せ",
+      "choices": [
+        "きば",
+        "わく",
+        "けだし",
+        "せ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "19eb8aa4efbd366bdd32a7412acdc649287dc8eb284b472e72ca902e7ccf7454"
+    },
+    {
+      "id": "reading-v080:中3:U+55E3:on",
+      "grade": "中3",
+      "character": "嗣",
+      "reading_kind": "on",
+      "correct_answer": "シ",
+      "choices": [
+        "ヘツ",
+        "ロウ",
+        "シ",
+        "コウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5d44ddc81043858bbb177e8d9d6e7419759310c41c2467f60660076c88eac667"
+    },
+    {
+      "id": "reading-v080:中3:U+51C4:kun",
+      "grade": "中3",
+      "character": "凄",
+      "reading_kind": "kun",
+      "correct_answer": "さむい",
+      "choices": [
+        "ます",
+        "ごろ",
+        "さむい",
+        "わずらう"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8df680b43ee1035e0235a78b61c719fb1be849b7c970fdc705b56c65e2bbe324"
+    },
+    {
+      "id": "reading-v080:中3:U+5AC9:on",
+      "grade": "中3",
+      "character": "嫉",
+      "reading_kind": "on",
+      "correct_answer": "シツ",
+      "choices": [
+        "ジョウ",
+        "セン",
+        "シツ",
+        "シュク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d481004029f2017f6549e2c7bd1a47b8a8855932879c5176eb24a1b5f19bca89"
+    },
+    {
+      "id": "reading-v080:中3:U+819D:kun",
+      "grade": "中3",
+      "character": "膝",
+      "reading_kind": "kun",
+      "correct_answer": "ひざ",
+      "choices": [
+        "ほたる",
+        "まがい",
+        "ひざ",
+        "わずか"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a0d7fee312f955d1f40dae3beb90a088b4682ea4f3442656763e7fec9e78f001"
+    },
+    {
+      "id": "reading-v080:中3:U+6063:on",
+      "grade": "中3",
+      "character": "恣",
+      "reading_kind": "on",
+      "correct_answer": "シ",
+      "choices": [
+        "シ",
+        "ショウ",
+        "カン",
+        "コツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "77b1b4dcdfd09d14e768e014653498b1a71722eb11d883d9ba564f225d39a091"
+    },
+    {
+      "id": "reading-v080:中3:U+755D:kun",
+      "grade": "中3",
+      "character": "畝",
+      "reading_kind": "kun",
+      "correct_answer": "うね",
+      "choices": [
+        "うね",
+        "へぐ",
+        "もち",
+        "さむい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ea18a655a34e9241ff9de579f713378d1c9ab7fceac6473b7b6f65159e3efa2b"
+    },
+    {
+      "id": "reading-v080:中3:U+6284:on",
+      "grade": "中3",
+      "character": "抄",
+      "reading_kind": "on",
+      "correct_answer": "ショウ",
+      "choices": [
+        "コク",
+        "ガイ",
+        "ショウ",
+        "スイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "cb52f030b52e1f5da3f08b195f905224538bf9de4f691d141610194a2225f373"
+    },
+    {
+      "id": "reading-v080:中3:U+9EBA:kun",
+      "grade": "中3",
+      "character": "麺",
+      "reading_kind": "kun",
+      "correct_answer": "むぎこ",
+      "choices": [
+        "しおれる",
+        "きし",
+        "むぎこ",
+        "にごる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8874c1110e46aa1b06da081bd82ebb0f3e1bc0859ed90d0df1a6182f641b9651"
+    },
+    {
+      "id": "reading-v080:中3:U+6234:on",
+      "grade": "中3",
+      "character": "戴",
+      "reading_kind": "on",
+      "correct_answer": "タイ",
+      "choices": [
+        "ジョウ",
+        "タイ",
+        "コン",
+        "キョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0f848ede3fb9ecc892eabf9a111f49a668bfe2ac2c4d8d1e3cb5894451e0d145"
+    },
+    {
+      "id": "reading-v080:中3:U+723D:kun",
+      "grade": "中3",
+      "character": "爽",
+      "reading_kind": "kun",
+      "correct_answer": "あきらか",
+      "choices": [
+        "きれ",
+        "ついず",
+        "あきらか",
+        "ゆるす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "110bd105f028cd3a006c021d5e36d16d90a90573ff719c027c28f4dad1fef0fe"
+    },
+    {
+      "id": "reading-v080:中3:U+88FE:on",
+      "grade": "中3",
+      "character": "裾",
+      "reading_kind": "on",
+      "correct_answer": "キョ",
+      "choices": [
+        "キョ",
+        "イ",
+        "チョク",
+        "タン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5f847abc80552d95f9e9cbc9cf7b1b94e76e26de0f13238cae1326d3ae813a90"
+    },
+    {
+      "id": "reading-v080:中3:U+60F0:on",
+      "grade": "中3",
+      "character": "惰",
+      "reading_kind": "on",
+      "correct_answer": "ダ",
+      "choices": [
+        "ロウ",
+        "ボウ",
+        "ダ",
+        "ト"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "611e158ad0491ac95434f1bb29f27a8b625d24293676b7f77b07e422637e3d79"
+    },
+    {
+      "id": "reading-v080:中3:U+86EE:on",
+      "grade": "中3",
+      "character": "蛮",
+      "reading_kind": "on",
+      "correct_answer": "バン",
+      "choices": [
+        "ド",
+        "キョウ",
+        "バン",
+        "シチ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2fb8060162e691ba86b27ef2b267798849deb04ef64b79fc33d50d3a26ec0ac9"
+    },
+    {
+      "id": "reading-v080:中3:U+65FA:kun",
+      "grade": "中3",
+      "character": "旺",
+      "reading_kind": "kun",
+      "correct_answer": "さかん",
+      "choices": [
+        "いく",
+        "なまめく",
+        "にわかに",
+        "さかん"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7ec2e202022fd317b85edd25a570ac0665ffc77ab20d281a0451a4298d2c5216"
+    },
+    {
+      "id": "reading-v080:中3:U+51A5:on",
+      "grade": "中3",
+      "character": "冥",
+      "reading_kind": "on",
+      "correct_answer": "ミョウ",
+      "choices": [
+        "ミョウ",
+        "ガイ",
+        "タ",
+        "ケイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b8dc690bbe6f762d56d450cc16f8d55ee47ac23a801873634153b8f977d3ddf4"
+    },
+    {
+      "id": "reading-v080:中3:U+58F1:kun",
+      "grade": "中3",
+      "character": "壱",
+      "reading_kind": "kun",
+      "correct_answer": "ひとつ",
+      "choices": [
+        "あまねく",
+        "たのしむ",
+        "むくろ",
+        "ひとつ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a5817005e1328361661ca78bc48fb97d6fede824248740f8314b20401aef4fd3"
+    },
+    {
+      "id": "reading-v080:中3:U+7460:on",
+      "grade": "中3",
+      "character": "瑠",
+      "reading_kind": "on",
+      "correct_answer": "リュウ",
+      "choices": [
+        "チュウ",
+        "ヨウ",
+        "ラツ",
+        "リュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5a9911bcc8c782c4a6528568633065904281c7d4fc66a4a51f9cc8461ec32012"
+    },
+    {
+      "id": "reading-v080:中3:U+4FAF:on",
+      "grade": "中3",
+      "character": "侯",
+      "reading_kind": "on",
+      "correct_answer": "コウ",
+      "choices": [
+        "ウ",
+        "コウ",
+        "バイ",
+        "カン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "248ac185e16c98aeeb6ff7dde120d42fc42135ad5169abe57176b4c0b60aa8ed"
+    },
+    {
+      "id": "reading-v080:中3:U+9E93:on",
+      "grade": "中3",
+      "character": "麓",
+      "reading_kind": "on",
+      "correct_answer": "ロク",
+      "choices": [
+        "サン",
+        "ケイ",
+        "ロク",
+        "キョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1f072894bd24b99e36cb74e7af8f6d99bcaac8ce78b2582ab276f8ae06655ca1"
+    },
+    {
+      "id": "reading-v080:中3:U+5F27:on",
+      "grade": "中3",
+      "character": "弧",
+      "reading_kind": "on",
+      "correct_answer": "コ",
+      "choices": [
+        "コ",
+        "ユウ",
+        "ヒ",
+        "ダク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "84ebf68b5c94f4e0536a7fcf734720ffae0c9f60958ae25c7c421e98503e3433"
+    },
+    {
+      "id": "reading-v080:中3:U+7A3D:on",
+      "grade": "中3",
+      "character": "稽",
+      "reading_kind": "on",
+      "correct_answer": "ケイ",
+      "choices": [
+        "ギ",
+        "ケイ",
+        "ヤ",
+        "シャク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "106dd1155df8a71d8bf16b620955d09a7161862477161615b15a12b145ed02de"
+    },
+    {
+      "id": "reading-v080:中3:U+8E74:kun",
+      "grade": "中3",
+      "character": "蹴",
+      "reading_kind": "kun",
+      "correct_answer": "ける",
+      "choices": [
+        "くちる",
+        "ける",
+        "しがらむ",
+        "さむらい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "047ffb7d12c8ad83e5eca46e816b76320f2ddf15d2fdd85f69c327acef89b965"
+    },
+    {
+      "id": "reading-v080:中3:U+8A03:on",
+      "grade": "中3",
+      "character": "訃",
+      "reading_kind": "on",
+      "correct_answer": "フ",
+      "choices": [
+        "ゴウ",
+        "シ",
+        "フ",
+        "ケイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "505a74f35f0f4f18843b887c5a2e4f00bbd79f8609bba4715466f735addaeab9"
+    },
+    {
+      "id": "reading-v080:中3:U+84CB:kun",
+      "grade": "中3",
+      "character": "蓋",
+      "reading_kind": "kun",
+      "correct_answer": "おおう",
+      "choices": [
+        "は",
+        "うるさがる",
+        "おおう",
+        "うたう"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "251f65185e7dbc647b80b9a2822aba3028c70166941de0b9430742fab71103ff"
+    },
+    {
+      "id": "reading-v080:中3:U+754F:on",
+      "grade": "中3",
+      "character": "畏",
+      "reading_kind": "on",
+      "correct_answer": "イ",
+      "choices": [
+        "チン",
+        "ト",
+        "ケイ",
+        "イ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b53709eb767f8daa79ad5be6f99cace06b4f3bfd0a8f63b7b620022ad73d87a3"
+    },
+    {
+      "id": "reading-v080:中3:U+5589:kun",
+      "grade": "中3",
+      "character": "喉",
+      "reading_kind": "kun",
+      "correct_answer": "のど",
+      "choices": [
+        "つらぬく",
+        "おきな",
+        "とびら",
+        "のど"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3e9c4ae059edbded4725dd2cc051062dee20985b2355abcaaecf27c88d4c5ae3"
+    },
+    {
+      "id": "reading-v080:中3:U+9644:on",
+      "grade": "中3",
+      "character": "附",
+      "reading_kind": "on",
+      "correct_answer": "フ",
+      "choices": [
+        "フ",
+        "キョウ",
+        "バク",
+        "カツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6ae258f852d04f224d1ca78915d851f62cdacbaf6cdf2f8370f775e2b94a44fb"
+    },
+    {
+      "id": "reading-v080:中3:U+4F46:kun",
+      "grade": "中3",
+      "character": "但",
+      "reading_kind": "kun",
+      "correct_answer": "ただし",
+      "choices": [
+        "よむ",
+        "ただし",
+        "いまわしい",
+        "すかす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8dab1267a303a3070aa288e0ab928a9e6d4d82ea2fff0e50928697b626938ee4"
+    },
+    {
+      "id": "reading-v080:中3:U+828B:on",
+      "grade": "中3",
+      "character": "芋",
+      "reading_kind": "on",
+      "correct_answer": "ウ",
+      "choices": [
+        "ウ",
+        "イツ",
+        "ロウ",
+        "オン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "da9ea4b4689489fd06f339e9610645eaddc0e94ccfafcb572e4c30e54bd3064e"
+    },
+    {
+      "id": "reading-v080:中3:U+62ED:kun",
+      "grade": "中3",
+      "character": "拭",
+      "reading_kind": "kun",
+      "correct_answer": "ぬぐう",
+      "choices": [
+        "ぬぐう",
+        "そしる",
+        "よなげる",
+        "したたる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b7ec06aa3bdb87c7e24207af72da6bc187ca9a32efdb216129d944c70006e973"
+    },
+    {
+      "id": "reading-v080:中3:U+5A46:on",
+      "grade": "中3",
+      "character": "婆",
+      "reading_kind": "on",
+      "correct_answer": "バ",
+      "choices": [
+        "アン",
+        "バ",
+        "シュウ",
+        "ハン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "650ffde388f871e58cc00dc8a51c80f1badc4a7a61f86d326404c40be097da67"
+    },
+    {
+      "id": "reading-v080:中3:U+8CBC:kun",
+      "grade": "中3",
+      "character": "貼",
+      "reading_kind": "kun",
+      "correct_answer": "つく",
+      "choices": [
+        "つく",
+        "かわら",
+        "うずたかい",
+        "がら"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "859c504b22b9d19cf7a41deadb0de042a5fde788ec20956a637a6398d8d13336"
+    },
+    {
+      "id": "reading-v080:中3:U+5023:on",
+      "grade": "中3",
+      "character": "倣",
+      "reading_kind": "on",
+      "correct_answer": "ホウ",
+      "choices": [
+        "バイ",
+        "ゲ",
+        "ホウ",
+        "ル"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d1af7b214e884ba9d42b95729ba81932232b36d1d2d5039445c52537c5474564"
+    },
+    {
+      "id": "reading-v080:中3:U+8AE6:kun",
+      "grade": "中3",
+      "character": "諦",
+      "reading_kind": "kun",
+      "correct_answer": "あきらめる",
+      "choices": [
+        "かけはし",
+        "あきらか",
+        "ほほ",
+        "あきらめる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a9cab9a3640c409127f397d1bd3bad6b89574a81a0b4e3ccb8e9d8291fc18ffe"
+    },
+    {
+      "id": "reading-v080:中3:U+714E:on",
+      "grade": "中3",
+      "character": "煎",
+      "reading_kind": "on",
+      "correct_answer": "セン",
+      "choices": [
+        "サク",
+        "ミ",
+        "キョウ",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "29ba04e4e5f27c00585ad0dee32c9df6871d30b99dce2649361e0c70bb737162"
+    },
+    {
+      "id": "reading-v080:中3:U+7DFB:kun",
+      "grade": "中3",
+      "character": "緻",
+      "reading_kind": "kun",
+      "correct_answer": "こまかい",
+      "choices": [
+        "こまかい",
+        "かたち",
+        "すすむ",
+        "いやしむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b516dc1150f622c19c8f29c3f83c8630bffa23c5cf4badee0376a2b031dc3c4e"
+    },
+    {
+      "id": "reading-v080:中3:U+54FA:on",
+      "grade": "中3",
+      "character": "哺",
+      "reading_kind": "on",
+      "correct_answer": "ホ",
+      "choices": [
+        "カン",
+        "ム",
+        "ホ",
+        "タン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1391f8d68230d04de9435f5c6983f1c41d5daec1c04a954534b1e24016127938"
+    },
+    {
+      "id": "reading-v080:中3:U+7F75:kun",
+      "grade": "中3",
+      "character": "罵",
+      "reading_kind": "kun",
+      "correct_answer": "ののしる",
+      "choices": [
+        "わずらわす",
+        "うれえる",
+        "ののしる",
+        "ゆく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b0a32d2c9b9b2b9ca54316366385b11f806b5028b7997e5c51120833b49379a9"
+    },
+    {
+      "id": "reading-v080:中3:U+4E5E:on",
+      "grade": "中3",
+      "character": "乞",
+      "reading_kind": "on",
+      "correct_answer": "キ",
+      "choices": [
+        "エン",
+        "コン",
+        "ヒョウ",
+        "キ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9623fb8c06f5d42f14b0310ca1151e2cd582bccadad9901003a10a01b9530f81"
+    },
+    {
+      "id": "reading-v080:中3:U+5039:kun",
+      "grade": "中3",
+      "character": "倹",
+      "reading_kind": "kun",
+      "correct_answer": "つづまやか",
+      "choices": [
+        "つづまやか",
+        "おごる",
+        "まくら",
+        "はれ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "36899d21e7497048fedd4cb2140520d253403c738c42a3d0969423ad7ab2cf1e"
+    },
+    {
+      "id": "reading-v080:中3:U+55C5:on",
+      "grade": "中3",
+      "character": "嗅",
+      "reading_kind": "on",
+      "correct_answer": "キュウ",
+      "choices": [
+        "キュウ",
+        "オウ",
+        "ヘイ",
+        "ホウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "186bd0bd7997d331d8d59a338fe08ff0efedb8a54a57aa0fa87250ee83b69773"
+    },
+    {
+      "id": "reading-v080:中3:U+8511:kun",
+      "grade": "中3",
+      "character": "蔑",
+      "reading_kind": "kun",
+      "correct_answer": "くらい",
+      "choices": [
+        "くらい",
+        "はち",
+        "ふ",
+        "おおい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "88a1d992fada8890d4d53b3d123da984240d320523720c63620437cada8a6763"
+    },
+    {
+      "id": "reading-v080:中3:U+7E6D:on",
+      "grade": "中3",
+      "character": "繭",
+      "reading_kind": "on",
+      "correct_answer": "ケン",
+      "choices": [
+        "ショウ",
+        "ホウ",
+        "ケン",
+        "ゼン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "cff48218438ab8ce458db569fd90f95f73dbb54b0990b122eb606c0e4f6b9058"
+    },
+    {
+      "id": "reading-v080:中3:U+4E14:kun",
+      "grade": "中3",
+      "character": "且",
+      "reading_kind": "kun",
+      "correct_answer": "かつ",
+      "choices": [
+        "ふさぐ",
+        "かつ",
+        "おどす",
+        "くじける"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "73236e3e527b0ded3dfee8c7287a572f1b33bb3fed32a96c84a8dc8257849ecb"
+    },
+    {
+      "id": "reading-v080:中3:U+4E19:on",
+      "grade": "中3",
+      "character": "丙",
+      "reading_kind": "on",
+      "correct_answer": "ヘイ",
+      "choices": [
+        "ヘイ",
+        "サ",
+        "チュウ",
+        "ザ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "91bf7787b723fdc6f183d039868079d8b6475374958ad88ee8652b8e2b38a0dc"
+    },
+    {
+      "id": "reading-v080:中3:U+4F0E:kun",
+      "grade": "中3",
+      "character": "伎",
+      "reading_kind": "kun",
+      "correct_answer": "わざ",
+      "choices": [
+        "わざ",
+        "くじける",
+        "すごい",
+        "したがう"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6aaa3aeb5a947a055f25790ff35f4b7133a1442ea7946169958fc7d00087f28b"
+    },
+    {
+      "id": "reading-v080:中3:U+4FB6:on",
+      "grade": "中3",
+      "character": "侶",
+      "reading_kind": "on",
+      "correct_answer": "リョ",
+      "choices": [
+        "エン",
+        "オク",
+        "リョ",
+        "ゼン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "089a35bc01ed374c67d397d5c3d5b3c594513c581f6990bec3336bbe34e95813"
+    },
+    {
+      "id": "reading-v080:中3:U+50B2:kun",
+      "grade": "中3",
+      "character": "傲",
+      "reading_kind": "kun",
+      "correct_answer": "あなどる",
+      "choices": [
+        "むさぼる",
+        "くもる",
+        "あなどる",
+        "まじない"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d819b5f031e41da2e4c48cd1a4cf893bc190e7ae200f0c5573604977a9935a05"
+    },
+    {
+      "id": "reading-v080:中3:U+50C5:on",
+      "grade": "中3",
+      "character": "僅",
+      "reading_kind": "on",
+      "correct_answer": "キン",
+      "choices": [
+        "クツ",
+        "ボウ",
+        "バイ",
+        "キン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8375948d09e4461a29dd76770f29dd50f0969a98bdbce543706ed4f42b03d9a4"
+    },
+    {
+      "id": "reading-v080:中3:U+51B6:kun",
+      "grade": "中3",
+      "character": "冶",
+      "reading_kind": "kun",
+      "correct_answer": "いる",
+      "choices": [
+        "まくら",
+        "ひじ",
+        "おおむね",
+        "いる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fc84de37cfc7087d1968089af450ba6d4cac562be926f29d948d81b780ba17dd"
+    },
+    {
+      "id": "reading-v080:中3:U+5239:on",
+      "grade": "中3",
+      "character": "刹",
+      "reading_kind": "on",
+      "correct_answer": "サツ",
+      "choices": [
+        "サツ",
+        "エン",
+        "ドウ",
+        "チュウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "aabdc203154d19cc5f28cd6faf52420a83f908a215829f6ef6c8509ec7229636"
+    },
+    {
+      "id": "reading-v080:中3:U+525D:kun",
+      "grade": "中3",
+      "character": "剝",
+      "reading_kind": "kun",
+      "correct_answer": "はがす",
+      "choices": [
+        "はがす",
+        "うつ",
+        "にごす",
+        "とりで"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "91f50089a6849665f84efa1e99b30f735ef152e372d177cee17e78b630404822"
+    },
+    {
+      "id": "reading-v080:中3:U+52C3:on",
+      "grade": "中3",
+      "character": "勃",
+      "reading_kind": "on",
+      "correct_answer": "ホツ",
+      "choices": [
+        "ザン",
+        "メイ",
+        "ホツ",
+        "セイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3820a2a60d437bf7b8ac9663d006176389b2c44055c039cbf8c50209adc395b2"
+    },
+    {
+      "id": "reading-v080:中3:U+52FE:kun",
+      "grade": "中3",
+      "character": "勾",
+      "reading_kind": "kun",
+      "correct_answer": "かぎ",
+      "choices": [
+        "いく",
+        "はべる",
+        "たがいに",
+        "かぎ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2b412fa454399c41a0c2d0e434bbfc5deb67f0e1e329ce5c5eb7229ac3ca065f"
+    },
+    {
+      "id": "reading-v080:中3:U+540F:on",
+      "grade": "中3",
+      "character": "吏",
+      "reading_kind": "on",
+      "correct_answer": "リ",
+      "choices": [
+        "カン",
+        "ロ",
+        "リ",
+        "サツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9965ff3dc5811d8ed77b97542536a2caca1547cf8202e0df434bf2b16189abd9"
+    },
+    {
+      "id": "reading-v080:中3:U+54BD:kun",
+      "grade": "中3",
+      "character": "咽",
+      "reading_kind": "kun",
+      "correct_answer": "のど",
+      "choices": [
+        "のど",
+        "あさ",
+        "あま",
+        "つく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3ef4492f755f9a28dc92158d7f84ca1d7ae13b635bb77edbe9e1548be3bbb97b"
+    },
+    {
+      "id": "reading-v080:中3:U+553E:on",
+      "grade": "中3",
+      "character": "唾",
+      "reading_kind": "on",
+      "correct_answer": "タ",
+      "choices": [
+        "タ",
+        "トン",
+        "クン",
+        "カン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8ce481cd9b837ea658fbc179ec562adcea1729eebbf834649e734c8fb3acec7c"
+    },
+    {
+      "id": "reading-v080:中3:U+55A9:kun",
+      "grade": "中3",
+      "character": "喩",
+      "reading_kind": "kun",
+      "correct_answer": "さとす",
+      "choices": [
+        "いる",
+        "うっする",
+        "におわせる",
+        "さとす"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "62776cf4c56940baabf2ddf2d6594e87f308f6d587cac6d9b5e681afc5ccd12f"
+    },
+    {
+      "id": "reading-v080:中3:U+5632:on",
+      "grade": "中3",
+      "character": "嘲",
+      "reading_kind": "on",
+      "correct_answer": "チョウ",
+      "choices": [
+        "チョウ",
+        "アン",
+        "カ",
+        "ホウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ea166f6f3d863fefad0da61285baade8b7d2c3bc58d1c3cd0b5b31b152894e29"
+    },
+    {
+      "id": "reading-v080:中3:U+5851:kun",
+      "grade": "中3",
+      "character": "塑",
+      "reading_kind": "kun",
+      "correct_answer": "でく",
+      "choices": [
+        "きのと",
+        "そえ",
+        "みうち",
+        "でく"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "eef970973f5c15c3bb2a5123d7877247f211c5556200115ee056e0060269261a"
+    },
+    {
+      "id": "reading-v080:中3:U+585E:on",
+      "grade": "中3",
+      "character": "塞",
+      "reading_kind": "on",
+      "correct_answer": "サイ",
+      "choices": [
+        "サイ",
+        "イ",
+        "ベイ",
+        "サ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "13380ece2729c1d1093d59fb2f401ccb7c5a519f8fd81cb88412c4155d9a08d5"
+    },
+    {
+      "id": "reading-v080:中3:U+5861:kun",
+      "grade": "中3",
+      "character": "塡",
+      "reading_kind": "kun",
+      "correct_answer": "うずめる",
+      "choices": [
+        "ざれる",
+        "ぼこ",
+        "うずめる",
+        "けいする"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0fa6991f0b096cb172ca2f372e8529012ed45268509a1a53d257ad0379402c9d"
+    },
+    {
+      "id": "reading-v080:中3:U+58BE:on",
+      "grade": "中3",
+      "character": "墾",
+      "reading_kind": "on",
+      "correct_answer": "コン",
+      "choices": [
+        "コン",
+        "フ",
+        "フウ",
+        "グ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fabf449272944be4d10cc7054b766e72a9a5d827e70e6decdfa6ab5e2a83ae89"
+    },
+    {
+      "id": "reading-v080:中3:U+59AC:kun",
+      "grade": "中3",
+      "character": "妬",
+      "reading_kind": "kun",
+      "correct_answer": "そねむ",
+      "choices": [
+        "ふ",
+        "そねむ",
+        "ついえる",
+        "あきら"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "29a30564fe4fd8703ee379f0c44d98aa5dbb72f9c490ea8a581e5e4b2b5982f5"
+    },
+    {
+      "id": "reading-v080:中3:U+5B9B:on",
+      "grade": "中3",
+      "character": "宛",
+      "reading_kind": "on",
+      "correct_answer": "エン",
+      "choices": [
+        "セン",
+        "ギ",
+        "エツ",
+        "エン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "225c0992ed24a9dfad05a965d21dc503b8bd9e5424887f23230c55e010d6631d"
+    },
+    {
+      "id": "reading-v080:中3:U+5D16:kun",
+      "grade": "中3",
+      "character": "崖",
+      "reading_kind": "kun",
+      "correct_answer": "がけ",
+      "choices": [
+        "くせ",
+        "におう",
+        "がけ",
+        "あでやか"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8ee30a363f655274c51fe9b2d68f0d9af199f0963a96fc36da6953d4b9347781"
+    },
+    {
+      "id": "reading-v080:中3:U+5DFE:on",
+      "grade": "中3",
+      "character": "巾",
+      "reading_kind": "on",
+      "correct_answer": "キン",
+      "choices": [
+        "ケイ",
+        "ネン",
+        "キン",
+        "ハチ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e03c0db4a9252e9dec3edc7ccf6aa1b302d6b1cd6f7e2284527ed5578e8e43d1"
+    },
+    {
+      "id": "reading-v080:中3:U+5F04:kun",
+      "grade": "中3",
+      "character": "弄",
+      "reading_kind": "kun",
+      "correct_answer": "いじくる",
+      "choices": [
+        "ほお",
+        "いじくる",
+        "あがめる",
+        "はさまる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d4dc0f5a43d55c40a01e9cbbfe56b9c65c0c0e32fbec4418b325278ed6424e8b"
+    },
+    {
+      "id": "reading-v080:中3:U+5F10:on",
+      "grade": "中3",
+      "character": "弐",
+      "reading_kind": "on",
+      "correct_answer": "ジ",
+      "choices": [
+        "ジ",
+        "テキ",
+        "カン",
+        "ブ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d1938cd8f1e6b5a1d17ea0f53ce30815b6e9536a8dd9cfc5f896a01e97f9d56f"
+    },
+    {
+      "id": "reading-v080:中3:U+5F59:kun",
+      "grade": "中3",
+      "character": "彙",
+      "reading_kind": "kun",
+      "correct_answer": "はりねずみ",
+      "choices": [
+        "ひざ",
+        "うね",
+        "はりねずみ",
+        "へりくだる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "25ea5a8351f92c5106adafefc8ee26e24c87951e9a52109624f8f88577448485"
+    },
+    {
+      "id": "reading-v080:中3:U+6144:on",
+      "grade": "中3",
+      "character": "慄",
+      "reading_kind": "on",
+      "correct_answer": "リツ",
+      "choices": [
+        "リツ",
+        "ガイ",
+        "キン",
+        "ユウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "538c1f36d658b66f3f44d57ea5bb328b0260530b9fc6b040eac9bee2ba67de44"
+    },
+    {
+      "id": "reading-v080:中3:U+61AC:kun",
+      "grade": "中3",
+      "character": "憬",
+      "reading_kind": "kun",
+      "correct_answer": "あこがれる",
+      "choices": [
+        "はかる",
+        "あこがれる",
+        "おくする",
+        "いじめる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "273b245cab1b3f5cba522b63b8b1c4f1875b7461dba62c0f728504513e3a5171"
+    },
+    {
+      "id": "reading-v080:中3:U+621A:on",
+      "grade": "中3",
+      "character": "戚",
+      "reading_kind": "on",
+      "correct_answer": "セキ",
+      "choices": [
+        "スイ",
+        "セキ",
+        "シツ",
+        "キン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c083cabe3889daeae7696d340883ffbcc07547fa4b873ba0f1284c2d20f7421e"
+    },
+    {
+      "id": "reading-v080:中3:U+62C9:kun",
+      "grade": "中3",
+      "character": "拉",
+      "reading_kind": "kun",
+      "correct_answer": "くだく",
+      "choices": [
+        "ゆずる",
+        "はかどる",
+        "くだく",
+        "いましめる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9ccafa718e46c463c9a8f1a834f2dd4a27387ba3b86d703d79c8324c6d3c56ea"
+    },
+    {
+      "id": "reading-v080:中3:U+62F6:on",
+      "grade": "中3",
+      "character": "拶",
+      "reading_kind": "on",
+      "correct_answer": "サツ",
+      "choices": [
+        "バン",
+        "サク",
+        "サツ",
+        "カツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "88f36b128e7b98e53cbc6d19858286ecabdb173f3a6572346e91137fa14dab0d"
+    },
+    {
+      "id": "reading-v080:中3:U+6357:kun",
+      "grade": "中3",
+      "character": "捗",
+      "reading_kind": "kun",
+      "correct_answer": "はかどる",
+      "choices": [
+        "はかどる",
+        "しずく",
+        "やまにれ",
+        "にわとり"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "4a8489f5a17554974cac310dec7fd169aa170007ff8626fc9163ff0b72929338"
+    },
+    {
+      "id": "reading-v080:中3:U+637B:on",
+      "grade": "中3",
+      "character": "捻",
+      "reading_kind": "on",
+      "correct_answer": "ジョウ",
+      "choices": [
+        "ジョウ",
+        "ゼン",
+        "ビ",
+        "ニョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "380c8ac5406f2710aacf2852a69075cf33c53295a21013184efe5a4e751ddc24"
+    },
+    {
+      "id": "reading-v080:中3:U+65A4:on",
+      "grade": "中3",
+      "character": "斤",
+      "reading_kind": "on",
+      "correct_answer": "キン",
+      "choices": [
+        "キン",
+        "ジョウ",
+        "イ",
+        "オン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "5e3416c80a6c2605b178fabd058433af176308b2195142f950543c69b72dc618"
+    },
+    {
+      "id": "reading-v080:中3:U+65E6:on",
+      "grade": "中3",
+      "character": "旦",
+      "reading_kind": "on",
+      "correct_answer": "タン",
+      "choices": [
+        "ホ",
+        "タン",
+        "エン",
+        "ショウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "635817a68cd83d14fb0779351041d9f42f24f04c3a349e143ea54afb5c2d74bc"
+    },
+    {
+      "id": "reading-v080:中3:U+6627:kun",
+      "grade": "中3",
+      "character": "昧",
+      "reading_kind": "kun",
+      "correct_answer": "くらい",
+      "choices": [
+        "くらい",
+        "はる",
+        "しなびる",
+        "すぐれる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3c96ebd0e81fb277bcab3ca8b0bc3bf862aa4262c88c14e5bab5968c56b12f3a"
+    },
+    {
+      "id": "reading-v080:中3:U+66D6:on",
+      "grade": "中3",
+      "character": "曖",
+      "reading_kind": "on",
+      "correct_answer": "アイ",
+      "choices": [
+        "アイ",
+        "リ",
+        "グ",
+        "シ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c725d0393571c462829205c8251692f2f4e5c40b0ee702df236742737c512284"
+    },
+    {
+      "id": "reading-v080:中3:U+6715:on",
+      "grade": "中3",
+      "character": "朕",
+      "reading_kind": "on",
+      "correct_answer": "チン",
+      "choices": [
+        "チン",
+        "ガ",
+        "ザン",
+        "シチ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1841343fdb62f82936eec6e2dee83023ad103e62d7ab2c9ae0bc9bcb50d772a7"
+    },
+    {
+      "id": "reading-v080:中3:U+67F5:on",
+      "grade": "中3",
+      "character": "柵",
+      "reading_kind": "on",
+      "correct_answer": "サク",
+      "choices": [
+        "ガイ",
+        "ハン",
+        "エン",
+        "サク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fb9ccfc8d3ceae2cb67897cc4ea355b93785575ba6e37a3b1f374fcdf584bafe"
+    },
+    {
+      "id": "reading-v080:中3:U+6841:kun",
+      "grade": "中3",
+      "character": "桁",
+      "reading_kind": "kun",
+      "correct_answer": "けた",
+      "choices": [
+        "みやこがえ",
+        "しも",
+        "けた",
+        "つゆ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0510847a58c381e669d1568f435c9bf00af3943732f24600b6d5ebf722af7187"
+    },
+    {
+      "id": "reading-v080:中3:U+6897:on",
+      "grade": "中3",
+      "character": "梗",
+      "reading_kind": "on",
+      "correct_answer": "キョウ",
+      "choices": [
+        "トン",
+        "キョウ",
+        "リ",
+        "ム"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "942fab4c03832ac64c01b18d24e8e072c1a3ac1c9341442ba4060f93cbeed230"
+    },
+    {
+      "id": "reading-v080:中3:U+6977:on",
+      "grade": "中3",
+      "character": "楷",
+      "reading_kind": "on",
+      "correct_answer": "カイ",
+      "choices": [
+        "カイ",
+        "ヘイ",
+        "ショウ",
+        "タン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b7bf0c6c944b01f322a9fc58ea16c14e579070c8e5315bc645a6268895b45253"
+    },
+    {
+      "id": "reading-v080:中3:U+6BC0:on",
+      "grade": "中3",
+      "character": "毀",
+      "reading_kind": "on",
+      "correct_answer": "キ",
+      "choices": [
+        "アン",
+        "トン",
+        "キ",
+        "ショウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b8240d6c3ba9d8ae467110d048a4aa8b4b7397a91f1e44a7c375c8639db53470"
+    },
+    {
+      "id": "reading-v080:中3:U+6C3E:kun",
+      "grade": "中3",
+      "character": "氾",
+      "reading_kind": "kun",
+      "correct_answer": "ひろがる",
+      "choices": [
+        "ひろがる",
+        "せ",
+        "うれい",
+        "さえぎる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f6a7d864142fe1aa19f60c61df42ee32000d7ebb2f98e9d1a61d795e857614ca"
+    },
+    {
+      "id": "reading-v080:中3:U+6C70:on",
+      "grade": "中3",
+      "character": "汰",
+      "reading_kind": "on",
+      "correct_answer": "タ",
+      "choices": [
+        "カイ",
+        "タ",
+        "ラン",
+        "ショウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ca16472be548e9782be2d864cf6703200bd037e24f517165771e5a9dcdcc1e36"
+    },
+    {
+      "id": "reading-v080:中3:U+6C83:kun",
+      "grade": "中3",
+      "character": "沃",
+      "reading_kind": "kun",
+      "correct_answer": "そそぐ",
+      "choices": [
+        "そそぐ",
+        "ふさぐ",
+        "わける",
+        "うける"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fadbbb2a0d6809033c4058d0a5e6721515bc8afdf45ac5e39fdb8e66ac3fb12d"
+    },
+    {
+      "id": "reading-v080:中3:U+6DEB:on",
+      "grade": "中3",
+      "character": "淫",
+      "reading_kind": "on",
+      "correct_answer": "イン",
+      "choices": [
+        "ソク",
+        "ショウ",
+        "サン",
+        "イン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "81422b0ac390604c13d33d77a231be0f5cb8d19c61bb73c93c8a65e69e139397"
+    },
+    {
+      "id": "reading-v080:中3:U+6EBA:kun",
+      "grade": "中3",
+      "character": "溺",
+      "reading_kind": "kun",
+      "correct_answer": "いばり",
+      "choices": [
+        "いばり",
+        "あかつき",
+        "やみ",
+        "たのしむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "dfddbd516c7a8c953f0fbd3311bf91c806d818f587eefe556263cc0714cad846"
+    },
+    {
+      "id": "reading-v080:中3:U+6F70:on",
+      "grade": "中3",
+      "character": "潰",
+      "reading_kind": "on",
+      "correct_answer": "エ",
+      "choices": [
+        "ジ",
+        "チュ",
+        "エ",
+        "サイ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "945dd4c7d7083a0897e518ac36a7a63b6b7e636faefff5cc828a5046c622b56d"
+    },
+    {
+      "id": "reading-v080:中3:U+6FEB:kun",
+      "grade": "中3",
+      "character": "濫",
+      "reading_kind": "kun",
+      "correct_answer": "みだりがましい",
+      "choices": [
+        "むくろ",
+        "うれえる",
+        "つもる",
+        "みだりがましい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e2e05309393c4915c2eb4fb019d7a187bdb14501061193c0fcf855631f1fd9b2"
+    },
+    {
+      "id": "reading-v080:中3:U+7235:on",
+      "grade": "中3",
+      "character": "爵",
+      "reading_kind": "on",
+      "correct_answer": "シャク",
+      "choices": [
+        "シャク",
+        "ホウ",
+        "ビツ",
+        "キョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "defdead16ace3ad4c3c58d4215b0e3cfbc1afb15561c673cf6a6b24c2963b51a"
+    },
+    {
+      "id": "reading-v080:中3:U+7483:on",
+      "grade": "中3",
+      "character": "璃",
+      "reading_kind": "on",
+      "correct_answer": "リ",
+      "choices": [
+        "チュウ",
+        "リ",
+        "シツ",
+        "ロウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "68e7d9463ab70a84be5cb44d3b9e1aaa925dd8477382a4fa9abb89c7ff537b38"
+    },
+    {
+      "id": "reading-v080:中3:U+74A7:on",
+      "grade": "中3",
+      "character": "璧",
+      "reading_kind": "on",
+      "correct_answer": "ヘキ",
+      "choices": [
+        "トク",
+        "ヘキ",
+        "オク",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "179b40ae2e59a3319352c966b73a791f6398685c7e87ca9a07f2bf3927d4e94c"
+    },
+    {
+      "id": "reading-v080:中3:U+74BD:on",
+      "grade": "中3",
+      "character": "璽",
+      "reading_kind": "on",
+      "correct_answer": "ジ",
+      "choices": [
+        "メイ",
+        "ジ",
+        "リ",
+        "タン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a7098af8e9ee0efaa104b81828e1494c02acc28b9fc71fe34fcea4ec2a893416"
+    },
+    {
+      "id": "reading-v080:中3:U+75D8:on",
+      "grade": "中3",
+      "character": "痘",
+      "reading_kind": "on",
+      "correct_answer": "トウ",
+      "choices": [
+        "トウ",
+        "コ",
+        "ヒ",
+        "クツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "6898dd39de0a487dfe7abe86efa66f364c11553adcc0a0fa773cbb2264d1bee0"
+    },
+    {
+      "id": "reading-v080:中3:U+75E9:kun",
+      "grade": "中3",
+      "character": "痩",
+      "reading_kind": "kun",
+      "correct_answer": "やせる",
+      "choices": [
+        "におい",
+        "まこと",
+        "むすめ",
+        "やせる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0b80947b2296b3ed527adb8ee32b06d7e513cdd7fad82c28898e5488c4c41d86"
+    },
+    {
+      "id": "reading-v080:中3:U+760D:on",
+      "grade": "中3",
+      "character": "瘍",
+      "reading_kind": "on",
+      "correct_answer": "ヨウ",
+      "choices": [
+        "チン",
+        "ショウ",
+        "ヨウ",
+        "ラン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "17941a40270427ec477952cd99aad3753b052659f685c1b5f731169358f7c06f"
+    },
+    {
+      "id": "reading-v080:中3:U+77AD:kun",
+      "grade": "中3",
+      "character": "瞭",
+      "reading_kind": "kun",
+      "correct_answer": "あきらか",
+      "choices": [
+        "なえる",
+        "とりで",
+        "あきらか",
+        "つつしむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "59400821f26dbf62069f34be1ad4e6a3e2baf641a9d6a702ae3a985c889280f6"
+    },
+    {
+      "id": "reading-v080:中3:U+7A9F:on",
+      "grade": "中3",
+      "character": "窟",
+      "reading_kind": "on",
+      "correct_answer": "クツ",
+      "choices": [
+        "ヨウ",
+        "セイ",
+        "セツ",
+        "クツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fd4965613383121a9f138f812a4c39d358d830f6fcb7f8e5f653600252079d14"
+    },
+    {
+      "id": "reading-v080:中3:U+7B87:on",
+      "grade": "中3",
+      "character": "箇",
+      "reading_kind": "on",
+      "correct_answer": "カ",
+      "choices": [
+        "シン",
+        "カ",
+        "ク",
+        "トツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "cf510f5b4bfd4c5ee08d6653131439201319801c3b36564c2de997276aa871d8"
+    },
+    {
+      "id": "reading-v080:中3:U+7B8B:on",
+      "grade": "中3",
+      "character": "箋",
+      "reading_kind": "on",
+      "correct_answer": "セン",
+      "choices": [
+        "サイ",
+        "ショウ",
+        "シュウ",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8db66f803ee894b460c19138f97acbffb24ec2cd86cc981c62d99d6689b3549d"
+    },
+    {
+      "id": "reading-v080:中3:U+7C60:kun",
+      "grade": "中3",
+      "character": "籠",
+      "reading_kind": "kun",
+      "correct_answer": "かご",
+      "choices": [
+        "つたない",
+        "いましめる",
+        "つかむ",
+        "かご"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c564ef8f96224a70c1f5350e370a9421cb6735a4aacf8100c506e8bfb0d1a1bc"
+    },
+    {
+      "id": "reading-v080:中3:U+7DBB:on",
+      "grade": "中3",
+      "character": "綻",
+      "reading_kind": "on",
+      "correct_answer": "タン",
+      "choices": [
+        "ゾウ",
+        "タン",
+        "ショウ",
+        "エン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "014850dae077bb420c5daf21dcaa9a95bc1a5e2363dc69b6396b7cd211d4d7a7"
+    },
+    {
+      "id": "reading-v080:中3:U+7F9E:kun",
+      "grade": "中3",
+      "character": "羞",
+      "reading_kind": "kun",
+      "correct_answer": "すすめる",
+      "choices": [
+        "すすめる",
+        "ひじ",
+        "こめる",
+        "つめ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "3fd252dfbc1f18da98ab99b5b5dd41eae822cf71dab777f0f7aaee87d3dac13f"
+    },
+    {
+      "id": "reading-v080:中3:U+7FA8:on",
+      "grade": "中3",
+      "character": "羨",
+      "reading_kind": "on",
+      "correct_answer": "エン",
+      "choices": [
+        "エン",
+        "オウ",
+        "キョウ",
+        "ジン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7e1ab0f37db7079fd4363ad66ae46a630f9246e4e6e21ce7b0f2407f427403e0"
+    },
+    {
+      "id": "reading-v080:中3:U+8017:on",
+      "grade": "中3",
+      "character": "耗",
+      "reading_kind": "on",
+      "correct_answer": "コウ",
+      "choices": [
+        "ト",
+        "コン",
+        "コウ",
+        "ホツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "edd21e5321a726e417e4aa319d08df85f9f504ed4777f9c7f8e95cadb63b3bbf"
+    },
+    {
+      "id": "reading-v080:中3:U+8098:on",
+      "grade": "中3",
+      "character": "肘",
+      "reading_kind": "on",
+      "correct_answer": "チュウ",
+      "choices": [
+        "チュウ",
+        "セイ",
+        "キュウ",
+        "トツ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7301ecc38b5a72061932a183f9d32c51413abc5c0c87e001b85d9756a49aeb27"
+    },
+    {
+      "id": "reading-v080:中3:U+817A:on",
+      "grade": "中3",
+      "character": "腺",
+      "reading_kind": "on",
+      "correct_answer": "セン",
+      "choices": [
+        "エン",
+        "ヘイ",
+        "ボク",
+        "セン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "461da71ac1afd1a9ea46be9138797ca372bbc73abcfe217edafe3412609633ce"
+    },
+    {
+      "id": "reading-v080:中3:U+81C6:on",
+      "grade": "中3",
+      "character": "臆",
+      "reading_kind": "on",
+      "correct_answer": "オク",
+      "choices": [
+        "セイ",
+        "コウ",
+        "オク",
+        "カン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "032f6cae934c0c53d99461757cbbbd2d8b39956b6d51d5a5eed75b41c68060ff"
+    },
+    {
+      "id": "reading-v080:中3:U+8237:kun",
+      "grade": "中3",
+      "character": "舷",
+      "reading_kind": "kun",
+      "correct_answer": "ふなばた",
+      "choices": [
+        "ひねくる",
+        "のろい",
+        "ただし",
+        "ふなばた"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "69e9ddc274b39bf99235cb96f20d9f416799a61346d023911017448ff3e2c1a8"
+    },
+    {
+      "id": "reading-v080:中3:U+82DB:on",
+      "grade": "中3",
+      "character": "苛",
+      "reading_kind": "on",
+      "correct_answer": "カ",
+      "choices": [
+        "タン",
+        "カ",
+        "タイ",
+        "キ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "ce056089c6ab7d695f873a9bde34efa36c621ff3f419ce3f5d66af6e33f20e83"
+    },
+    {
+      "id": "reading-v080:中3:U+840E:kun",
+      "grade": "中3",
+      "character": "萎",
+      "reading_kind": "kun",
+      "correct_answer": "しおれる",
+      "choices": [
+        "なげく",
+        "みだりがましい",
+        "しおれる",
+        "むつむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "7cec6ccaffe99afaa39bbf52d254b195a976b41125a599cad802eddf3f6b749e"
+    },
+    {
+      "id": "reading-v080:中3:U+853D:on",
+      "grade": "中3",
+      "character": "蔽",
+      "reading_kind": "on",
+      "correct_answer": "フツ",
+      "choices": [
+        "フツ",
+        "ゴン",
+        "イ",
+        "ヨウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "e716af782c5ba5283059bc52c0e33249fd42d1236edae46cc21c71042cc4e74e"
+    },
+    {
+      "id": "reading-v080:中3:U+865E:kun",
+      "grade": "中3",
+      "character": "虞",
+      "reading_kind": "kun",
+      "correct_answer": "あざむく",
+      "choices": [
+        "あざむく",
+        "たもう",
+        "おそれる",
+        "はれ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "cae176e7a1cd3f50160eb3b619f13582b7fe6af3ab6855c9cd64ed0fd120839d"
+    },
+    {
+      "id": "reading-v080:中3:U+8A63:on",
+      "grade": "中3",
+      "character": "詣",
+      "reading_kind": "on",
+      "correct_answer": "ケイ",
+      "choices": [
+        "ロウ",
+        "チ",
+        "ケイ",
+        "リ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "70cfc71f711c9c761f0d164b98bff72659bf8e4a8cba7247e56b3c2087f714a9"
+    },
+    {
+      "id": "reading-v080:中3:U+8A6E:kun",
+      "grade": "中3",
+      "character": "詮",
+      "reading_kind": "kun",
+      "correct_answer": "あきらか",
+      "choices": [
+        "すすめる",
+        "はじる",
+        "あきらか",
+        "みだりがましい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c0be2f66aa90734e12b93dd45f8ef5acb55bd61370059502e216c6c46a5f0bac"
+    },
+    {
+      "id": "reading-v080:中3:U+8AE7:on",
+      "grade": "中3",
+      "character": "諧",
+      "reading_kind": "on",
+      "correct_answer": "カイ",
+      "choices": [
+        "キン",
+        "カイ",
+        "ゴウ",
+        "コ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "d39df7e8c03f669ec08680b0a739d7b820009574178da1e2231557bdc16fbdb8"
+    },
+    {
+      "id": "reading-v080:中3:U+8B01:on",
+      "grade": "中3",
+      "character": "謁",
+      "reading_kind": "on",
+      "correct_answer": "エツ",
+      "choices": [
+        "エツ",
+        "シ",
+        "ゾク",
+        "ソク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "9e5d9b166db5201bbb928b22ae0ca303ba5654487ab485083994eebf81cf2755"
+    },
+    {
+      "id": "reading-v080:中3:U+8C8C:on",
+      "grade": "中3",
+      "character": "貌",
+      "reading_kind": "on",
+      "correct_answer": "バク",
+      "choices": [
+        "ヘキ",
+        "バク",
+        "リ",
+        "サ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "38451f9f834a856a8f3fb3dfe0ef922da304eaaf3b9cb2c6b7614a66bbf12208"
+    },
+    {
+      "id": "reading-v080:中3:U+8CAA:kun",
+      "grade": "中3",
+      "character": "貪",
+      "reading_kind": "kun",
+      "correct_answer": "むさぼる",
+      "choices": [
+        "つくろう",
+        "むさぼる",
+        "はさむ",
+        "はめる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c6f0b24d284f23040cc59f6cf7d63d90a4cb0fce58ac855be6bb74a9bc0d8a95"
+    },
+    {
+      "id": "reading-v080:中3:U+8CC2:on",
+      "grade": "中3",
+      "character": "賂",
+      "reading_kind": "on",
+      "correct_answer": "ロ",
+      "choices": [
+        "ロ",
+        "チュウ",
+        "ヤ",
+        "ヨウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "013ae8507dfe16c14b0f37633af1d5337b5a2d6ef7e0ec460a5451fc2ff9e05a"
+    },
+    {
+      "id": "reading-v080:中3:U+8CE6:on",
+      "grade": "中3",
+      "character": "賦",
+      "reading_kind": "on",
+      "correct_answer": "フ",
+      "choices": [
+        "リ",
+        "フ",
+        "ザン",
+        "ショウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "b77c365a04aca56f6db08b6e5fd5fa98bc479a258288e7d2e2f2206ae331b720"
+    },
+    {
+      "id": "reading-v080:中3:U+8E2A:on",
+      "grade": "中3",
+      "character": "踪",
+      "reading_kind": "on",
+      "correct_answer": "ショウ",
+      "choices": [
+        "ショウ",
+        "シュク",
+        "ゴウ",
+        "シャク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "88f63c7c61449ba2874d2b0fe1a526d30d4ffc46828983291eb14953c9dbb2e1"
+    },
+    {
+      "id": "reading-v080:中3:U+8FA3:kun",
+      "grade": "中3",
+      "character": "辣",
+      "reading_kind": "kun",
+      "correct_answer": "からい",
+      "choices": [
+        "ねる",
+        "うるさがる",
+        "つく",
+        "からい"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "205f72b8512c79b67001895d6fff6e3ccf0085d891b7a24a2b42dacf3398511b"
+    },
+    {
+      "id": "reading-v080:中3:U+905C:on",
+      "grade": "中3",
+      "character": "遜",
+      "reading_kind": "on",
+      "correct_answer": "ソン",
+      "choices": [
+        "オン",
+        "ケイ",
+        "ソン",
+        "ゲ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c2cfcee83adff03b9a8653dfeb48ca3161b53db199e0c1e032905c5c0bbd0746"
+    },
+    {
+      "id": "reading-v080:中3:U+9061:kun",
+      "grade": "中3",
+      "character": "遡",
+      "reading_kind": "kun",
+      "correct_answer": "さかのぼる",
+      "choices": [
+        "かこう",
+        "さかのぼる",
+        "くだく",
+        "かさ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "a515dfc851425860b58ff51ae72ea84a82fbbf813d6007aa27cfb00693b78cf4"
+    },
+    {
+      "id": "reading-v080:中3:U+9075:on",
+      "grade": "中3",
+      "character": "遵",
+      "reading_kind": "on",
+      "correct_answer": "ジュン",
+      "choices": [
+        "エイ",
+        "フク",
+        "ジュン",
+        "ニョウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "1e5fadd7fcf9a9a88cd5b6f3ac587e9114b4924f34fd0dfbee2e9d9e2771a2ae"
+    },
+    {
+      "id": "reading-v080:中3:U+914E:kun",
+      "grade": "中3",
+      "character": "酎",
+      "reading_kind": "kun",
+      "correct_answer": "かもす",
+      "choices": [
+        "かい",
+        "もうでる",
+        "かもす",
+        "おごる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "57b76f001b46f45038138fc00d3d568f347891a8d7325c860bc4315a70336c3a"
+    },
+    {
+      "id": "reading-v080:中3:U+9192:on",
+      "grade": "中3",
+      "character": "醒",
+      "reading_kind": "on",
+      "correct_answer": "セイ",
+      "choices": [
+        "コウ",
+        "セイ",
+        "ラツ",
+        "タン"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "f566a6c3b70690971d06c6afefada5186e42cab781085cf8fd790bf59d48452f"
+    },
+    {
+      "id": "reading-v080:中3:U+91C7:kun",
+      "grade": "中3",
+      "character": "采",
+      "reading_kind": "kun",
+      "correct_answer": "いろどり",
+      "choices": [
+        "けいする",
+        "いろどり",
+        "むく",
+        "おごる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "863169e2a427067ba5fad802316fcbe5d36c9ebee79a4481037399c3071fbf96"
+    },
+    {
+      "id": "reading-v080:中3:U+932E:on",
+      "grade": "中3",
+      "character": "錮",
+      "reading_kind": "on",
+      "correct_answer": "コ",
+      "choices": [
+        "カイ",
+        "エン",
+        "シュウ",
+        "コ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "c404d8bde52ea19749f80fde78c135b1a4e0ffdd5d1725c806e02f0c8341204a"
+    },
+    {
+      "id": "reading-v080:中3:U+9699:kun",
+      "grade": "中3",
+      "character": "隙",
+      "reading_kind": "kun",
+      "correct_answer": "すかす",
+      "choices": [
+        "はし",
+        "したがう",
+        "すかす",
+        "せんずる"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "009514570bf0f946259211c3f9876f2c99d5c746bc5ea0305cc7b44230eeca6c"
+    },
+    {
+      "id": "reading-v080:中3:U+9813:on",
+      "grade": "中3",
+      "character": "頓",
+      "reading_kind": "on",
+      "correct_answer": "トツ",
+      "choices": [
+        "ショウ",
+        "トツ",
+        "チョ",
+        "ウ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "475b6b3809c833872a25d43d2f1cf53583a388d6d1cc67b03a2f771892bad506"
+    },
+    {
+      "id": "reading-v080:中3:U+9830:kun",
+      "grade": "中3",
+      "character": "頰",
+      "reading_kind": "kun",
+      "correct_answer": "ほお",
+      "choices": [
+        "ほお",
+        "きば",
+        "たのしむ",
+        "わきばさむ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "fe84e61f135af2cb499ae4ad9183c66a86fbb7661e908913f22172f1ddbd8268"
+    },
+    {
+      "id": "reading-v080:中3:U+984E:on",
+      "grade": "中3",
+      "character": "顎",
+      "reading_kind": "on",
+      "correct_answer": "ガク",
+      "choices": [
+        "サ",
+        "セキ",
+        "ゼン",
+        "ガク"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "2f359e50f8ef6d3368515b4a8d894c6245bc3baf70bacb919e9efee46d2a7cb1"
+    },
+    {
+      "id": "reading-v080:中3:U+9AB8:kun",
+      "grade": "中3",
+      "character": "骸",
+      "reading_kind": "kun",
+      "correct_answer": "むくろ",
+      "choices": [
+        "しこ",
+        "むくろ",
+        "やぶる",
+        "かこう"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "0f9e1e3eda2ef053acdce3d405e74e272fc0f24ff2150233f04a3fe359d20695"
+    },
+    {
+      "id": "reading-v080:中3:U+9B31:on",
+      "grade": "中3",
+      "character": "鬱",
+      "reading_kind": "on",
+      "correct_answer": "ウツ",
+      "choices": [
+        "コ",
+        "ウツ",
+        "ケイ",
+        "テキ"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "28f61fda1fec8f5f6def989d35c41d81ae058e0d3817c7312cc412c76ce69330"
+    },
+    {
+      "id": "reading-v080:中3:U+20B9F:kun",
+      "grade": "中3",
+      "character": "𠮟",
+      "reading_kind": "kun",
+      "correct_answer": "しかる",
+      "choices": [
+        "しかる",
+        "かさ",
+        "けいする",
+        "そで"
+      ],
+      "human_review_required": true,
+      "reviewed": false,
+      "content_sha256": "8bfd148af3de36232aa84ddec44a9c532ae0fae91ca73ae754ea82e0d8d6e3c8"
+    }
+  ]
+}
