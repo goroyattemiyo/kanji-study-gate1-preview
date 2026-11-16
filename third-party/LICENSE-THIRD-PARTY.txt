@@ -19,3 +19,28 @@ IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 KanjiVG copyright Ulrich Apel and contributors. Extracted path data:
 https://github.com/KanjiVG/kanjivg/releases/tag/r20250816
 License: CC BY-SA 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/).
+
+Gate 1 v0.6.0 — school kanji learning-card data
+KANJIDIC2 is the property of the Electronic Dictionary Research and
+Development Group (EDRDG); used under Creative Commons Attribution-
+ShareAlike 4.0 International (CC BY-SA 4.0).
+Data snapshot: database_version 2026-293, dated 2026-10-20.
+Source: https://www.edrdg.org/kanjidic/kanjidic2.xml.gz
+Pinned backup: https://github.com/meatlover/store/blob/main/kanjidic2-2026-10-20.xml.gz
+Terms and official attribution: https://www.edrdg.org/edrdg/licence.html
+License: https://creativecommons.org/licenses/by-sa/4.0/
+EDRDG requires review/update of underlying data at least monthly; the pinned
+source here is for reproducible release builds and must be revisited.
+
+KanjiVG © Ulrich Apel and contributors; CC BY-SA 3.0 Unported.
+Source: https://github.com/KanjiVG/kanjivg/releases/tag/r20250816
+License: https://creativecommons.org/licenses/by-sa/3.0/
+KanjiVG stroke path extraction is a derivative of the r20250816 release.
+
+Elementary grade allocation order and the official Joyo character list were
+cross-checked against the CC0 kanji-data project by mimneko,
+revision 0be3577f7939ec85d2b4e373a7a94262e7449e13:
+https://github.com/mimneko/kanji-data
+These school-year orderings and junior-high subdivisions are not official
+semester scheduling. The middle-school 370/370/370 groupings and per-year
+first/second-half split are explicitly estimated heuristics.

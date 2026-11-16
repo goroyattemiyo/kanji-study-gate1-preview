@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "total_target": 2136,
+  "coverage": 2136,
+  "grades": {
+    "小1": {
+      "target": 80,
+      "available": 80,
+      "halves": {
+        "ぜんはん": 40,
+        "こうはん": 40
+      }
+    },
+    "小2": {
+      "target": 160,
+      "available": 160,
+      "halves": {
+        "ぜんはん": 80,
+        "こうはん": 80
+      }
+    },
+    "小3": {
+      "target": 200,
+      "available": 200,
+      "halves": {
+        "ぜんはん": 100,
+        "こうはん": 100
+      }
+    },
+    "小4": {
+      "target": 202,
+      "available": 202,
+      "halves": {
+        "ぜんはん": 101,
+        "こうはん": 101
+      }
+    },
+    "小5": {
+      "target": 193,
+      "available": 193,
+      "halves": {
+        "ぜんはん": 97,
+        "こうはん": 96
+      }
+    },
+    "小6": {
+      "target": 191,
+      "available": 191,
+      "halves": {
+        "ぜんはん": 96,
+        "こうはん": 95
+      }
+    },
+    "中1": {
+      "target": 370,
+      "available": 370,
+      "halves": {
+        "ぜんはん": 185,
+        "こうはん": 185
+      }
+    },
+    "中2": {
+      "target": 370,
+      "available": 370,
+      "halves": {
+        "ぜんはん": 185,
+        "こうはん": 185
+      }
+    },
+    "中3": {
+      "target": 370,
+      "available": 370,
+      "halves": {
+        "ぜんはん": 185,
+        "こうはん": 185
+      }
+    }
+  },
+  "missing": [],
+  "sources": {
+    "kanjidic2_snapshot": "2026-10-20",
+    "kanjivg": "r20250816",
+    "mimneko_commit": "0be3577f7939ec85d2b4e373a7a94262e7449e13",
+    "sha256": {
+      "kanjidic2.xml.gz": "702254c856d0fe8ea61508149572969553827725010d03187356e17b7f53532a",
+      "kanjivg-20250816-main.zip": "69a2944ec1183086fdee5ba9c1f48bc306b867480a95b2f337f3203bf50689a3",
+      "教育漢字.csv": "cfcbbde7a59f48201d049aa811491b6b6b20756c687da1e3f6d9011c119f6c1a",
+      "常用漢字.csv": "7fde9c9db1651e9ed893ec8937e6dc6fd8bf37d11e00f05f935beeb59bf3f9e4"
+    }
+  },
+  "grade7_9_estimated": true,
+  "halves_estimated": true
+}
