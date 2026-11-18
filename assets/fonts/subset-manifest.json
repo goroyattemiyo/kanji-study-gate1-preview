@@ -3,19 +3,19 @@
   "sourceCommit": "cc39c4c2c304bc368c9b7c311ea2bcc6013299fe",
   "font": "Zen Kaku Gothic New",
   "license": "SIL OFL 1.1",
-  "interfaceGlyphCount": 463,
+  "interfaceGlyphCount": 468,
   "weights": [
     {
       "weight": 700,
       "filename": "zen-kaku-700-subset.woff2",
-      "bytes": 58800,
-      "sha256": "efb2c592efa0f600d2329d8edac4c60b3135d3abc2f1d376df17e1700b318bce"
+      "bytes": 59640,
+      "sha256": "632daccb72b31754ddac109e38c01467179c14a560c50c0c6b83470ddf579bc5"
     },
     {
       "weight": 900,
       "filename": "zen-kaku-900-subset.woff2",
-      "bytes": 58312,
-      "sha256": "3d85a1eb329a71b2ead8840bd68aa775171a4ea687b800fe163d34d6729f6b25"
+      "bytes": 59052,
+      "sha256": "09595a4c958476fb4cb3fd7b3228a08ee83c143bd63c98dfdcd1b4979847fe51"
     }
   ]
 }
