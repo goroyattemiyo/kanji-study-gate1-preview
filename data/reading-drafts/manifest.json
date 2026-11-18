@@ -7,58 +7,58 @@
       "cards": 80,
       "generated": 80,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 80
     },
     "小2": {
       "cards": 160,
       "generated": 160,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 160
     },
     "小3": {
       "cards": 200,
       "generated": 200,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 200
     },
     "小4": {
       "cards": 202,
       "generated": 202,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 202
     },
     "小5": {
       "cards": 193,
       "generated": 193,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 193
     },
     "小6": {
       "cards": 191,
       "generated": 191,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 191
     },
     "中1": {
       "cards": 370,
       "generated": 370,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 370
     },
     "中2": {
       "cards": 370,
       "generated": 370,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 370
     },
     "中3": {
       "cards": 370,
       "generated": 370,
       "skipped": [],
-      "reviewed": 0
+      "reviewed": 370
     }
   },
   "total_generated": 2136,
   "total_skipped": 0,
-  "total_reviewed": 0
+  "total_reviewed": 2136
 }

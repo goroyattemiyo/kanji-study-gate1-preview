@@ -17,7 +17,7 @@
         "シ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c8dda1668ca1d106f8c2790ff5f51e03ee26447265d397dbfc94079ec818cc3a"
     },
     {
@@ -33,7 +33,7 @@
         "サク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "d87f68aee8aff9fface945013466fdb4aeab750cb727cb337f9c58d11ee1299f"
     },
     {
@@ -49,7 +49,7 @@
         "ゾウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c9c985d9360899156073a57ae5ca265d74bb62de6a5dfb726eb70851aebf8934"
     },
     {
@@ -65,7 +65,7 @@
         "イキ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "d5dae34763df996d868406f64df1589749a56b4237edabc56ebb227c31f90f46"
     },
     {
@@ -81,7 +81,7 @@
         "タン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5086f326d62d451b139f8519717d0f3815cd5d2b20d0bcafda94293a83895938"
     },
     {
@@ -97,7 +97,7 @@
         "きず"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "30d2649503d9c0a13f6e0bdd8b3f50aa10d16403a11a80e4af145797648ffc9e"
     },
     {
@@ -113,7 +113,7 @@
         "エン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "820961225a446455e03c2e42061d4dea697cd65314244cbf7d7b15a4d946043c"
     },
     {
@@ -129,7 +129,7 @@
         "あやぶむ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "edb041d26148b01f7ca9ec7beb9f0be28c5ca626676624b5ca5769ba76e1e70f"
     },
     {
@@ -145,7 +145,7 @@
         "オン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "08f6f4e31af5b2b90629582eeab0378bb82f701a03c889820208c91eaf89f747"
     },
     {
@@ -161,7 +161,7 @@
         "わ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "4303dd71fe76884a1bea23d6362f745902c9e8dffaf3757c0b34eb7863aa6c7d"
     },
     {
@@ -177,7 +177,7 @@
         "セン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "d51c252c412598b60d587cfcc18c4d88d0f900e7a48b1b781cee182eba973452"
     },
     {
@@ -193,7 +193,7 @@
         "さわる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "bbd5e688de07656991d178a10db90d791d4a50afe93cebd558257aafc6099ea1"
     },
     {
@@ -209,7 +209,7 @@
         "ヨ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "044750e4e56ecc846a4a25632f8fe4600e30f2c5e754e60ac4b229f9f1b8cd5a"
     },
     {
@@ -225,7 +225,7 @@
         "のべ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a64eb3a1fab6f6e585034c473d3579099166c3375142ccce99cc7235195b21ec"
     },
     {
@@ -241,7 +241,7 @@
         "カツ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "0298332fa35bb10d8192a7ec1fc5bb003d193884e2673c51d93f2bf606b5894a"
     },
     {
@@ -257,7 +257,7 @@
         "いたましい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f6e3a70cb68522f434f8d8dffc624a83ba644205f68fe26c08b6830e02b8a149"
     },
     {
@@ -273,7 +273,7 @@
         "ヨウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "04487ff74a9d9d5a1e80547674e29172ae7618b60d35a50451c6b052948a8132"
     },
     {
@@ -289,7 +289,7 @@
         "よく"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "683acb7f9280b7bdebc58cac6f430437670fc9bf92e1922514aba2298872e9b0"
     },
     {
@@ -305,7 +305,7 @@
         "ショウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "398f48014d0f202a9b84f848176bd184909cda1350dfb898c2fb01859259c1b0"
     },
     {
@@ -321,7 +321,7 @@
         "えらぶ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2fb56745550bf438ad13da27935ab9088ded8a964ea5c7ff8819c8f675854f1d"
     },
     {
@@ -337,7 +337,7 @@
         "ヨ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "392a2b40cc286c7e613d5fdf0b29668de3e5133444ac7b9cb82daadc78ff7483"
     },
     {
@@ -353,7 +353,7 @@
         "ふるう"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "1b83c31c212d08b361532853702973a0127e68eda8e6221ea36f99bbf51ccba3"
     },
     {
@@ -369,7 +369,7 @@
         "バク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "55316514958fb7a2ebdc5d0d6a616f1e08097e1e14570ba279d1c63a100e1fc9"
     },
     {
@@ -385,7 +385,7 @@
         "しみる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "acebaf361238e05a00b2be1bb65d4e4422fa2fa9d725586bddd284a87d6cd440"
     },
     {
@@ -401,7 +401,7 @@
         "キョウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f8ebc751bb5d74585b49bf69c4c77b3b71164901a0bc9f69cf38e178a335acfa"
     },
     {
@@ -417,7 +417,7 @@
         "いかめしい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "266a279ae12e0c76d28bf03ffc9bde4b4fff87cb5ec78f1ba146995686308385"
     },
     {
@@ -433,7 +433,7 @@
         "ボ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "69ce7615992d58c19823d0903216b0383498ee7695029f2daca5a3ba56b884da"
     },
     {
@@ -449,7 +449,7 @@
         "かぶ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "572169db9ea4f090e4df4f4b209cb65a8f16ff6d518414cc8b39d6c39a580df8"
     },
     {
@@ -465,7 +465,7 @@
         "ヨ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "17a77a551529dbcff0ebf3065890026e99d041cca83fc8b471910332347bda3f"
     },
     {
@@ -481,7 +481,7 @@
         "いただき"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "df97c3f5e4483eae72af431689f4b3e01486e99f5bf2586ec3d95bd6a900fe22"
     },
     {
@@ -497,7 +497,7 @@
         "ショウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "81df6da6ff6f288cffa05f5000276a1fc282856bcff6bb65b9685b697460ec17"
     },
     {
@@ -513,7 +513,7 @@
         "とどく"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "328cfd1c327a0607379d9ab6b2ead14f3b779d3e0c544ff463a7e6f45db92b08"
     },
     {
@@ -529,7 +529,7 @@
         "ボウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "50da302ab59e8214c118026afa60e95b93a6e5c75d33be586975fa41bd384bac"
     },
     {
@@ -545,7 +545,7 @@
         "さかん"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a8bdae965d3e44564766b30b726991bb3b82483f970341428377d1e05337277a"
     },
     {
@@ -561,7 +561,7 @@
         "ゲキ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "9933f26c047e2a360d8e9c24aa3316fdbbc046d75ecfdb96f22d69ca1563cfc4"
     },
     {
@@ -577,7 +577,7 @@
         "あずかる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "9b79f2a1e626ed2c72ec37eba75f1675abf45dd4275376ac95012621411446e8"
     },
     {
@@ -593,7 +593,7 @@
         "ケイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "bf081220578ca6ea850fc3239e3017425be6845c10a6bd34f322915f6bc1cf22"
     },
     {
@@ -609,7 +609,7 @@
         "ヘイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a925a7a184a4610d5eb24841a9761dc011cf0d59cf1278516abcecd65b447b51"
     },
     {
@@ -625,7 +625,7 @@
         "ケン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "1d2830db07589ad16142be0d0f507c32dd77b2fb382efcf714ff8953e512ec6e"
     },
     {
@@ -641,7 +641,7 @@
         "むづかしい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "0cc74b7970ca56bc6115e347ee804b94b05cf70dc471f5a341d8c108cbc69dc2"
     },
     {
@@ -657,7 +657,7 @@
         "ゾウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2fe4c8e825929156c0c03f2d8a0f643903d828d44cb73973379ff5a28303daac"
     },
     {
@@ -673,7 +673,7 @@
         "いかめしい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "be97fb4ba5de8f0fff65bceb06bdea86bced50e5aa324965f43133b54bff6f43"
     },
     {
@@ -689,7 +689,7 @@
         "シ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a80aec9d62009957389cc6d4e95c559dac64d64f31e5995c2a985b66b9ffe026"
     },
     {
@@ -705,7 +705,7 @@
         "よぶ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ece1f8afbea2ee71a9ea49f1db25f8844b248fefc7529643eebd27880ce52b04"
     },
     {
@@ -721,7 +721,7 @@
         "キン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "09f50e41b899f62fa5ea872455d4a26ce6c35ee65487e6cd07c5b9f7756780bd"
     },
     {
@@ -737,7 +737,7 @@
         "あやまる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "1d675e0cffba9b487fce7bda16f441cdca3fd9c39866409ec5ea31b87c8608ec"
     },
     {
@@ -753,7 +753,7 @@
         "コウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "832379209b53a0cc47cfeeff1fd1d2ae76ac8aa038a4f84c6bde525e335687a6"
     },
     {
@@ -769,7 +769,7 @@
         "サク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "dca9d9bbd74559e1260e7846de8796fa8789f91383ea6ca7e6215b500d55f6a4"
     },
     {
@@ -785,7 +785,7 @@
         "オウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e384cd8f060880920c3051da32ce293cc9cb52982a42a5fc194fb07bc924d195"
     },
     {
@@ -801,7 +801,7 @@
         "よそおう"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "bc9e79fc21158a6653721c4368a99ed4719c74ef1309ee7b0109aa838f10d668"
     },
     {
@@ -817,7 +817,7 @@
         "マク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "240be7b933bdc17fc0f3094a3bf7f9821fb3ff208cf41539159179b4df075bee"
     },
     {
@@ -833,7 +833,7 @@
         "あたためる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5cdb66ea4fec44de5d06ccec64435c561ae2996e13e2161e0695f00d21b23d49"
     },
     {
@@ -849,7 +849,7 @@
         "コク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "78dc1884c35885febf3d6fd98932d30375a51be1d11ce4055df89578f8ef93af"
     },
     {
@@ -865,7 +865,7 @@
         "コク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "93bf517cfb86b13068751a36cae57893132cf7def50f2ead53c4d3bcd0c5496c"
     },
     {
@@ -881,7 +881,7 @@
         "ゴウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f7353080b3873853d408ce03d012078966ae68a1dfaa32cd45e3af68a6b49582"
     },
     {
@@ -897,7 +897,7 @@
         "きず"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "eaf2377a59bbda2f735e81ce34e0432c0bac3ade2a90d2c521e9aaacbb03846f"
     },
     {
@@ -913,7 +913,7 @@
         "ハイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "dd558810b8bfc7ab047ddaf69d48de420a0fc11a68fc2316081e39a30d88f938"
     },
     {
@@ -929,7 +929,7 @@
         "おす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "cbf6fe1869b36c2bd820d8f9c91181f6cc841e25723d45222aa4a036a9f46646"
     },
     {
@@ -945,7 +945,7 @@
         "ゼン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ec44a0703191c214252edafe881985ec437b4efd068e2835127b8b04d8550904"
     },
     {
@@ -961,7 +961,7 @@
         "わかい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "d775751ef6ea648b9fa6d4379843a39dbd212fdb9e684b25bc594a28992183a4"
     },
     {
@@ -977,7 +977,7 @@
         "ケイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "7b23d115df6b38ff3217901eabee281fee269cacfbfc71eae2a2fe58b335f3d6"
     },
     {
@@ -993,7 +993,7 @@
         "すむ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "7f2f0a30deb67e511256c28380a310a2de1a9c8ab46eb37930aa079a93ce5dce"
     },
     {
@@ -1009,7 +1009,7 @@
         "ケン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e364d92cf24c918fdda7731d472658cd2d0f060fb3d2e18853f626bae02369a5"
     },
     {
@@ -1025,7 +1025,7 @@
         "かたき"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e029c7c1920a8058633baaf43b8b0e6397b9123c4b52b0f3f700612817f8dac2"
     },
     {
@@ -1041,7 +1041,7 @@
         "タン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "219d9ca3995579677e48c95ca0fdf095eff41a581edc5d95cdbfa70491056d04"
     },
     {
@@ -1057,7 +1057,7 @@
         "のく"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2a402f16b24f1a7a8abbfc603749651121f7bc5ab67e6dc7a5e276dcea5b2f40"
     },
     {
@@ -1073,7 +1073,7 @@
         "チョウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f4a830b952e693ecdc000aae5ca6c18f3cadc9bc3fac74af417f7e946fa54373"
     },
     {
@@ -1089,7 +1089,7 @@
         "のぞむ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e2dbd7b604ecd8ce548ace31ccb09470743fc4b70877ff7953cb82f24b3bbbb0"
     },
     {
@@ -1105,7 +1105,7 @@
         "ソン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "aad82f553075050504cd3e84d45ef33f8891666ade525a042d84fa85f529857a"
     },
     {
@@ -1121,7 +1121,7 @@
         "ショ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "faa04f16b1908f1fba8475417b78e7e374c0e2db7d933116b93215a7e631acb9"
     },
     {
@@ -1137,7 +1137,7 @@
         "シャ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "24e1c4d8fc71e37cdff4b15edb8901c085100fc4dfe0cac6210f08d1989fa5a6"
     },
     {
@@ -1153,7 +1153,7 @@
         "した"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "538b9b374b4947f2b7258242771926b7841de7ea6e731df6a02c6927813a6311"
     },
     {
@@ -1169,7 +1169,7 @@
         "ゾウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "bf2f9027e1f65d989bcbd57774745a307743630c376c12173d67b47d87def92d"
     },
     {
@@ -1185,7 +1185,7 @@
         "ごとし"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "36a750649ec09f5a728053fa92c2061873f9975067934537168ecd017b6b520b"
     },
     {
@@ -1201,7 +1201,7 @@
         "ケン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "36c59ee637f0da7fe66b5c4542d363a2a15122e3c565e60e03dcce116a245a9e"
     },
     {
@@ -1217,7 +1217,7 @@
         "さし"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f6cfb946eaeac6324d6a3f995c3fc5ab69a4366f70147e90d55e5377d44cb4dc"
     },
     {
@@ -1233,7 +1233,7 @@
         "ナン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2f2bd881217560d1fa6ebfec3dfa5d7d26e2c2bea543ccda87c0350f15d33800"
     },
     {
@@ -1249,7 +1249,7 @@
         "つく"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "b91d66c2563fd545fe702c7554a59556a09e89ef56293120cc6230859c251937"
     },
     {
@@ -1265,7 +1265,7 @@
         "ソウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ace591205683c7bf08aebb60626f51dcc3330b9e7042a818d5733d5a4e9dd999"
     },
     {
@@ -1281,7 +1281,7 @@
         "しまる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "edf75af326cd02ac30e8c1760834343abb0947aa73c43f016349eb1cdf67bc03"
     },
     {
@@ -1297,7 +1297,7 @@
         "ジュウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "18a2d9839481a9cfd203b11c99521651f87fcdf88b1ec1a4c5a633c6be8e4586"
     },
     {
@@ -1313,7 +1313,7 @@
         "むらす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ff2c94c791b758d3070b72a9f9095d3a60474f61b857176215853935c33a45eb"
     },
     {
@@ -1329,7 +1329,7 @@
         "ソウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "b39cf0fedc1270927f32a0576dc301fc5d81f6a3f37079e5f4a39a0d40dbc673"
     },
     {
@@ -1345,7 +1345,7 @@
         "ジュン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a3d0a4912c6fb9c61b2a82c335c6a96dfea3625398216dd75c6e946529c7f701"
     },
     {
@@ -1361,7 +1361,7 @@
         "ジョウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "4ddd171821d6d2636cb79dddfa9d4d7b53b602a73c5096ffa3e85d126ba5cd7e"
     },
     {
@@ -1377,7 +1377,7 @@
         "マク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "95e5f59e732fbf5dcc0ed74bfbb1e2ffb6db53b24d6ad2ed95ac067996cc2a6f"
     },
     {
@@ -1393,7 +1393,7 @@
         "ジュン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "4cd1effcdfed1df3a2e36099d852f90c2bd127cd5a48d5320c1cb925e917bcc1"
     },
     {
@@ -1409,7 +1409,7 @@
         "わたくし"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2867c23ede34237f08dc29f0ac2c51c5de755713c5232f41b5c3369cd40085bc"
     },
     {
@@ -1425,7 +1425,7 @@
         "ショウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5298263e9b37e637380a2c562842b052788a1bf60bfcde50f4b38f947e4a8cb6"
     },
     {
@@ -1441,7 +1441,7 @@
         "むす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e07f0cd58df29eb1474b1e2959a39998ed5e2a51cee16ed6a900f5707c80582f"
     },
     {
@@ -1457,7 +1457,7 @@
         "ショウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "7d8e08f5b495ccbd9a20018b9437859a24cc2882f7445523be88d356845097b8"
     },
     {
@@ -1473,7 +1473,7 @@
         "のうずる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "3c75f0d29c6e5df6ba992b23d3fe1d7b7a45e51542073878a39580de3eb462fb"
     },
     {
@@ -1489,7 +1489,7 @@
         "キョウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "161df1a1619a9d87d44739bdd530f761be3c788fbca16edfd01e6751ce26bda8"
     },
     {
@@ -1505,7 +1505,7 @@
         "ふみ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "be5a0adf599f2c228f5e8f5e313cd00000e18567de38fd5c1da2728d8d5e5db4"
     },
     {
@@ -1521,7 +1521,7 @@
         "セキ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "4725e1d9d3b711d8fd47d534512d947ad2e070b439567965b7e43b6220baadfb"
     },
     {
@@ -1537,7 +1537,7 @@
         "ほっする"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "3568fef78dce65d2d94af7a1f1bbf3815deb1e7c59e20277dbe5f41b22cda79d"
     },
     {
@@ -1553,7 +1553,7 @@
         "メイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "164f91805856bdf96c752dc0de87636e42802d12f5d0132c89b26f61709216fb"
     },
     {
@@ -1569,7 +1569,7 @@
         "ショ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5e7eec2fc289a96824d4b01d39970f7258523e068af938ca45bfee829cbeeabf"
     },
     {
@@ -1585,7 +1585,7 @@
         "ヘン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "65acfb46b35a0b3ae1c02a7acc14f95ff1752a5a43ac9a5f13a37dfa0b2bca9e"
     },
     {
@@ -1601,7 +1601,7 @@
         "たらす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "0897b42beb5627716074a819510f47ecad9d5ef220a59855c42e8671bcc13825"
     },
     {
@@ -1617,7 +1617,7 @@
         "ゲン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c3152cd8cbca84e29c901b99a70f89b4520f28519db3c9d02c9a3f9677b09cb5"
     },
     {
@@ -1633,7 +1633,7 @@
         "おさめる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5b819e1a897705c3313d32275ab1709b26e5e66edac87243aa9182f47e1878b2"
     },
     {
@@ -1649,7 +1649,7 @@
         "セン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "749edc32adc4dd7ebad15daad2bd347ac127f5146a4e3b2f2865d5bf8f0958ef"
     },
     {
@@ -1665,7 +1665,7 @@
         "きさき"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5e4de12ee47908b27718a753752b17c3cd8b462c861f2fc21f4976abf1bc6fa2"
     },
     {
@@ -1681,7 +1681,7 @@
         "スイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e84f5088757226daf48a9fbf867f5dc62da1b42c7d98eee18d9f74836c58eaab"
     },
     {
@@ -1697,7 +1697,7 @@
         "のぞむ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "54606165fefbb8ec55a39ce45eed57d247532ab8ee7fa4ecd8974522e1964538"
     },
     {
@@ -1713,7 +1713,7 @@
         "キュウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f1c13a9caf1f240f176b2bbf268c16fc206076e55f1e125d9b0124ac19934a38"
     },
     {
@@ -1729,7 +1729,7 @@
         "はえる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "421b1f0842147ed332ba4899dcfa119cb13fc842ebbf4f351455454343d6d553"
     },
     {
@@ -1745,7 +1745,7 @@
         "コ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "cd8c1be4adec150d0ea99786eeb8255fb2800e6503548dd3a71be7c12c5b08e1"
     },
     {
@@ -1761,7 +1761,7 @@
         "ちぢらす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "de8f70d121cd4dc3992caf9502fe1a3b62dca5592a698a5b5c8a61be4959cf26"
     },
     {
@@ -1777,7 +1777,7 @@
         "ソウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "53951e5dddc16dc93b98e3921a7b4c5e9d9d22bb02a56e0aa2f6493f6e7dbcc4"
     },
     {
@@ -1793,7 +1793,7 @@
         "リン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c6f32c93863d30b42d91d6f69ecaa14f603a325526205e938faf2702c26afd2f"
     },
     {
@@ -1809,7 +1809,7 @@
         "コツ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "8232e5a4087ea14c192c2741bd2463368523ae207a175ae9a499c00e1e5bb138"
     },
     {
@@ -1825,7 +1825,7 @@
         "べに"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "8afdbe5b45575bb47d50b3ed7209e7c37b653e82a6d372652db19ea2c2c9fcfd"
     },
     {
@@ -1841,7 +1841,7 @@
         "コウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "8a5d4812ee2616843acfaf4aa1d51a234005e6e10364f5c87a40117f1cda6ca7"
     },
     {
@@ -1857,7 +1857,7 @@
         "たっとい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a312b0e9e5756f2313f0ca3e065744106f0fcda3ec3dd804e9247f69fbb377b2"
     },
     {
@@ -1873,7 +1873,7 @@
         "ヒ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "468e22965ec79a782f00d55b150ae8bf3c6cb78a3c49d706bb625be7bb6be2d9"
     },
     {
@@ -1889,7 +1889,7 @@
         "ある"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ab22eb1b0f68502a57ccb9d395312a4c7174f1ab3ffbcc73ca331b3c2f862239"
     },
     {
@@ -1905,7 +1905,7 @@
         "ソン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "194a10aa4714b9613e5ecf4cd0662a8f12e1e68ed1cda695d869b401fc9d8f77"
     },
     {
@@ -1921,7 +1921,7 @@
         "しりぞく"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "33bc3dcc30b3f6fed2e06a322fc75680b882f89e5dbe18dad3bab23387c540b5"
     },
     {
@@ -1937,7 +1937,7 @@
         "タク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e66454a58342254c012857706f11646ed1ceea9250f7c6dc50937fad258971e5"
     },
     {
@@ -1953,7 +1953,7 @@
         "した"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "22660337d01f0e7971c7bc75d84e20eb17d6e5785b3dc6659b26e1a74fe37590"
     },
     {
@@ -1969,7 +1969,7 @@
         "ヒ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "7dca4cb61937ea9f7688d551c71807bc56968d7b49b47fae67d03e18b74a8862"
     },
     {
@@ -1985,7 +1985,7 @@
         "ジョ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "926834fc1770478c328abfa1b4dc3929a9bd5a8b774ba359efa6d29cf13534c7"
     },
     {
@@ -2001,7 +2001,7 @@
         "ゼン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "88a670951371e14e873f6d79518c19b40119b70f7a92cdc610399035388cc051"
     },
     {
@@ -2017,7 +2017,7 @@
         "タン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a9f5450d5c68d8d5360be2946796c924929e492204444508623507d1c4d52b6e"
     },
     {
@@ -2033,7 +2033,7 @@
         "セイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "bcc4fa970cf267b7c3cf5c65b5bb0292faf44814a901b41833b69a712892a557"
     },
     {
@@ -2049,7 +2049,7 @@
         "ノン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "83a26e8398ecdacb86cf6dd97b2a1b7929e14a3c4e9ca4ec1df3e5cf8df232ab"
     },
     {
@@ -2065,7 +2065,7 @@
         "チュウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "03587c9a82eaa79ef2a7a4f7a817b70b6a4230f3a0c3b0fc1eed542c0380f6ae"
     },
     {
@@ -2081,7 +2081,7 @@
         "ちぢむ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "4b4b8d2158f8ed0fe0e19ac2226cc1cdd4a2c3767fb4be5872cb981f44a00378"
     },
     {
@@ -2097,7 +2097,7 @@
         "マイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e688bc7faa6717490c950eef6dd305c2a4a3384708be0b0fb913890b132af591"
     },
     {
@@ -2113,7 +2113,7 @@
         "のこす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "b13e80c53270afc40cd32aae52c1cc74a16e4195ff4cc004e18bf339dc33db77"
     },
     {
@@ -2129,7 +2129,7 @@
         "チョウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c089da6d82426142e7b39b616b049430902c92364ff0b10646b6c5bd09205c17"
     },
     {
@@ -2145,7 +2145,7 @@
         "わ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ee764855d7a95c2f0c463f6941b4c71a8f60ba1b3476738837c766d0d5a15429"
     },
     {
@@ -2161,7 +2161,7 @@
         "セイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "584dcedfc6f4c8e44e0df33807b2bbb98463bf47d27be6bfd273ecc2255cff7d"
     },
     {
@@ -2177,7 +2177,7 @@
         "たっとい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "52ed0a1523fda566b972c3d8fe9831abfb3c8a2aa1be53dacb08772bd9ccbc7b"
     },
     {
@@ -2193,7 +2193,7 @@
         "セン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ccff9a66abc394184b35ebe0f4d1cd220682d8b81e95ae47580106c5f114ea39"
     },
     {
@@ -2209,7 +2209,7 @@
         "オウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "76308f27178c21a8d5915b80d3e796ecb81950f66b10559e13d70a050de85679"
     },
     {
@@ -2225,7 +2225,7 @@
         "カン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a6e8bccd4a1683987db98cdb2c0a5b2b3678668d9bc0b67148fd32032ceff677"
     },
     {
@@ -2241,7 +2241,7 @@
         "ナッ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c801bd638d6e5e9c0b678b5492a1cbdf8d2db211b3724cd89e05253c1bd2b290"
     },
     {
@@ -2257,7 +2257,7 @@
         "ケイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "466f9896f6ef818724d442126b63b1213f923ebc63798cd6b7db0ed40f882710"
     },
     {
@@ -2273,7 +2273,7 @@
         "つく"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "81bce32cef61f7d09d88c4fe828bdeaab49764a0e7f7f0a6b290804a5ef78b3c"
     },
     {
@@ -2289,7 +2289,7 @@
         "ヘイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e1ec64d82536a798a0e03c83f3385756be9b68fef94261990a3172ee5a9368f6"
     },
     {
@@ -2305,7 +2305,7 @@
         "おろがむ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a6f75bd021de6707cccb47b3c4d48fe60bd62dbdc8f1fe04ecdd0ae5c6403fad"
     },
     {
@@ -2321,7 +2321,7 @@
         "ニン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f0b27772ac0bdb6309707f3985b75d5fcb20444daf19386124c3574e1ab990ee"
     },
     {
@@ -2337,7 +2337,7 @@
         "こと"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5e32a72614500c89a107482fcac962e25e6eaa69691ddd762d1167796df7e0ed"
     },
     {
@@ -2353,7 +2353,7 @@
         "シ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e04948733fa691d703af03d0c355b6a92578d5236a915d3d17e2dee40fcef277"
     },
     {
@@ -2369,7 +2369,7 @@
         "ハ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e9cd4a6d2540cd80aa593e3a839cff0b1421cd1ed2268fad6291a69381ff67ba"
     },
     {
@@ -2385,7 +2385,7 @@
         "ボ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "932e7e501ef53ef064daa80b97c4faacbe0788f9505acb92776a69ebce798b79"
     },
     {
@@ -2401,7 +2401,7 @@
         "おさめる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ff03c75063daad1ae3306eeb19d5be43028b537bbfaa34bb6b11754965ebe421"
     },
     {
@@ -2417,7 +2417,7 @@
         "リチ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5eb5efc621bbfc01b09477a6a9851981132b78c2b4d374fd539a7e9edba0c54e"
     },
     {
@@ -2433,7 +2433,7 @@
         "ゼン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c901c2215ae0d416a393ac52d3a8a2d9898375bf2ed7296fbdaf57bec6cb7937"
     },
     {
@@ -2449,7 +2449,7 @@
         "ショウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "34a729c2f852bd1a0aeeda008e604cbf089c6dd22797872d7ab3e38fe32b4211"
     },
     {
@@ -2465,7 +2465,7 @@
         "ニ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5b67e629ef11d0e2b867a5f6317de9e8e9a6790c65f1818ded501ead6e56edbf"
     },
     {
@@ -2481,7 +2481,7 @@
         "ニャク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "d8d6dd91e78ab409b6adef418e2d0f9460a33468a0d25864b6be5b4bf18ef4c8"
     },
     {
@@ -2497,7 +2497,7 @@
         "ヒ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "31f32be8a7c422e177baea68741ae14560110b9e245b713122e11482d08e56f4"
     },
     {
@@ -2513,7 +2513,7 @@
         "ハ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "a499e97ada9169b91e698146a983beb28941b53d77a4d6d54cf5a098e2afa5a0"
     },
     {
@@ -2529,7 +2529,7 @@
         "たわら"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "71cbb0998b9556b68fd6249946033ec94f22b47615d34d3ac830e52e6db6a895"
     },
     {
@@ -2545,7 +2545,7 @@
         "フク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "386091820c005c6f06bcf28ae07dc63df5b2a9d2bce4bf8ad3131aba91c68683"
     },
     {
@@ -2561,7 +2561,7 @@
         "もしくは"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "6fa5b92e2a4028639a96e51a1ab123e9bcb4a25d6b5ddd25c55b0a88daed6db0"
     },
     {
@@ -2577,7 +2577,7 @@
         "ラン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "b773aaaea30f3b3a3e38116c968d029302682f34e4a03eb53785c2e93c4020c8"
     },
     {
@@ -2593,7 +2593,7 @@
         "まこと"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c06569ff75efcbd3203c433cd607e03bb176dcf831ae7f1e231df6515ca360f9"
     },
     {
@@ -2609,7 +2609,7 @@
         "ヘイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "90247a569339173223f72d41aad1bf0807ac7c0e8ced91f86de97404aba64650"
     },
     {
@@ -2625,7 +2625,7 @@
         "あな"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "1e56af43fac2db9158ed9dae0fc7326f7f30a53c9ddc48509db0448402ba0e49"
     },
     {
@@ -2641,7 +2641,7 @@
         "サイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f536566eec5f74a96be761c6878cfde9beda376b9a09c69dc6935b66df452b5f"
     },
     {
@@ -2657,7 +2657,7 @@
         "そまる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "90324cdb796aacd8cf0358f846bfeb3355727e1599f81b2747e151755de2ec43"
     },
     {
@@ -2673,7 +2673,7 @@
         "ホウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "f1d2c4e25edd2596b249f1524ed131a2d2889eb2797a55b46f21d05d04358e1b"
     },
     {
@@ -2689,7 +2689,7 @@
         "おとずれる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "faf7b03f3ce369c96c86ba31ca8a960df65f112d1b3a384773fc7528a11cd305"
     },
     {
@@ -2705,7 +2705,7 @@
         "ヨク"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5269928487dc6a5668d08bc392efd1f05b3b0340d22d1db17ef25b02271a4c29"
     },
     {
@@ -2721,7 +2721,7 @@
         "わすれる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ea77fc4039a016d28c59d36af28c018754e9775738a068075f199839eda17314"
     },
     {
@@ -2737,7 +2737,7 @@
         "ハン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "3b9bc76b67754ddfcb7e11aa66057d5b09695b883ae2059d32e475851ca3490e"
     },
     {
@@ -2753,7 +2753,7 @@
         "バイ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "5d4fe777d9f2446779147f94051ea9c972766683cf844514f89088bdd99733de"
     },
     {
@@ -2769,7 +2769,7 @@
         "トウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "537f88500964566ab3486cca0b3d33f86abddd69762dbe80469b48caf08bed4e"
     },
     {
@@ -2785,7 +2785,7 @@
         "ひそか"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "135d225ed01fd09b31c9b1db6bc3fd85af55225f15bb7899322b1f5c7b808d8a"
     },
     {
@@ -2801,7 +2801,7 @@
         "ソウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "6d6462a89939ebcfbfa7296bbc60b5bf91f7d2866237ca87825f3b14c80cd079"
     },
     {
@@ -2817,7 +2817,7 @@
         "チュウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "e7c53a4be5a338d4c9fb8b834ba3b843a1a0c6c9b58fe5c698c9214096dfa2fa"
     },
     {
@@ -2833,7 +2833,7 @@
         "テン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "6d6dcdea747253faab935fb8a5788a8c75fc2de97d3bb78b4b617607f2272507"
     },
     {
@@ -2849,7 +2849,7 @@
         "ふるう"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "fc3e9a366b3c76dc3341624c70c3e2815a8b30bc6279ad98b31f4612b9974ef4"
     },
     {
@@ -2865,7 +2865,7 @@
         "キョウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "17f0ae4024a833d1f87ad38cc7302bf4e09a944fecac5767ae3b1c4cc5f56f0b"
     },
     {
@@ -2881,7 +2881,7 @@
         "あたたかい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "c6a8a676774b0daad01227ec28e119527a2d58489400b1ae9877ade5ff03c326"
     },
     {
@@ -2897,7 +2897,7 @@
         "ジュン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "934f68b6b2871a899dcc7f52c6e72e15e2b164383085f86b42dd605bff116258"
     },
     {
@@ -2913,7 +2913,7 @@
         "ほしい"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2f900e84080f06ace10604182dcecaf9777e0b5ddcbe6d5ec4f4d5f472e28258"
     },
     {
@@ -2929,7 +2929,7 @@
         "セン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "747a4d128692ba0e61cbdfb46a31b837d3bbf8e245ff71abcb6c13ab7bcd8532"
     },
     {
@@ -2945,7 +2945,7 @@
         "うつす"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "9baa389d69989b25305841f4c538969026b408d4ddf907878cde2faa6cb89498"
     },
     {
@@ -2961,7 +2961,7 @@
         "チョ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "02bcc1cfde17e61b6f85eb2db184c30d03976da9eb89d025065afc5dbde4484e"
     },
     {
@@ -2977,7 +2977,7 @@
         "みる"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ac8aa5da18121722aaf2d00890fcda4644562c7c68da1a83c96b8642cffd49cf"
     },
     {
@@ -2993,7 +2993,7 @@
         "イキ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "579d1fbb671ec6828c1154caf3e9ceab4365706ebeba07bd38b06baad28011b4"
     },
     {
@@ -3009,7 +3009,7 @@
         "タン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "59d6798667a182ab52f04c0d51c4d0034a6bf0eaf563ebc971cd39aa3364bd17"
     },
     {
@@ -3025,7 +3025,7 @@
         "ハン"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "2b1208bfbe2835330cf55be6fa403528e483ed50c0543f9d7db0434941270357"
     },
     {
@@ -3041,7 +3041,7 @@
         "よぶ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "ba943c68242d1f96281b2a26b403f329ba0cbef1a06fda9efe055d49a6e17a12"
     },
     {
@@ -3057,7 +3057,7 @@
         "ボウ"
       ],
       "human_review_required": true,
-      "reviewed": false,
+      "reviewed": true,
       "content_sha256": "7bd7a1113ab8f5d34e8f31628065e5df3b9af0db2f5a2fca18e81945ed8614e1"
     }
   ]
