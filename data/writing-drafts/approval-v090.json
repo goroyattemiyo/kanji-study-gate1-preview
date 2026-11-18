@@ -1,0 +1,727 @@
+{
+  "schema_version": 1,
+  "data_version": "writing-v090-1",
+  "policy": "human_review_and_owner_approval_required",
+  "approved": [
+    {
+      "id": "p-w-090-001",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "50e1b5fb3b1956b61d1454f92fe4bb21c0cc1184139331c5bca0d12b2f93e02a",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-002",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "ed12fad6a6e45005d88eb3899ff0b444c289163f33f34a545a0ea229b5afa95f",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-003",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "5924ae76c8f1af513416a689da1a450b2f95e866590f9ff237b5fcb3d69515a8",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-004",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "d79f3ca525403a63fa3f496ca92601390f5d1ed97f656a2ec6bbf0ab6ed4a0e5",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-005",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "c3f72ad96d9e19a6e5175923c4309daa7efb50be4842128beb88c15708175e8c",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-006",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "6222cd5a24bdc3b5fbac342895a30fe77f44c74aa78dbda1b64f097af169bd70",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-007",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "ad71ec5e5a4e2578d0eb9a9e5b7a09f898ed526609e80ba6954d04a41842a9b8",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-008",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "932aad96b8168cd0dcbe45c7935e54058dc281f13470b8078eb73550fa263d0d",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-009",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "6efb8172c5928e5d2d41fc2cf8f81fd2d32f93c0f9a79c9623ab29b0d18b31dc",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-010",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "ec864ae487ad5332d47d8edc72f8dc43c5dc939bd2c3eb0fb36d3667edcfbe0e",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-011",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "bae2bc9f645cb7f7619c8d4871853fe9319c77149d3bdf0ae031e827f0bd962a",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-012",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "cf376195a5280ea134542dcb03edc67ac6babc98d41908895ac41d7c9beb4b4c",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-013",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "779244076bbbbae042e325349149e197572c33df26392bfad3efb9edc0dc368f",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-014",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "cd162f10d5eefcd9acab9cd0b7f6ecaddce9788604e9f7cc1d6d1ffc4ed2dd02",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-015",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "f3c05a977ff9f044daabc1adb430e798b47792690dfad952c88da98169b76dd9",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-016",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "fc529c924a616f3c66221d5e7d310720005ca8bb8de011fe1b1df9dfb4610852",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-017",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "a672f61d318c62a1d5400290575e43791e40e85a43a2acb44eb1729973660480",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-018",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "20ac003d068db1f076d15a67c9601621b650c999564caf5b523d0d2ce8fde209",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-019",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "87eec2702c4be209fb6cadc8c249cb240e1de9425dbeac37bb17fb145aa46bd8",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-020",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "bd91edb1a4b49802da52a754424d3cc8b8264fd31b358d8f5a9a051ca1fc1500",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-021",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "0a72bcbb3adcad67651c0182561545911e0923a867136c30843783cc2af9c05a",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-022",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "2f37aa3b57a5e9bbaef08f746eaadc6242953c7581e85abe32ab97034a8cd6c1",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-023",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "15828b04da65ab29a0ef2743a9558ccceb4e11462ce617032652b371d2d9e5ea",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-024",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "2a838a84a7cc484312995dac8d269eddea160356d51d9c4be49fff89161a14c4",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-025",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "371ab7ba10c61ba25e76162cd4117aebf4e27385412d0ed26feb9402a08d8070",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-026",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "2566aa69e7472158467f04e5e516069196b93a2696fee25c846f9b89fbab6376",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-027",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "4044f4b9339c65bd2d078541e40c6168509f494d36de417b88e30bd0ec22d8a5",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-028",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "69162bb34ca4d47a8b884f34c684bf9b48e28e927c39671acf90ee380741ee2d",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-029",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "2b0154a3cbc9f84c637a3ffc699d4fa945df7714b92e57598a3fd09d314094df",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-030",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "b84891ee539e372a3410e4dca6e2e0a666468112823697a47d9ab38dfa8a370d",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-031",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "7f2b5880201016041cff549ba84f555d68891190b5040b3073aa9d4ecc2a4473",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-032",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "03ebb6b25a37425f5cb6eefab45c66deed61e65004899748655e3d15d4744ae1",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-033",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "a1a24ffed35ccb09a2050357295767064df8c3f47c7fd8bbd266d7de04dc8bc8",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-034",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "1c3b28a1059d343caf7ee3a151206314ab93fa86a3c02999d99649835c9fcfb2",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-035",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "702612e812bef5cee2ccabdba89fcfa8815c1d894e23dd676f7a7549d45ae855",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-036",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "714aeb11426e1a03766a58067c58a02fa787a43f3bf71a33c5369c71ec2fba97",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-037",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "1ad1ddf6e8798c013ad82be98d02405f4bfb83c343d2da8a5689ea3b263828ba",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-038",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "baa0475395372426b6ff271af1a74211663685727af53e040f5b9b5e3eafd6df",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-039",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "48a223d353b34ef2b331c8d8d8b564e5bb7bbde8c7faf309dbcc3160d71d1f7b",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-040",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "f145fcbd077a9b5868dba48c0d91f0020def76220c474a65be000b3a9a5ba638",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-041",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "89e7d2bdc35361cb49f5173554ff1591cc1a124705791a5c89cc26be504b320e",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-042",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "2cb13c2a8d306ddda524068cf62a26626b369e0f33b17fb48704f02652bd59a7",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-043",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "b8c7494034858c48c9ddb1054c65a7b581d18b46bc6b1e1e41f77267ff3f9fd6",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-044",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "9d670f1ff0f715bf3908c91a3b24a4cabe6a80d32c1507cb36aa54f1ab60e638",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-045",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "61a8d3706f569046e512b86c169e44a7e51d4077c8185a78e4c0fc8404b4aa3d",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-046",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "96192227467b037f3e17f27fd95c37cb5a887b75d3bb4a543b4c672c53793c61",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-047",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "f7b69d8549cd273207332ae49ea15cca451d780efb9c335c80f3b317c88fe0e0",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-048",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "cad5bde136efda13ab1dda5a84a6d758a25de1b01f0170a5a9c926352615d072",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-049",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "f57c9c2c7ead3340f6c87c249813ea1d9e429cc219ccd8d4934755f84a269564",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-050",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "5ca6ae9c687ef658eafe91aee3ea95e68523d6529e901aea80a545f98faacc55",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-051",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "c66533567546435a19744cd221367b7609674fd660755d1df402290bb673a5b7",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-052",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "719b830408b7ba7ead157e2210d3313cf5aeac3c2dbc69fbab4fc64f27ebe61c",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-053",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "ac980d00a4b25b02219aac41387e5b0fb764c7ad11e380400c8775f4fb399561",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-054",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "e995e0c9e418ada9a5ee0b6855c533ed98e11c46ad7abbb8d86bbc77fdfe5206",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-055",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "e9e6f58047d24a5bac675caf399b620b4cbf67a279c4d412d1ce7efc0b03459d",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-056",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "b57f6359984522d16bb5af0417dcbe4c640e32ec18fbebbf8bac5aa488790c1e",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-057",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "13c1ea63401b33e35c28f4426412f108e9367d506294d638ba49663e36184c0f",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-058",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "87c0888bcf7f29e193b93924d7fc88e3dece82429e3f4c9d7d166f09a1fc12ab",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-059",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "93886f57a691c1211467e4e13bbb46f21c4afd7e313b22f685a138ff30e431e2",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-060",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "0bf4f1795135c4689a105420a31776cd977551e0b059226f9f0a19d4c9fe91ca",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-061",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "763ed7692667d00af3e0ac42cb300388e6f87c1189f42919533e43a12f5c72a1",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-062",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "a8a4447792bce479db80a050f0268c855efe78ef8361c553b132609596868592",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-063",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "35b20fde8808b37231ff9a0ae0abf2eb7292e9d051df606e86f8c24264dd124e",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-064",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "7086482bb320b1f3cc0893f3fc927f0f946f1e62c58f4525b65f8f846a8b7fc1",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-065",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "4ca62101693b13cf8b250ef713091849e20bf81a5a4b0c10196e1076f4d09b24",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-066",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "770368ab3e4afbbe0a67c61027f3627e608e7ff7f1af0811decf77e25d92abb5",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-067",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "59d23c367dc0b0ef7983df15a4df469e9e1113dfed6e18588bc4ed966f61b6f4",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-068",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "9b05f967c2276b1a41bead102b4a4631357fa7a8e3c4cc7fce18522d923de74d",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-069",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "58136a8bc113c05a91ad3ed17993cf4d477ef21aa4840a31bf29a479d451c068",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-070",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "9a51f073ff6ad25780995bfaba240c1731d7251a54c0364fd1cd4e1fc1f0f675",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-071",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "960a6bb5d4f3fcb1769bf186112406198f5a845d75a85793da22978cf1045772",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-072",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "7579ed1f4ee5782d70b24e413e29102921a9ab5847796f14aba5e0d2a9769b81",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-073",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "2245e0fc93b99127a9c31345f6d600568aed3ff481124a4b7b6257d2854d5648",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-074",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "730d87efbdf904ee7df25fc5820d6358d2bbf146b9afd376bc74640235e9ac63",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-075",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "cfc18c89979b5f49c4fe158c0e98ee7ad5e360d3456ad6d24bf0638eee6829e6",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-076",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "8f39c99f40aaefcdc4adf0beda19719fe660375e01557975288b1a79c1ffb3ab",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-077",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "79cad8818726aada74f5991a69dfac3f39d3c2f8f3dcebfb63a9dfdd5baf471b",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-078",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "6a7ecd769bfbcff7796913160c6379859fecf2c7525b1775dd76376c1179b743",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-079",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "501592230dbd9d0b7e925a771ed4cfc1347ce90f159d5ec32c3c2074a359f78c",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-080",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "97c9d82dddc6f5b22ad5dd1e937fb6cfd8c04d0318bc49c7d369a9b46e5de014",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-081",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "25f030c032caa51d93ad24821e7dd018ce419f8acc0446c475ae227c7cab7564",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-082",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "66e6402c06aa7c0842996139e3257c12efcbab0d02d2c03ec4fb0c2a16df991c",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-083",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "b501d19848911845a8be92bbcbfd58286faa05d203326fdd83bd14f4692170a0",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-084",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "eb18b1a1ac12a64737bd9526dbe8386ab7f4609fb69f9eed7afeac3c8f9a418e",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-085",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "ea7c2ed02971109d51fe7e1091569c85b475cea3a3ed0a633125addad5ddcc05",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-086",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "74689197bbf258fc0b3ca70236aa54f3947a390303b693bdc88747d9bf8e0744",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-087",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "7914c2bd56e8b578fee5c7d570765d7eebacc4c914092fb1f103f411e4e3b668",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-088",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "c9a8cbf2b6dda7639f7ed90aab083085372f4d65c05eb05234523003adae0399",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-089",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "1246662680fda2bb9784873cd1755d7412b3aba92514750284f57b0905c99688",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    },
+    {
+      "id": "p-w-090-090",
+      "reviewed": true,
+      "owner_approved": true,
+      "content_sha256": "7f89a44f41c0bd1b76b16d4043ee5da8085a3c480a2770c84bf0cf467a92662f",
+      "review_record": "gate1/docs/REVIEW_WRITING90_BY_MUSE_20261118.md",
+      "owner_approval_record": "gate1/docs/OWNER_APPROVAL_WRITING90_20261118.md"
+    }
+  ]
+}

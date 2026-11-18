@@ -1,0 +1,2606 @@
+{
+  "schema_version": 1,
+  "data_version": "writing-v090-1",
+  "human_review_policy": "both_review_and_owner_approval_required",
+  "source": "authored TSV; draft only, not approved for live tests",
+  "questions": [
+    {
+      "id": "p-w-090-001",
+      "kind": "writing",
+      "vocab_id": "v-w090-001",
+      "target_kanji": [
+        "機",
+        "会"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "留学する",
+      "sentence_target": "きかい",
+      "sentence_after": "を得た。",
+      "answer": "機会",
+      "accepted_answers": [
+        "機会"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "50e1b5fb3b1956b61d1454f92fe4bb21c0cc1184139331c5bca0d12b2f93e02a"
+    },
+    {
+      "id": "p-w-090-002",
+      "kind": "writing",
+      "vocab_id": "v-w090-002",
+      "target_kanji": [
+        "機",
+        "械"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "工場の",
+      "sentence_target": "きかい",
+      "sentence_after": "を点検した。",
+      "answer": "機械",
+      "accepted_answers": [
+        "機械"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "ed12fad6a6e45005d88eb3899ff0b444c289163f33f34a545a0ea229b5afa95f"
+    },
+    {
+      "id": "p-w-090-003",
+      "kind": "writing",
+      "vocab_id": "v-w090-003",
+      "target_kanji": [
+        "意",
+        "志"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "最後までやり抜く",
+      "sentence_target": "いし",
+      "sentence_after": "を持つ。",
+      "answer": "意志",
+      "accepted_answers": [
+        "意志"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "5924ae76c8f1af513416a689da1a450b2f95e866590f9ff237b5fcb3d69515a8"
+    },
+    {
+      "id": "p-w-090-004",
+      "kind": "writing",
+      "vocab_id": "v-w090-004",
+      "target_kanji": [
+        "意",
+        "思"
+      ],
+      "target_grade": "小3",
+      "sentence_before": "相手の",
+      "sentence_target": "いし",
+      "sentence_after": "を尊重する。",
+      "answer": "意思",
+      "accepted_answers": [
+        "意思"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "d79f3ca525403a63fa3f496ca92601390f5d1ed97f656a2ec6bbf0ab6ed4a0e5"
+    },
+    {
+      "id": "p-w-090-005",
+      "kind": "writing",
+      "vocab_id": "v-w090-005",
+      "target_kanji": [
+        "解",
+        "答"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "試験問題の",
+      "sentence_target": "かいとう",
+      "sentence_after": "を確認した。",
+      "answer": "解答",
+      "accepted_answers": [
+        "解答"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "c3f72ad96d9e19a6e5175923c4309daa7efb50be4842128beb88c15708175e8c"
+    },
+    {
+      "id": "p-w-090-006",
+      "kind": "writing",
+      "vocab_id": "v-w090-006",
+      "target_kanji": [
+        "回",
+        "答"
+      ],
+      "target_grade": "小2",
+      "sentence_before": "アンケートへの",
+      "sentence_target": "かいとう",
+      "sentence_after": "を集計する。",
+      "answer": "回答",
+      "accepted_answers": [
+        "回答"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "6222cd5a24bdc3b5fbac342895a30fe77f44c74aa78dbda1b64f097af169bd70"
+    },
+    {
+      "id": "p-w-090-007",
+      "kind": "writing",
+      "vocab_id": "v-w090-007",
+      "target_kanji": [
+        "対",
+        "象"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "調査の",
+      "sentence_target": "たいしょう",
+      "sentence_after": "を中学生に絞る。",
+      "answer": "対象",
+      "accepted_answers": [
+        "対象"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "ad71ec5e5a4e2578d0eb9a9e5b7a09f898ed526609e80ba6954d04a41842a9b8"
+    },
+    {
+      "id": "p-w-090-008",
+      "kind": "writing",
+      "vocab_id": "v-w090-008",
+      "target_kanji": [
+        "対",
+        "照"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "二つの文章を",
+      "sentence_target": "たいしょう",
+      "sentence_after": "して読む。",
+      "answer": "対照",
+      "accepted_answers": [
+        "対照"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "932aad96b8168cd0dcbe45c7935e54058dc281f13470b8078eb73550fa263d0d"
+    },
+    {
+      "id": "p-w-090-009",
+      "kind": "writing",
+      "vocab_id": "v-w090-009",
+      "target_kanji": [
+        "保",
+        "証"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "商品の品質を",
+      "sentence_target": "ほしょう",
+      "sentence_after": "する。",
+      "answer": "保証",
+      "accepted_answers": [
+        "保証"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "6efb8172c5928e5d2d41fc2cf8f81fd2d32f93c0f9a79c9623ab29b0d18b31dc"
+    },
+    {
+      "id": "p-w-090-010",
+      "kind": "writing",
+      "vocab_id": "v-w090-010",
+      "target_kanji": [
+        "保",
+        "障"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "国民の権利を",
+      "sentence_target": "ほしょう",
+      "sentence_after": "する。",
+      "answer": "保障",
+      "accepted_answers": [
+        "保障"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "ec864ae487ad5332d47d8edc72f8dc43c5dc939bd2c3eb0fb36d3667edcfbe0e"
+    },
+    {
+      "id": "p-w-090-011",
+      "kind": "writing",
+      "vocab_id": "v-w090-011",
+      "target_kanji": [
+        "補",
+        "償"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "事故の損害を",
+      "sentence_target": "ほしょう",
+      "sentence_after": "する。",
+      "answer": "補償",
+      "accepted_answers": [
+        "補償"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "bae2bc9f645cb7f7619c8d4871853fe9319c77149d3bdf0ae031e827f0bd962a"
+    },
+    {
+      "id": "p-w-090-012",
+      "kind": "writing",
+      "vocab_id": "v-w090-012",
+      "target_kanji": [
+        "制",
+        "作"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "文化祭の看板を",
+      "sentence_target": "せいさく",
+      "sentence_after": "する。",
+      "answer": "制作",
+      "accepted_answers": [
+        "制作"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "cf376195a5280ea134542dcb03edc67ac6babc98d41908895ac41d7c9beb4b4c"
+    },
+    {
+      "id": "p-w-090-013",
+      "kind": "writing",
+      "vocab_id": "v-w090-013",
+      "target_kanji": [
+        "製",
+        "作"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "工場で部品を",
+      "sentence_target": "せいさく",
+      "sentence_after": "する。",
+      "answer": "製作",
+      "accepted_answers": [
+        "製作"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "779244076bbbbae042e325349149e197572c33df26392bfad3efb9edc0dc368f"
+    },
+    {
+      "id": "p-w-090-014",
+      "kind": "writing",
+      "vocab_id": "v-w090-014",
+      "target_kanji": [
+        "関",
+        "心"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "環境問題に",
+      "sentence_target": "かんしん",
+      "sentence_after": "を持つ。",
+      "answer": "関心",
+      "accepted_answers": [
+        "関心"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "cd162f10d5eefcd9acab9cd0b7f6ecaddce9788604e9f7cc1d6d1ffc4ed2dd02"
+    },
+    {
+      "id": "p-w-090-015",
+      "kind": "writing",
+      "vocab_id": "v-w090-015",
+      "target_kanji": [
+        "感",
+        "心"
+      ],
+      "target_grade": "小3",
+      "sentence_before": "友人の努力に",
+      "sentence_target": "かんしん",
+      "sentence_after": "した。",
+      "answer": "感心",
+      "accepted_answers": [
+        "感心"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "f3c05a977ff9f044daabc1adb430e798b47792690dfad952c88da98169b76dd9"
+    },
+    {
+      "id": "p-w-090-016",
+      "kind": "writing",
+      "vocab_id": "v-w090-016",
+      "target_kanji": [
+        "異",
+        "常"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "機械に",
+      "sentence_target": "いじょう",
+      "sentence_after": "が見つかった。",
+      "answer": "異常",
+      "accepted_answers": [
+        "異常"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "fc529c924a616f3c66221d5e7d310720005ca8bb8de011fe1b1df9dfb4610852"
+    },
+    {
+      "id": "p-w-090-017",
+      "kind": "writing",
+      "vocab_id": "v-w090-017",
+      "target_kanji": [
+        "性",
+        "格"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "友人の",
+      "sentence_target": "せいかく",
+      "sentence_after": "をよく知っている。",
+      "answer": "性格",
+      "accepted_answers": [
+        "性格"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "a672f61d318c62a1d5400290575e43791e40e85a43a2acb44eb1729973660480"
+    },
+    {
+      "id": "p-w-090-018",
+      "kind": "writing",
+      "vocab_id": "v-w090-018",
+      "target_kanji": [
+        "正",
+        "確"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "数値を",
+      "sentence_target": "せいかく",
+      "sentence_after": "に記録する。",
+      "answer": "正確",
+      "accepted_answers": [
+        "正確"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "20ac003d068db1f076d15a67c9601621b650c999564caf5b523d0d2ce8fde209"
+    },
+    {
+      "id": "p-w-090-019",
+      "kind": "writing",
+      "vocab_id": "v-w090-019",
+      "target_kanji": [
+        "速"
+      ],
+      "target_grade": "小3",
+      "sentence_before": "選手が",
+      "sentence_target": "はや",
+      "sentence_after": "くゴールへ向かった。",
+      "answer": "速",
+      "accepted_answers": [
+        "速"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "87eec2702c4be209fb6cadc8c249cb240e1de9425dbeac37bb17fb145aa46bd8"
+    },
+    {
+      "id": "p-w-090-020",
+      "kind": "writing",
+      "vocab_id": "v-w090-020",
+      "target_kanji": [
+        "効",
+        "率"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "勉強の",
+      "sentence_target": "こうりつ",
+      "sentence_after": "を上げる。",
+      "answer": "効率",
+      "accepted_answers": [
+        "効率"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "bd91edb1a4b49802da52a754424d3cc8b8264fd31b358d8f5a9a051ca1fc1500"
+    },
+    {
+      "id": "p-w-090-021",
+      "kind": "writing",
+      "vocab_id": "v-w090-021",
+      "target_kanji": [
+        "公",
+        "立"
+      ],
+      "target_grade": "小2",
+      "sentence_before": "地元の",
+      "sentence_target": "こうりつ",
+      "sentence_after": "高校に進学する。",
+      "answer": "公立",
+      "accepted_answers": [
+        "公立"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "0a72bcbb3adcad67651c0182561545911e0923a867136c30843783cc2af9c05a"
+    },
+    {
+      "id": "p-w-090-022",
+      "kind": "writing",
+      "vocab_id": "v-w090-022",
+      "target_kanji": [
+        "私",
+        "立"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "近くの",
+      "sentence_target": "しりつ",
+      "sentence_after": "高校を見学した。",
+      "answer": "私立",
+      "accepted_answers": [
+        "私立"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "2f37aa3b57a5e9bbaef08f746eaadc6242953c7581e85abe32ab97034a8cd6c1"
+    },
+    {
+      "id": "p-w-090-023",
+      "kind": "writing",
+      "vocab_id": "v-w090-023",
+      "target_kanji": [
+        "早"
+      ],
+      "target_grade": "小1",
+      "sentence_before": "明日は",
+      "sentence_target": "はや",
+      "sentence_after": "く起きよう。",
+      "answer": "早",
+      "accepted_answers": [
+        "早"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "15828b04da65ab29a0ef2743a9558ccceb4e11462ce617032652b371d2d9e5ea"
+    },
+    {
+      "id": "p-w-090-024",
+      "kind": "writing",
+      "vocab_id": "v-w090-024",
+      "target_kanji": [
+        "史",
+        "料"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "昔の暮らしを伝える",
+      "sentence_target": "しりょう",
+      "sentence_after": "が残る。",
+      "answer": "史料",
+      "accepted_answers": [
+        "史料"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "2a838a84a7cc484312995dac8d269eddea160356d51d9c4be49fff89161a14c4"
+    },
+    {
+      "id": "p-w-090-025",
+      "kind": "writing",
+      "vocab_id": "v-w090-025",
+      "target_kanji": [
+        "証",
+        "明"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "自分の主張を",
+      "sentence_target": "しょうめい",
+      "sentence_after": "する。",
+      "answer": "証明",
+      "accepted_answers": [
+        "証明"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "371ab7ba10c61ba25e76162cd4117aebf4e27385412d0ed26feb9402a08d8070"
+    },
+    {
+      "id": "p-w-090-026",
+      "kind": "writing",
+      "vocab_id": "v-w090-026",
+      "target_kanji": [
+        "暖"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "冬は",
+      "sentence_target": "あたた",
+      "sentence_after": "かい服装で出かける。",
+      "answer": "暖",
+      "accepted_answers": [
+        "暖"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "2566aa69e7472158467f04e5e516069196b93a2696fee25c846f9b89fbab6376"
+    },
+    {
+      "id": "p-w-090-027",
+      "kind": "writing",
+      "vocab_id": "v-w090-027",
+      "target_kanji": [
+        "主",
+        "張"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "文章から筆者の",
+      "sentence_target": "しゅちょう",
+      "sentence_after": "を読み取る。",
+      "answer": "主張",
+      "accepted_answers": [
+        "主張"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "4044f4b9339c65bd2d078541e40c6168509f494d36de417b88e30bd0ec22d8a5"
+    },
+    {
+      "id": "p-w-090-028",
+      "kind": "writing",
+      "vocab_id": "v-w090-028",
+      "target_kanji": [
+        "提",
+        "案"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "新しい方法を",
+      "sentence_target": "ていあん",
+      "sentence_after": "する。",
+      "answer": "提案",
+      "accepted_answers": [
+        "提案"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "69162bb34ca4d47a8b884f34c684bf9b48e28e927c39671acf90ee380741ee2d"
+    },
+    {
+      "id": "p-w-090-029",
+      "kind": "writing",
+      "vocab_id": "v-w090-029",
+      "target_kanji": [
+        "比",
+        "較"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "二つの資料を",
+      "sentence_target": "ひかく",
+      "sentence_after": "する。",
+      "answer": "比較",
+      "accepted_answers": [
+        "比較"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "2b0154a3cbc9f84c637a3ffc699d4fa945df7714b92e57598a3fd09d314094df"
+    },
+    {
+      "id": "p-w-090-030",
+      "kind": "writing",
+      "vocab_id": "v-w090-030",
+      "target_kanji": [
+        "分",
+        "析"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "実験結果を",
+      "sentence_target": "ぶんせき",
+      "sentence_after": "する。",
+      "answer": "分析",
+      "accepted_answers": [
+        "分析"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "b84891ee539e372a3410e4dca6e2e0a666468112823697a47d9ab38dfa8a370d"
+    },
+    {
+      "id": "p-w-090-031",
+      "kind": "writing",
+      "vocab_id": "v-w090-031",
+      "target_kanji": [
+        "温"
+      ],
+      "target_grade": "小3",
+      "sentence_before": "このスープは",
+      "sentence_target": "あたた",
+      "sentence_after": "かい。",
+      "answer": "温",
+      "accepted_answers": [
+        "温"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "7f2b5880201016041cff549ba84f555d68891190b5040b3073aa9d4ecc2a4473"
+    },
+    {
+      "id": "p-w-090-032",
+      "kind": "writing",
+      "vocab_id": "v-w090-032",
+      "target_kanji": [
+        "収"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "作品を棚に",
+      "sentence_target": "おさ",
+      "sentence_after": "める。",
+      "answer": "収",
+      "accepted_answers": [
+        "収"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "03ebb6b25a37425f5cb6eefab45c66deed61e65004899748655e3d15d4744ae1"
+    },
+    {
+      "id": "p-w-090-033",
+      "kind": "writing",
+      "vocab_id": "v-w090-033",
+      "target_kanji": [
+        "現",
+        "象"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "自然界の不思議な",
+      "sentence_target": "げんしょう",
+      "sentence_after": "を調べる。",
+      "answer": "現象",
+      "accepted_answers": [
+        "現象"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "a1a24ffed35ccb09a2050357295767064df8c3f47c7fd8bbd266d7de04dc8bc8"
+    },
+    {
+      "id": "p-w-090-034",
+      "kind": "writing",
+      "vocab_id": "v-w090-034",
+      "target_kanji": [
+        "納"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "期限までに税金を",
+      "sentence_target": "おさ",
+      "sentence_after": "める。",
+      "answer": "納",
+      "accepted_answers": [
+        "納"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "1c3b28a1059d343caf7ee3a151206314ab93fa86a3c02999d99649835c9fcfb2"
+    },
+    {
+      "id": "p-w-090-035",
+      "kind": "writing",
+      "vocab_id": "v-w090-035",
+      "target_kanji": [
+        "測"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "川の水位を",
+      "sentence_target": "はか",
+      "sentence_after": "る。",
+      "answer": "測",
+      "accepted_answers": [
+        "測"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "702612e812bef5cee2ccabdba89fcfa8815c1d894e23dd676f7a7549d45ae855"
+    },
+    {
+      "id": "p-w-090-036",
+      "kind": "writing",
+      "vocab_id": "v-w090-036",
+      "target_kanji": [
+        "影",
+        "響"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "天候が農作物に",
+      "sentence_target": "えいきょう",
+      "sentence_after": "を与える。",
+      "answer": "影響",
+      "accepted_answers": [
+        "影響"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "714aeb11426e1a03766a58067c58a02fa787a43f3bf71a33c5369c71ec2fba97"
+    },
+    {
+      "id": "p-w-090-037",
+      "kind": "writing",
+      "vocab_id": "v-w090-037",
+      "target_kanji": [
+        "環",
+        "境"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "身近な",
+      "sentence_target": "かんきょう",
+      "sentence_after": "を守る。",
+      "answer": "環境",
+      "accepted_answers": [
+        "環境"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "1ad1ddf6e8798c013ad82be98d02405f4bfb83c343d2da8a5689ea3b263828ba"
+    },
+    {
+      "id": "p-w-090-038",
+      "kind": "writing",
+      "vocab_id": "v-w090-038",
+      "target_kanji": [
+        "計"
+      ],
+      "target_grade": "小2",
+      "sentence_before": "走る時間を",
+      "sentence_target": "はか",
+      "sentence_after": "る。",
+      "answer": "計",
+      "accepted_answers": [
+        "計"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "baa0475395372426b6ff271af1a74211663685727af53e040f5b9b5e3eafd6df"
+    },
+    {
+      "id": "p-w-090-039",
+      "kind": "writing",
+      "vocab_id": "v-w090-039",
+      "target_kanji": [
+        "節",
+        "約"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "水を",
+      "sentence_target": "せつやく",
+      "sentence_after": "して使う。",
+      "answer": "節約",
+      "accepted_answers": [
+        "節約"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "48a223d353b34ef2b331c8d8d8b564e5bb7bbde8c7faf309dbcc3160d71d1f7b"
+    },
+    {
+      "id": "p-w-090-040",
+      "kind": "writing",
+      "vocab_id": "v-w090-040",
+      "target_kanji": [
+        "貿",
+        "易"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "外国との",
+      "sentence_target": "ぼうえき",
+      "sentence_after": "が盛んになる。",
+      "answer": "貿易",
+      "accepted_answers": [
+        "貿易"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "f145fcbd077a9b5868dba48c0d91f0020def76220c474a65be000b3a9a5ba638"
+    },
+    {
+      "id": "p-w-090-041",
+      "kind": "writing",
+      "vocab_id": "v-w090-041",
+      "target_kanji": [
+        "輸",
+        "出"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "工業製品を海外に",
+      "sentence_target": "ゆしゅつ",
+      "sentence_after": "する。",
+      "answer": "輸出",
+      "accepted_answers": [
+        "輸出"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "89e7d2bdc35361cb49f5173554ff1591cc1a124705791a5c89cc26be504b320e"
+    },
+    {
+      "id": "p-w-090-042",
+      "kind": "writing",
+      "vocab_id": "v-w090-042",
+      "target_kanji": [
+        "輸",
+        "入"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "外国から食料を",
+      "sentence_target": "ゆにゅう",
+      "sentence_after": "する。",
+      "answer": "輸入",
+      "accepted_answers": [
+        "輸入"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "2cb13c2a8d306ddda524068cf62a26626b369e0f33b17fb48704f02652bd59a7"
+    },
+    {
+      "id": "p-w-090-043",
+      "kind": "writing",
+      "vocab_id": "v-w090-043",
+      "target_kanji": [
+        "需",
+        "要"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "商品の",
+      "sentence_target": "じゅよう",
+      "sentence_after": "が高まる。",
+      "answer": "需要",
+      "accepted_answers": [
+        "需要"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "b8c7494034858c48c9ddb1054c65a7b581d18b46bc6b1e1e41f77267ff3f9fd6"
+    },
+    {
+      "id": "p-w-090-044",
+      "kind": "writing",
+      "vocab_id": "v-w090-044",
+      "target_kanji": [
+        "供",
+        "給"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "電力を安定して",
+      "sentence_target": "きょうきゅう",
+      "sentence_after": "する。",
+      "answer": "供給",
+      "accepted_answers": [
+        "供給"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "9d670f1ff0f715bf3908c91a3b24a4cabe6a80d32c1507cb36aa54f1ab60e638"
+    },
+    {
+      "id": "p-w-090-045",
+      "kind": "writing",
+      "vocab_id": "v-w090-045",
+      "target_kanji": [
+        "図"
+      ],
+      "target_grade": "小2",
+      "sentence_before": "チームの連携を",
+      "sentence_target": "はか",
+      "sentence_after": "る。",
+      "answer": "図",
+      "accepted_answers": [
+        "図"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "61a8d3706f569046e512b86c169e44a7e51d4077c8185a78e4c0fc8404b4aa3d"
+    },
+    {
+      "id": "p-w-090-046",
+      "kind": "writing",
+      "vocab_id": "v-w090-046",
+      "target_kanji": [
+        "努"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "問題の解決に",
+      "sentence_target": "つと",
+      "sentence_after": "める。",
+      "answer": "努",
+      "accepted_answers": [
+        "努"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "96192227467b037f3e17f27fd95c37cb5a887b75d3bb4a543b4c672c53793c61"
+    },
+    {
+      "id": "p-w-090-047",
+      "kind": "writing",
+      "vocab_id": "v-w090-047",
+      "target_kanji": [
+        "政",
+        "治"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "国の",
+      "sentence_target": "せいじ",
+      "sentence_after": "の仕組みを学ぶ。",
+      "answer": "政治",
+      "accepted_answers": [
+        "政治"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "f7b69d8549cd273207332ae49ea15cca451d780efb9c335c80f3b317c88fe0e0"
+    },
+    {
+      "id": "p-w-090-048",
+      "kind": "writing",
+      "vocab_id": "v-w090-048",
+      "target_kanji": [
+        "権",
+        "利"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "誰もが持つ",
+      "sentence_target": "けんり",
+      "sentence_after": "を守る。",
+      "answer": "権利",
+      "accepted_answers": [
+        "権利"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "cad5bde136efda13ab1dda5a84a6d758a25de1b01f0170a5a9c926352615d072"
+    },
+    {
+      "id": "p-w-090-049",
+      "kind": "writing",
+      "vocab_id": "v-w090-049",
+      "target_kanji": [
+        "義",
+        "務"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "社会の一員として",
+      "sentence_target": "ぎむ",
+      "sentence_after": "を果たす。",
+      "answer": "義務",
+      "accepted_answers": [
+        "義務"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "f57c9c2c7ead3340f6c87c249813ea1d9e429cc219ccd8d4934755f84a269564"
+    },
+    {
+      "id": "p-w-090-050",
+      "kind": "writing",
+      "vocab_id": "v-w090-050",
+      "target_kanji": [
+        "制",
+        "度"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "新しい",
+      "sentence_target": "せいど",
+      "sentence_after": "が導入された。",
+      "answer": "制度",
+      "accepted_answers": [
+        "制度"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "5ca6ae9c687ef658eafe91aee3ea95e68523d6529e901aea80a545f98faacc55"
+    },
+    {
+      "id": "p-w-090-051",
+      "kind": "writing",
+      "vocab_id": "v-w090-051",
+      "target_kanji": [
+        "憲",
+        "法"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "日本国",
+      "sentence_target": "けんぽう",
+      "sentence_after": "について学ぶ。",
+      "answer": "憲法",
+      "accepted_answers": [
+        "憲法"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "c66533567546435a19744cd221367b7609674fd660755d1df402290bb673a5b7"
+    },
+    {
+      "id": "p-w-090-052",
+      "kind": "writing",
+      "vocab_id": "v-w090-052",
+      "target_kanji": [
+        "務"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "学級会の司会を",
+      "sentence_target": "つと",
+      "sentence_after": "める。",
+      "answer": "務",
+      "accepted_answers": [
+        "務"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "719b830408b7ba7ead157e2210d3313cf5aeac3c2dbc69fbab4fc64f27ebe61c"
+    },
+    {
+      "id": "p-w-090-053",
+      "kind": "writing",
+      "vocab_id": "v-w090-053",
+      "target_kanji": [
+        "裁",
+        "判"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "公開の",
+      "sentence_target": "さいばん",
+      "sentence_after": "を傍聴する。",
+      "answer": "裁判",
+      "accepted_answers": [
+        "裁判"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "ac980d00a4b25b02219aac41387e5b0fb764c7ad11e380400c8775f4fb399561"
+    },
+    {
+      "id": "p-w-090-054",
+      "kind": "writing",
+      "vocab_id": "v-w090-054",
+      "target_kanji": [
+        "議",
+        "論"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "班の中で活発な",
+      "sentence_target": "ぎろん",
+      "sentence_after": "を交わす。",
+      "answer": "議論",
+      "accepted_answers": [
+        "議論"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "e995e0c9e418ada9a5ee0b6855c533ed98e11c46ad7abbb8d86bbc77fdfe5206"
+    },
+    {
+      "id": "p-w-090-055",
+      "kind": "writing",
+      "vocab_id": "v-w090-055",
+      "target_kanji": [
+        "討",
+        "論"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "社会の課題について",
+      "sentence_target": "とうろん",
+      "sentence_after": "を行う。",
+      "answer": "討論",
+      "accepted_answers": [
+        "討論"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "e9e6f58047d24a5bac675caf399b620b4cbf67a279c4d412d1ce7efc0b03459d"
+    },
+    {
+      "id": "p-w-090-056",
+      "kind": "writing",
+      "vocab_id": "v-w090-056",
+      "target_kanji": [
+        "協",
+        "力"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "仲間と",
+      "sentence_target": "きょうりょく",
+      "sentence_after": "して作業する。",
+      "answer": "協力",
+      "accepted_answers": [
+        "協力"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "b57f6359984522d16bb5af0417dcbe4c640e32ec18fbebbf8bac5aa488790c1e"
+    },
+    {
+      "id": "p-w-090-057",
+      "kind": "writing",
+      "vocab_id": "v-w090-057",
+      "target_kanji": [
+        "責",
+        "任"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "自分の行動に",
+      "sentence_target": "せきにん",
+      "sentence_after": "を持つ。",
+      "answer": "責任",
+      "accepted_answers": [
+        "責任"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "13c1ea63401b33e35c28f4426412f108e9367d506294d638ba49663e36184c0f"
+    },
+    {
+      "id": "p-w-090-058",
+      "kind": "writing",
+      "vocab_id": "v-w090-058",
+      "target_kanji": [
+        "努",
+        "力"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "目標に向かって",
+      "sentence_target": "どりょく",
+      "sentence_after": "を重ねる。",
+      "answer": "努力",
+      "accepted_answers": [
+        "努力"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "87c0888bcf7f29e193b93924d7fc88e3dece82429e3f4c9d7d166f09a1fc12ab"
+    },
+    {
+      "id": "p-w-090-059",
+      "kind": "writing",
+      "vocab_id": "v-w090-059",
+      "target_kanji": [
+        "挑",
+        "戦"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "難しい課題に",
+      "sentence_target": "ちょうせん",
+      "sentence_after": "する。",
+      "answer": "挑戦",
+      "accepted_answers": [
+        "挑戦"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "93886f57a691c1211467e4e13bbb46f21c4afd7e313b22f685a138ff30e431e2"
+    },
+    {
+      "id": "p-w-090-060",
+      "kind": "writing",
+      "vocab_id": "v-w090-060",
+      "target_kanji": [
+        "継",
+        "続"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "毎日の学習を",
+      "sentence_target": "けいぞく",
+      "sentence_after": "する。",
+      "answer": "継続",
+      "accepted_answers": [
+        "継続"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "0bf4f1795135c4689a105420a31776cd977551e0b059226f9f0a19d4c9fe91ca"
+    },
+    {
+      "id": "p-w-090-061",
+      "kind": "writing",
+      "vocab_id": "v-w090-061",
+      "target_kanji": [
+        "改",
+        "善"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "生活習慣を",
+      "sentence_target": "かいぜん",
+      "sentence_after": "する。",
+      "answer": "改善",
+      "accepted_answers": [
+        "改善"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "763ed7692667d00af3e0ac42cb300388e6f87c1189f42919533e43a12f5c72a1"
+    },
+    {
+      "id": "p-w-090-062",
+      "kind": "writing",
+      "vocab_id": "v-w090-062",
+      "target_kanji": [
+        "発",
+        "展"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "町が大きく",
+      "sentence_target": "はってん",
+      "sentence_after": "する。",
+      "answer": "発展",
+      "accepted_answers": [
+        "発展"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "a8a4447792bce479db80a050f0268c855efe78ef8361c553b132609596868592"
+    },
+    {
+      "id": "p-w-090-063",
+      "kind": "writing",
+      "vocab_id": "v-w090-063",
+      "target_kanji": [
+        "伝",
+        "統"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "地域の",
+      "sentence_target": "でんとう",
+      "sentence_after": "を受け継ぐ。",
+      "answer": "伝統",
+      "accepted_answers": [
+        "伝統"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "35b20fde8808b37231ff9a0ae0abf2eb7292e9d051df606e86f8c24264dd124e"
+    },
+    {
+      "id": "p-w-090-064",
+      "kind": "writing",
+      "vocab_id": "v-w090-064",
+      "target_kanji": [
+        "文",
+        "化"
+      ],
+      "target_grade": "小3",
+      "sentence_before": "日本の",
+      "sentence_target": "ぶんか",
+      "sentence_after": "を海外に紹介する。",
+      "answer": "文化",
+      "accepted_answers": [
+        "文化"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "7086482bb320b1f3cc0893f3fc927f0f946f1e62c58f4525b65f8f846a8b7fc1"
+    },
+    {
+      "id": "p-w-090-065",
+      "kind": "writing",
+      "vocab_id": "v-w090-065",
+      "target_kanji": [
+        "歴",
+        "史"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "地域の",
+      "sentence_target": "れきし",
+      "sentence_after": "を調べる。",
+      "answer": "歴史",
+      "accepted_answers": [
+        "歴史"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "4ca62101693b13cf8b250ef713091849e20bf81a5a4b0c10196e1076f4d09b24"
+    },
+    {
+      "id": "p-w-090-066",
+      "kind": "writing",
+      "vocab_id": "v-w090-066",
+      "target_kanji": [
+        "貴",
+        "重"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "昔の写真は",
+      "sentence_target": "きちょう",
+      "sentence_after": "な資料だ。",
+      "answer": "貴重",
+      "accepted_answers": [
+        "貴重"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "770368ab3e4afbbe0a67c61027f3627e608e7ff7f1af0811decf77e25d92abb5"
+    },
+    {
+      "id": "p-w-090-067",
+      "kind": "writing",
+      "vocab_id": "v-w090-067",
+      "target_kanji": [
+        "複",
+        "雑"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "仕組みが",
+      "sentence_target": "ふくざつ",
+      "sentence_after": "で分かりにくい。",
+      "answer": "複雑",
+      "accepted_answers": [
+        "複雑"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "59d23c367dc0b0ef7983df15a4df469e9e1113dfed6e18588bc4ed966f61b6f4"
+    },
+    {
+      "id": "p-w-090-068",
+      "kind": "writing",
+      "vocab_id": "v-w090-068",
+      "target_kanji": [
+        "慎",
+        "重"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "大事な判断は",
+      "sentence_target": "しんちょう",
+      "sentence_after": "に行う。",
+      "answer": "慎重",
+      "accepted_answers": [
+        "慎重"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "9b05f967c2276b1a41bead102b4a4631357fa7a8e3c4cc7fce18522d923de74d"
+    },
+    {
+      "id": "p-w-090-069",
+      "kind": "writing",
+      "vocab_id": "v-w090-069",
+      "target_kanji": [
+        "謙",
+        "虚"
+      ],
+      "target_grade": "中2",
+      "sentence_before": "成功しても",
+      "sentence_target": "けんきょ",
+      "sentence_after": "な姿勢を忘れない。",
+      "answer": "謙虚",
+      "accepted_answers": [
+        "謙虚"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "58136a8bc113c05a91ad3ed17993cf4d477ef21aa4840a31bf29a479d451c068"
+    },
+    {
+      "id": "p-w-090-070",
+      "kind": "writing",
+      "vocab_id": "v-w090-070",
+      "target_kanji": [
+        "尊",
+        "重"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "互いの意見を",
+      "sentence_target": "そんちょう",
+      "sentence_after": "する。",
+      "answer": "尊重",
+      "accepted_answers": [
+        "尊重"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "9a51f073ff6ad25780995bfaba240c1731d7251a54c0364fd1cd4e1fc1f0f675"
+    },
+    {
+      "id": "p-w-090-071",
+      "kind": "writing",
+      "vocab_id": "v-w090-071",
+      "target_kanji": [
+        "誠",
+        "実"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "友人に",
+      "sentence_target": "せいじつ",
+      "sentence_after": "な態度で接する。",
+      "answer": "誠実",
+      "accepted_answers": [
+        "誠実"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "960a6bb5d4f3fcb1769bf186112406198f5a845d75a85793da22978cf1045772"
+    },
+    {
+      "id": "p-w-090-072",
+      "kind": "writing",
+      "vocab_id": "v-w090-072",
+      "target_kanji": [
+        "豊",
+        "富"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "経験が",
+      "sentence_target": "ほうふ",
+      "sentence_after": "な人に話を聞く。",
+      "answer": "豊富",
+      "accepted_answers": [
+        "豊富"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "7579ed1f4ee5782d70b24e413e29102921a9ab5847796f14aba5e0d2a9769b81"
+    },
+    {
+      "id": "p-w-090-073",
+      "kind": "writing",
+      "vocab_id": "v-w090-073",
+      "target_kanji": [
+        "厳",
+        "格"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "規則を",
+      "sentence_target": "げんかく",
+      "sentence_after": "に守る。",
+      "answer": "厳格",
+      "accepted_answers": [
+        "厳格"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "2245e0fc93b99127a9c31345f6d600568aed3ff481124a4b7b6257d2854d5648"
+    },
+    {
+      "id": "p-w-090-074",
+      "kind": "writing",
+      "vocab_id": "v-w090-074",
+      "target_kanji": [
+        "柔",
+        "軟"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "状況に応じて",
+      "sentence_target": "じゅうなん",
+      "sentence_after": "に対応する。",
+      "answer": "柔軟",
+      "accepted_answers": [
+        "柔軟"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "730d87efbdf904ee7df25fc5820d6358d2bbf146b9afd376bc74640235e9ac63"
+    },
+    {
+      "id": "p-w-090-075",
+      "kind": "writing",
+      "vocab_id": "v-w090-075",
+      "target_kanji": [
+        "勤"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "地元の会社に",
+      "sentence_target": "つと",
+      "sentence_after": "める。",
+      "answer": "勤",
+      "accepted_answers": [
+        "勤"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "okurigana"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "cfc18c89979b5f49c4fe158c0e98ee7ad5e360d3456ad6d24bf0638eee6829e6"
+    },
+    {
+      "id": "p-w-090-076",
+      "kind": "writing",
+      "vocab_id": "v-w090-076",
+      "target_kanji": [
+        "栄",
+        "養"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "食事の",
+      "sentence_target": "えいよう",
+      "sentence_after": "バランスを考える。",
+      "answer": "栄養",
+      "accepted_answers": [
+        "栄養"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "8f39c99f40aaefcdc4adf0beda19719fe660375e01557975288b1a79c1ffb3ab"
+    },
+    {
+      "id": "p-w-090-077",
+      "kind": "writing",
+      "vocab_id": "v-w090-077",
+      "target_kanji": [
+        "衛",
+        "生"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "食品の",
+      "sentence_target": "えいせい",
+      "sentence_after": "管理に注意する。",
+      "answer": "衛生",
+      "accepted_answers": [
+        "衛生"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "complex"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "79cad8818726aada74f5991a69dfac3f39d3c2f8f3dcebfb63a9dfdd5baf471b"
+    },
+    {
+      "id": "p-w-090-078",
+      "kind": "writing",
+      "vocab_id": "v-w090-078",
+      "target_kanji": [
+        "危",
+        "険"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "川の増水は",
+      "sentence_target": "きけん",
+      "sentence_after": "を伴う。",
+      "answer": "危険",
+      "accepted_answers": [
+        "危険"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "6a7ecd769bfbcff7796913160c6379859fecf2c7525b1775dd76376c1179b743"
+    },
+    {
+      "id": "p-w-090-079",
+      "kind": "writing",
+      "vocab_id": "v-w090-079",
+      "target_kanji": [
+        "避",
+        "難"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "地震に備えて",
+      "sentence_target": "ひなん",
+      "sentence_after": "訓練を行う。",
+      "answer": "避難",
+      "accepted_answers": [
+        "避難"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "501592230dbd9d0b7e925a771ed4cfc1347ce90f159d5ec32c3c2074a359f78c"
+    },
+    {
+      "id": "p-w-090-080",
+      "kind": "writing",
+      "vocab_id": "v-w090-080",
+      "target_kanji": [
+        "防",
+        "災"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "地域の",
+      "sentence_target": "ぼうさい",
+      "sentence_after": "計画を見直す。",
+      "answer": "防災",
+      "accepted_answers": [
+        "防災"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "97c9d82dddc6f5b22ad5dd1e937fb6cfd8c04d0318bc49c7d369a9b46e5de014"
+    },
+    {
+      "id": "p-w-090-081",
+      "kind": "writing",
+      "vocab_id": "v-w090-081",
+      "target_kanji": [
+        "収",
+        "穫"
+      ],
+      "target_grade": "中2",
+      "sentence_before": "秋に稲を",
+      "sentence_target": "しゅうかく",
+      "sentence_after": "する。",
+      "answer": "収穫",
+      "accepted_answers": [
+        "収穫"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "25f030c032caa51d93ad24821e7dd018ce419f8acc0446c475ae227c7cab7564"
+    },
+    {
+      "id": "p-w-090-082",
+      "kind": "writing",
+      "vocab_id": "v-w090-082",
+      "target_kanji": [
+        "耕",
+        "作"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "畑を",
+      "sentence_target": "こうさく",
+      "sentence_after": "する人が増えた。",
+      "answer": "耕作",
+      "accepted_answers": [
+        "耕作"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "66e6402c06aa7c0842996139e3257c12efcbab0d02d2c03ec4fb0c2a16df991c"
+    },
+    {
+      "id": "p-w-090-083",
+      "kind": "writing",
+      "vocab_id": "v-w090-083",
+      "target_kanji": [
+        "創",
+        "造"
+      ],
+      "target_grade": "小6",
+      "sentence_before": "新しい文化を",
+      "sentence_target": "そうぞう",
+      "sentence_after": "する。",
+      "answer": "創造",
+      "accepted_answers": [
+        "創造"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "b501d19848911845a8be92bbcbfd58286faa05d203326fdd83bd14f4692170a0"
+    },
+    {
+      "id": "p-w-090-084",
+      "kind": "writing",
+      "vocab_id": "v-w090-084",
+      "target_kanji": [
+        "想",
+        "像"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "未来の姿を",
+      "sentence_target": "そうぞう",
+      "sentence_after": "する。",
+      "answer": "想像",
+      "accepted_answers": [
+        "想像"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "homophone"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "eb18b1a1ac12a64737bd9526dbe8386ab7f4609fb69f9eed7afeac3c8f9a418e"
+    },
+    {
+      "id": "p-w-090-085",
+      "kind": "writing",
+      "vocab_id": "v-w090-085",
+      "target_kanji": [
+        "希",
+        "望"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "将来への",
+      "sentence_target": "きぼう",
+      "sentence_after": "を持つ。",
+      "answer": "希望",
+      "accepted_answers": [
+        "希望"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "ea7c2ed02971109d51fe7e1091569c85b475cea3a3ed0a633125addad5ddcc05"
+    },
+    {
+      "id": "p-w-090-086",
+      "kind": "writing",
+      "vocab_id": "v-w090-086",
+      "target_kanji": [
+        "期",
+        "待"
+      ],
+      "target_grade": "小3",
+      "sentence_before": "大会での活躍に",
+      "sentence_target": "きたい",
+      "sentence_after": "する。",
+      "answer": "期待",
+      "accepted_answers": [
+        "期待"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "74689197bbf258fc0b3ca70236aa54f3947a390303b693bdc88747d9bf8e0744"
+    },
+    {
+      "id": "p-w-090-087",
+      "kind": "writing",
+      "vocab_id": "v-w090-087",
+      "target_kanji": [
+        "感",
+        "謝"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "支えてくれた人に",
+      "sentence_target": "かんしゃ",
+      "sentence_after": "する。",
+      "answer": "感謝",
+      "accepted_answers": [
+        "感謝"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "7914c2bd56e8b578fee5c7d570765d7eebacc4c914092fb1f103f411e4e3b668"
+    },
+    {
+      "id": "p-w-090-088",
+      "kind": "writing",
+      "vocab_id": "v-w090-088",
+      "target_kanji": [
+        "反",
+        "省"
+      ],
+      "target_grade": "小4",
+      "sentence_before": "自分の失敗を",
+      "sentence_target": "はんせい",
+      "sentence_after": "する。",
+      "answer": "反省",
+      "accepted_answers": [
+        "反省"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "c9a8cbf2b6dda7639f7ed90aab083085372f4d65c05eb05234523003adae0399"
+    },
+    {
+      "id": "p-w-090-089",
+      "kind": "writing",
+      "vocab_id": "v-w090-089",
+      "target_kanji": [
+        "判",
+        "断"
+      ],
+      "target_grade": "小5",
+      "sentence_before": "状況を見て",
+      "sentence_target": "はんだん",
+      "sentence_after": "する。",
+      "answer": "判断",
+      "accepted_answers": [
+        "判断"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "1246662680fda2bb9784873cd1755d7412b3aba92514750284f57b0905c99688"
+    },
+    {
+      "id": "p-w-090-090",
+      "kind": "writing",
+      "vocab_id": "v-w090-090",
+      "target_kanji": [
+        "選",
+        "択"
+      ],
+      "target_grade": "中1",
+      "sentence_before": "進路の",
+      "sentence_target": "せんたく",
+      "sentence_after": "に迷う。",
+      "answer": "選択",
+      "accepted_answers": [
+        "選択"
+      ],
+      "tags": [
+        "high-school-entrance",
+        "writing-v090",
+        "important"
+      ],
+      "prefectures": [],
+      "source_year": null,
+      "source_format": "original_sentence_writing",
+      "source_type": "original_ai_draft",
+      "human_review_required": true,
+      "approval_status": "draft",
+      "content_sha256": "7f89a44f41c0bd1b76b16d4043ee5da8085a3c480a2770c84bf0cf467a92662f"
+    }
+  ]
+}
